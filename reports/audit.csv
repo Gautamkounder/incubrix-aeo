@@ -1,0 +1,10 @@
+url,canonical,h1_count,html_bytes,images,images_missing_alt,internal_links,jsonld_types,meta_desc_len,og_tags,redirected_to,status,title,title_len,ttfb_total_ms,viewport
+https://incubrix.com/,True,1,59146,15,1,31,,141,5,,200,IncuBrix | Create With Purpose. Publish Without Limits.,55,75,True
+https://incubrix.com/about.html,True,1,45301,14,5,30,,139,5,https://incubrix.com/about,200,About Us | IncuBrix | Building the Future of CreatorOps,55,142,True
+https://incubrix.com/how-it-works.html,True,1,37904,2,0,30,,121,5,https://incubrix.com/how-it-works,200,How IncuBrix Works | From Idea to Impact,40,185,True
+https://incubrix.com/faq.html,True,1,39459,2,0,31,,127,5,https://incubrix.com/faq,200,FAQ | IncuBrix | Frequently Asked Questions,43,127,True
+https://incubrix.com/pricing.html,True,1,36896,7,5,30,,111,5,https://incubrix.com/pricing,200,Pricing | IncuBrix Creator Studio Plans,39,114,True
+https://incubrix.com/contact.html,True,1,38260,3,0,30,,88,5,https://incubrix.com/contact,200,Contact & Support | IncuBrix,28,148,True
+https://incubrix.com/team.html,True,1,36540,8,0,30,,122,5,https://incubrix.com/team,200,Our Team | IncuBrix,19,162,True
+https://incubrix.com/careers.html,True,1,44975,0,0,31,,141,5,https://incubrix.com/careers,200,"Careers | IncuBrix, Build the Creator Operating System",54,223,True
+https://incubrix.com/manifesto.html,True,1,37077,0,0,1,,110,7,https://incubrix.com/manifesto,200,What we believe — IncuBrix,26,730,True

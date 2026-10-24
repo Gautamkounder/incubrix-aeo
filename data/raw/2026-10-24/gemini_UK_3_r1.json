@@ -1,0 +1,605 @@
+{
+ "answer": "Converting a podcast into a video can significantly boost its reach and engagement, especially on visual-first platforms like YouTube, Instagram, TikTok, and Facebook. There are several ways to transform your audio content into a compelling visual experience, ranging from simple static images to dynamic audiograms and AI-generated visuals. Most tools are globally accessible, so recommendations are not specifically limited to the UK.\n\nHere are the primary methods and recommended tools for converting your podcast into video:\n\n**1. Audiograms for Social Media Clips**\nAudiograms are short, visually engaging video clips that combine a snippet of your podcast audio with dynamic waveforms, captions, and imagery. They are ideal for promoting your podcast on social media.\n\n*   **Key Features to Look For:**\n    *   Animated waveforms that sync with your audio.\n    *   Automatic captions or subtitles to increase accessibility and engagement for viewers watching without sound.\n    *   Branding options (logo, custom colours, fonts, background images).\n    *   Multiple aspect ratios for different platforms (e.g., square for Instagram feeds, vertical for Reels/TikTok, landscape for YouTube).\n\n*   **Recommended Tools:**\n    *   **Headliner App:** This is a popular online tool for creating audiograms and social clips.\n    *   **Podsqueeze:** Utilises AI to identify captivating moments, generate subtitles, and create dynamic audiograms and video clips for various platforms like TikTok, YouTube, Instagram, and Facebook.\n    *   **Reap:** Offers an audiogram maker with animated waveforms, automatic captions, brand templates, and platform-ready layouts.\n    *   **Adobe Podcast:** Provides a free tool to create audiograms with waveform animations and captions.\n    *   **Audiogram (the tool):** Allows you to convert audio into engaging social video with customisable designs.\n    *   **Kapwing's Sound Wave Generator:** Transforms audio files into engaging videos with sound wave animations synced to an image or video background.\n    *   **Cleanvoice AI:** A free audiogram maker that allows you to add waveforms, background, podcast cover, and text to your audio clips.\n    *   **OpusClip:** Specialises in creating shareable video audiograms from podcast clips with waveform animations and automated captioning.\n    *   **Recast Studio:** Best for podcast-to-video repurposing, offering AI-powered highlights and dynamic captions for social-ready clips.\n    *   **SoundMadeSeen:** An AI-powered audiogram maker that automatically creates audiograms and can generate written content from your audio.\n    *   **Wavve:** Another well-known tool for creating audiograms with customisable visuals.\n    *   **EchoWave:** Helps create custom sound wave art and videos, allowing you to resize, reposition, and adjust the wave, and add text.\n\n**2. Static Image Video for Full Episodes**\nThis method involves pairing your full podcast audio with a static visual, typically your podcast cover art, a branded background, or a relevant image. This is a simple way to get your entire episode onto video platforms like YouTube.\n\n*   **How to do it:**\n    *   Use basic video editing software (e.g., CapCut, Adobe Premiere Pro) or online tools like Canva.\n    *   Place your chosen image on the video timeline.\n    *   Import your podcast's MP3 or WAV file onto the audio track.\n    *   Ensure the image duration matches the audio duration.\n    *   Export as an MP4 file.\n\n**3. Dynamic Video with Captions or AI-Generated Visuals**\nFor a more advanced approach, you can create videos with a static or lightly animated background and auto-generated subtitles, enhancing accessibility and engagement for viewers watching on mute. Some AI tools can even generate dynamic visuals or avatar scenes to match your audio content.\n\n*   **Recommended Tools:**\n    *   **Descript:** Offers text-based video editing, making it easy to edit video by editing the transcript, and includes features for captions and audiograms.\n    *   **CapCut:** A free desktop and mobile application for full video editing with creative control, suitable for adding visuals and captions.\n    *   **Adobe Premiere Pro/After Effects:** Professional-grade software for comprehensive video editing, including creating animated waveforms and complex visualisations for your podcast.\n    *   **Wondercraft:** An AI tool that converts MP3 podcasts into videos with visuals, captions, and branding automatically.\n    *   **Online AI Podcast to Video Converters:** Several online tools can convert audio podcasts to video with AI visuals, subtitles, and even avatar scenes, such as the one mentioned by Hollyland.\n\n**General Steps to Convert Your Podcast to Video:**\n\n1.  **Choose your audio segment:** Decide whether you want to convert a full episode or a short highlight clip.\n2.  **Select a visual element:** This could be your podcast cover art, a branded background, relevant images/video clips, or a waveform animation.\n3.  **Pick a tool:** Based on your desired output and technical comfort, choose one of the recommended tools.\n4.  **Upload your audio:** Import your MP3, M4A, or WAV file into your chosen tool.\n5.  **Customise the visuals:** Add waveforms, captions, logos, text, and adjust colours and layouts to match your brand.\n6.  **Export the video:** Select the appropriate aspect ratio and resolution for the platform you intend to share on (e.g., 1:1 for Instagram, 9:16 for TikTok/Reels, 16:9 for YouTube).\n\nBy converting your podcast to video, you can tap into new audiences and provide a more engaging experience for your listeners.",
+ "citations": [
+  "https://reap.video/audiogram",
+  "https://travelislife.org/convert-audio-podcasts-into-visual-videos/",
+  "https://popuppodcasting.ca/blog/make-an-audiogram",
+  "https://contentallies.com/learn/how-to-make-podcast-audiograms",
+  "https://podsqueeze.com/waveform-video-maker/",
+  "https://podsqueeze.com/turn-podcast-into-video/",
+  "https://store.hollyland.com/blogs/creator-hub/convert-an-mp3-audio-podcast-to-video",
+  "https://www.youtube.com/watch?v=TqrrCXWegpc",
+  "https://podcast.adobe.com/en/guides/audiograms-101",
+  "https://getaudiogram.com/",
+  "https://www.kapwing.com/tools/add-effects/waveform",
+  "https://cleanvoice.ai/audio-visualizer/",
+  "https://www.opus.pro/tools/podcast-to-video",
+  "https://recast.studio/blog/top-podcast-to-video-tools",
+  "https://soundmadeseen.com/blog/6-best-audiogram-makers",
+  "https://echowave.io/tools/audio-waveform-video-generator/",
+  "https://audiocleaner.ai/podcast-to-video",
+  "https://www.wondercraft.ai/tools/mp3-podcast-to-video",
+  "https://www.youtube.com/watch?v=cYaSLa4kfic"
+ ],
+ "citation_map": [
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0vKyIUA0LU3_YsMg-aeFfIyMeWwchUNn6txCWuCLZVXfM3c26FPxSEDs1gSjWX4VQQ9sam1gy4raouZhSTuUJz3EflYdWDvTzR5uMR5BWcfpMSw2MyxI=",
+   "resolved": "https://reap.video/audiogram",
+   "title": "reap.video"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQedPfV40NBte4GZ9mOvso7RSoWohKqQ97OdL8B2Cpkf4XYtukqm9k_iQ0fzA_UPylAtrE3ggCkj--l19sc7AAhuPS1dJ1WCgK1E4tuAJwFlMzMWY3RmDxmTDctmPMAihm2PhX1CC0tiOKwvli3bhudSUqGjBOZnoQUPL_Yoo=",
+   "resolved": "https://travelislife.org/convert-audio-podcasts-into-visual-videos/",
+   "title": "travelislife.org"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK4E5Iv8_wF4GE9GV67rGrIsf7MpeJ1By0i8cQ50-ecPhSD9NdOc5b1xzB6qVO7uBTMc1K3z78VvrSl3BxsWqDTCtOZz0dP16MLSjIizeMtrefVf2YAmi1XFvyBgHWwRygYk28QY79b8xGGCk=",
+   "resolved": "https://popuppodcasting.ca/blog/make-an-audiogram",
+   "title": "popuppodcasting.ca"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRbHD5m5U-BYlUdTZFbRlS008QjUSGd6JoRbvcRkJbwSOmLn8YsBSzOBJ1ClgJJ403RvrHcXPmBaSeYQQle6ZezzuY6z9-3dsNLZKczEGMUF6HiCTCTzmW-XtgroTFbw9gGm569_urH2bHdvuslKwTL-mexz75O0ho",
+   "resolved": "https://contentallies.com/learn/how-to-make-podcast-audiograms",
+   "title": "contentallies.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJd_XOu7Zi5PVk-0uPiwmLWqWL-DRelRNoVgmAGwBHWJBED5wzrZpTdNf1iHvMBzv1INnxRzbhaRU-1cnaHeHMrHqhWtULnD1UNENEVsCy_Q2DfPDYh83yyopvPgq7EwWBjbmCVIf",
+   "resolved": "https://podsqueeze.com/waveform-video-maker/",
+   "title": "podsqueeze.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaXGQP_fMeQ8LCRjwtzzqaj39HoN5iYcEQQyLd9mI05zIZQoJN1P507lb9z4J8fOa0aVhmRM3ZtYj5lWYc7svxtOQi7gNOa2bYPuwcenyGhS26L5K6bQecpIKWyafYnqT-zMDKFREBGoB_",
+   "resolved": "https://podsqueeze.com/turn-podcast-into-video/",
+   "title": "podsqueeze.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcrLinnR4gawTL_tPgdR0ttpqCLMdvcas1U2NumNuNZs6Rq7lDzpd9lPA9T6wYPO2uBjzzmVJOInfaRb3xAwbZ5dIr8YqM3RWQdAaO4Wl-dc36cAFtDsk-YfeTOvzSlxirS8HxVCEej-0XkM75IEZmIvnUyZgExwr7rvpy3Y-6I1B8zRQbk0IZ8YovQsAf",
+   "resolved": "https://store.hollyland.com/blogs/creator-hub/convert-an-mp3-audio-podcast-to-video",
+   "title": "hollyland.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt-uIqHhSLwct7oCIQrtCKsigMo0E7E7SSVTmAmq9Vyh4qHWxrClL9gGypW9dP9PD7cMZBx1tlUHyLXc3-8VeQF49X8-EWfTo37DmMsd1wIvbS06Ix37GtjTOL6klgzZLi8q9ksMs=",
+   "resolved": "https://www.youtube.com/watch?v=TqrrCXWegpc",
+   "title": "youtube.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-aql3RGSr7VDrGNsNjo8e89zA7_mpvwwLfOu1p_Mnwerk0u4k96tbcmsGPmTPh5Wj46l4cwiPNxwaiJtpTq7Q5ET7G0DpQug5B1YQZ1bJs2RyWpiLFOCb8BuHQ-B5bsr7feDLYgyvhSAKf2GP",
+   "resolved": "https://podcast.adobe.com/en/guides/audiograms-101",
+   "title": "adobe.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz3UStuPW1QEAhqp-W23zQMQBdeD2ISkOxqynlUzwDqNYKFspz22cuSrrb5J6-xB-u2MH5fZPWnYdk857HHaM2slYGfzRueOPogWS__jkuEUf0KzM=",
+   "resolved": "https://getaudiogram.com/",
+   "title": "getaudiogram.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVZbKZKOGei3FSWKTI7DLMYDPZXUidlG8XYIP-qbXGjOKdpTFqDWrnSfN127mk7ACbe7cH5na0m6CdnmeL8h3WDAFmxc2Ib_WGWRqtRHwntk8wpUZ8AWgzciPO8zMC3R-HO-XwZ9hzt-5Eg1y1",
+   "resolved": "https://www.kapwing.com/tools/add-effects/waveform",
+   "title": "kapwing.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQsQUDZcLIbqz9nn4ilqREJbR8wtn9spGklh8s10KAClI8O4i-sx7_oy2RG2hE3AfecBxVeE5KkM-9VefrA0JYkqPIXOUXW3Izr8tFEWDfw6DHFBVinS69oEIoornmxwjwQ==",
+   "resolved": "https://cleanvoice.ai/audio-visualizer/",
+   "title": "cleanvoice.ai"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqeABQeVbrbKejGhzCjLjc_G0aCTPhZTw-Sl7cdSUzQG1KychFQbNgwme3FNBYe0LYO1bTen7GZcoTjNnQfy-Yz850IdAUYVUlQg22Rj2vwE2f_P_LGQnDxUZat1RoZ7Shkp3ts4A=",
+   "resolved": "https://www.opus.pro/tools/podcast-to-video",
+   "title": "opus.pro"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhBOVtkShczUFgp4BaCr-wuNne1G9N-T2itJKDWjeS8evbHfCj7964nZYB08AOjf4aUbmuhDc8AiC8bg5XUX94EUHmVo02YWXqZ7UXR-xUQtXWa93iGY5CqljmTG_TEcFLoXrJi3hqpAfqV7Uwvw1a",
+   "resolved": "https://recast.studio/blog/top-podcast-to-video-tools",
+   "title": "recast.studio"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIzwvlgYklVyyRfglq_kRZTqQ_YKhXFCrRTxEChu3ukmz92iH5KGOCpC_jQLZ3hbERHoTzBqnhJSDW5gqcrjjFulM-EPL0TTHQ1aHMCzrag3yFv0KX0ZdR9wn7V5_U7xA4fpgi84m-OQklX8OxYeZN8A==",
+   "resolved": "https://soundmadeseen.com/blog/6-best-audiogram-makers",
+   "title": "soundmadeseen.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX3euOt-i_l8bfoEnWNP5HTRivNI0G4RlQreNDUzJHmbTDi7MMixVydTsK4D3UfBKtCt05sJwPjDIaIwHIq5DlrQ_n6zr_Qu8hhd9R85yjBoKr9FwtLVZFKGlvHFwnKSXLi3gX3PblfJEAwvOg8x1kpvodpg==",
+   "resolved": "https://echowave.io/tools/audio-waveform-video-generator/",
+   "title": "echowave.io"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ_8gRazxzI8RBjDYvAS5V3jOPG8VKZYDc4gafPy6C_KyaLsbDEc-o-ld7GBtP0FbT-g_cXdos081wb_NsI1qJYd3lTwEb9jSSmnKvKlLb0YBQHe4gTOiNBfI3tq_uQo8XEPs=",
+   "resolved": "https://audiocleaner.ai/podcast-to-video",
+   "title": "audiocleaner.ai"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMV95JvXR9bP1vlLBIe15hPxU7wpwLm-WzUE8N2m6bS3BtFhxpZ_JEcn48n1gtNmkbSDLiBWHwBcDs6ZtFwcWBKYVlb8V6DtUf2IecBNB855JAv-D6F25Ahgr4eaH2xgqXwbcrdsOXUGTy-M_UiXTZ",
+   "resolved": "https://www.wondercraft.ai/tools/mp3-podcast-to-video",
+   "title": "wondercraft.ai"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM9QCx5aEbvEpvnaptMM3AVGmfdcVQSeVCtD0GdiwvIo9B0gsUu8635Hy7FMrUNxz8-tCw6bIO0rs1S-6JcqrRYH8IywMRwyezAO_GOMcsntwKNHOxzgPAv1uRRmFJPubJBjhKRCQ=",
+   "resolved": "https://www.youtube.com/watch?v=cYaSLa4kfic",
+   "title": "youtube.com"
+  }
+ ],
+ "model": "gemini-2.5-flash",
+ "search_queries": [
+  "convert podcast to video UK tools",
+  "podcast to video software audiogram",
+  "add waveform to podcast video",
+  "best tools for podcast video creation",
+  "how to make a podcast audiogram"
+ ],
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Converting a podcast into a video can significantly boost its reach and engagement, especially on visual-first platforms like YouTube, Instagram, TikTok, and Facebook. There are several ways to transform your audio content into a compelling visual experience, ranging from simple static images to dynamic audiograms and AI-generated visuals. Most tools are globally accessible, so recommendations are not specifically limited to the UK.\n\nHere are the primary methods and recommended tools for converting your podcast into video:\n\n**1. Audiograms for Social Media Clips**\nAudiograms are short, visually engaging video clips that combine a snippet of your podcast audio with dynamic waveforms, captions, and imagery. They are ideal for promoting your podcast on social media.\n\n*   **Key Features to Look For:**\n    *   Animated waveforms that sync with your audio.\n    *   Automatic captions or subtitles to increase accessibility and engagement for viewers watching without sound.\n    *   Branding options (logo, custom colours, fonts, background images).\n    *   Multiple aspect ratios for different platforms (e.g., square for Instagram feeds, vertical for Reels/TikTok, landscape for YouTube).\n\n*   **Recommended Tools:**\n    *   **Headliner App:** This is a popular online tool for creating audiograms and social clips.\n    *   **Podsqueeze:** Utilises AI to identify captivating moments, generate subtitles, and create dynamic audiograms and video clips for various platforms like TikTok, YouTube, Instagram, and Facebook.\n    *   **Reap:** Offers an audiogram maker with animated waveforms, automatic captions, brand templates, and platform-ready layouts.\n    *   **Adobe Podcast:** Provides a free tool to create audiograms with waveform animations and captions.\n    *   **Audiogram (the tool):** Allows you to convert audio into engaging social video with customisable designs.\n    *   **Kapwing's Sound Wave Generator:** Transforms audio files into engaging videos with sound wave animations synced to an image or video background.\n    *   **Cleanvoice AI:** A free audiogram maker that allows you to add waveforms, background, podcast cover, and text to your audio clips.\n    *   **OpusClip:** Specialises in creating shareable video audiograms from podcast clips with waveform animations and automated captioning.\n    *   **Recast Studio:** Best for podcast-to-video repurposing, offering AI-powered highlights and dynamic captions for social-ready clips.\n    *   **SoundMadeSeen:** An AI-powered audiogram maker that automatically creates audiograms and can generate written content from your audio.\n    *   **Wavve:** Another well-known tool for creating audiograms with customisable visuals.\n    *   **EchoWave:** Helps create custom sound wave art and videos, allowing you to resize, reposition, and adjust the wave, and add text.\n\n**2. Static Image Video for Full Episodes**\nThis method involves pairing your full podcast audio with a static visual, typically your podcast cover art, a branded background, or a relevant image. This is a simple way to get your entire episode onto video platforms like YouTube.\n\n*   **How to do it:**\n    *   Use basic video editing software (e.g., CapCut, Adobe Premiere Pro) or online tools like Canva.\n    *   Place your chosen image on the video timeline.\n    *   Import your podcast's MP3 or WAV file onto the audio track.\n    *   Ensure the image duration matches the audio duration.\n    *   Export as an MP4 file.\n\n**3. Dynamic Video with Captions or AI-Generated Visuals**\nFor a more advanced approach, you can create videos with a static or lightly animated background and auto-generated subtitles, enhancing accessibility and engagement for viewers watching on mute. Some AI tools can even generate dynamic visuals or avatar scenes to match your audio content.\n\n*   **Recommended Tools:**\n    *   **Descript:** Offers text-based video editing, making it easy to edit video by editing the transcript, and includes features for captions and audiograms.\n    *   **CapCut:** A free desktop and mobile application for full video editing with creative control, suitable for adding visuals and captions.\n    *   **Adobe Premiere Pro/After Effects:** Professional-grade software for comprehensive video editing, including creating animated waveforms and complex visualisations for your podcast.\n    *   **Wondercraft:** An AI tool that converts MP3 podcasts into videos with visuals, captions, and branding automatically.\n    *   **Online AI Podcast to Video Converters:** Several online tools can convert audio podcasts to video with AI visuals, subtitles, and even avatar scenes, such as the one mentioned by Hollyland.\n\n**General Steps to Convert Your Podcast to Video:**\n\n1.  **Choose your audio segment:** Decide whether you want to convert a full episode or a short highlight clip.\n2.  **Select a visual element:** This could be your podcast cover art, a branded background, relevant images/video clips, or a waveform animation.\n3.  **Pick a tool:** Based on your desired output and technical comfort, choose one of the recommended tools.\n4.  **Upload your audio:** Import your MP3, M4A, or WAV file into your chosen tool.\n5.  **Customise the visuals:** Add waveforms, captions, logos, text, and adjust colours and layouts to match your brand.\n6.  **Export the video:** Select the appropriate aspect ratio and resolution for the platform you intend to share on (e.g., 1:1 for Instagram, 9:16 for TikTok/Reels, 16:9 for YouTube).\n\nBy converting your podcast to video, you can tap into new audiences and provide a more engaging experience for your listeners."
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "searchEntryPoint": {
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKscPQ3CdwbyIQZEELaJpBTSXhq6W_yvRot819AHrQDPcV7u_a46rhkZz8fvaX9tx-4TxRbMJfNyXtbNXhhqSUSwROMM7jpvurrQqylVz5f79vO_EdVsU-w4RdP9cN41IzVxVWhotw0i9HGTLekJdsIRJFYuF_tMqVz3lI98JgJX-MiS4RWyRK6D3NWtrGWJ4vIs2XKJM0F2wgttfPI7g7j_I=\">how to make a podcast audiogram</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZt1RkidMWwbrqDt3LVXsmhpLU9vQSNbc42QLJs1QkwOb-bRFZ_Ce5nefgOespYH9YzqdSGKTx--2OfDGClKR9jq5JVK3JH7DhrCO21fv6KlP_ibn7sc7JJhrvqc_bhtBUM6kslV9Ez63Sdv-e8l2XUR0JqvCDNyvrs-dalhepHNGNmRxWfYV8GuZ6OCZz-ALo9DiCPsYSPgpV9Xqd5Wji\">add waveform to podcast video</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW-U_U-LQwdF9Il__0tPpX_WLYQRC7UcIwgg7DKpB_MIHD_YmNXfkUnZ_-8aHkikOYaDsLRce-X1iAZMRIVHKFSECE2VtWpMloBMT1IJl_5d2vJUzWgH_q9lsiXJ4FUfWX2ePcLo6t4y4tTRYTzYW5VncyuIYt5osCNaoHj_fYUpYbbgoKpQeW8fnJCO97RZ7KYjxVXq5CA7lFQWSX4KoLdmN1yA==\">convert podcast to video UK tools</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLN__2n2jMAFbOZ6CA6Btn0Y2awTbsRknnSIVlmZbe0is0VCF1h4udh3m33a4mk18Q11VI_hCkxFD2jC-7y8WrbjrJqgmnv2-28Lu2HDJuhCiKSnZZkhWLuPo3qOYZXahcHi7Wd91jfjaq9F0n0d95MiT3W5uZe1Uh1rmpWlilwahTxcK3ePkz4Xe28NA3v8_nPqeRBwPeZQlt5xKDE-b3LUxQqQ-L\">podcast to video software audiogram</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkqN4cmO3ZetUq9tY6YVc-HAfZ82RtC_Wt89eioToV-sZu18_iZFavRq_mLW-ez4MMbb7Uactg42q-njKxOxxNn9GnDXfHJ_n32oHciBOkwVea46JlY4TO6LhExRe3o0LqN5-OjeKN0lh8xN-vlpbbKbGm5TuXajqi85ydNZqTytSUBiGh8uv7rIksYfKEl8r8DMfK-6d8P2RgnRDNL90cO65ZBrvQFjc=\">best tools for podcast video creation</a>\n  </div>\n</div>\n"
+     },
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0vKyIUA0LU3_YsMg-aeFfIyMeWwchUNn6txCWuCLZVXfM3c26FPxSEDs1gSjWX4VQQ9sam1gy4raouZhSTuUJz3EflYdWDvTzR5uMR5BWcfpMSw2MyxI=",
+        "title": "reap.video"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQedPfV40NBte4GZ9mOvso7RSoWohKqQ97OdL8B2Cpkf4XYtukqm9k_iQ0fzA_UPylAtrE3ggCkj--l19sc7AAhuPS1dJ1WCgK1E4tuAJwFlMzMWY3RmDxmTDctmPMAihm2PhX1CC0tiOKwvli3bhudSUqGjBOZnoQUPL_Yoo=",
+        "title": "travelislife.org"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK4E5Iv8_wF4GE9GV67rGrIsf7MpeJ1By0i8cQ50-ecPhSD9NdOc5b1xzB6qVO7uBTMc1K3z78VvrSl3BxsWqDTCtOZz0dP16MLSjIizeMtrefVf2YAmi1XFvyBgHWwRygYk28QY79b8xGGCk=",
+        "title": "popuppodcasting.ca"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRbHD5m5U-BYlUdTZFbRlS008QjUSGd6JoRbvcRkJbwSOmLn8YsBSzOBJ1ClgJJ403RvrHcXPmBaSeYQQle6ZezzuY6z9-3dsNLZKczEGMUF6HiCTCTzmW-XtgroTFbw9gGm569_urH2bHdvuslKwTL-mexz75O0ho",
+        "title": "contentallies.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJd_XOu7Zi5PVk-0uPiwmLWqWL-DRelRNoVgmAGwBHWJBED5wzrZpTdNf1iHvMBzv1INnxRzbhaRU-1cnaHeHMrHqhWtULnD1UNENEVsCy_Q2DfPDYh83yyopvPgq7EwWBjbmCVIf",
+        "title": "podsqueeze.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaXGQP_fMeQ8LCRjwtzzqaj39HoN5iYcEQQyLd9mI05zIZQoJN1P507lb9z4J8fOa0aVhmRM3ZtYj5lWYc7svxtOQi7gNOa2bYPuwcenyGhS26L5K6bQecpIKWyafYnqT-zMDKFREBGoB_",
+        "title": "podsqueeze.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcrLinnR4gawTL_tPgdR0ttpqCLMdvcas1U2NumNuNZs6Rq7lDzpd9lPA9T6wYPO2uBjzzmVJOInfaRb3xAwbZ5dIr8YqM3RWQdAaO4Wl-dc36cAFtDsk-YfeTOvzSlxirS8HxVCEej-0XkM75IEZmIvnUyZgExwr7rvpy3Y-6I1B8zRQbk0IZ8YovQsAf",
+        "title": "hollyland.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt-uIqHhSLwct7oCIQrtCKsigMo0E7E7SSVTmAmq9Vyh4qHWxrClL9gGypW9dP9PD7cMZBx1tlUHyLXc3-8VeQF49X8-EWfTo37DmMsd1wIvbS06Ix37GtjTOL6klgzZLi8q9ksMs=",
+        "title": "youtube.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-aql3RGSr7VDrGNsNjo8e89zA7_mpvwwLfOu1p_Mnwerk0u4k96tbcmsGPmTPh5Wj46l4cwiPNxwaiJtpTq7Q5ET7G0DpQug5B1YQZ1bJs2RyWpiLFOCb8BuHQ-B5bsr7feDLYgyvhSAKf2GP",
+        "title": "adobe.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz3UStuPW1QEAhqp-W23zQMQBdeD2ISkOxqynlUzwDqNYKFspz22cuSrrb5J6-xB-u2MH5fZPWnYdk857HHaM2slYGfzRueOPogWS__jkuEUf0KzM=",
+        "title": "getaudiogram.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVZbKZKOGei3FSWKTI7DLMYDPZXUidlG8XYIP-qbXGjOKdpTFqDWrnSfN127mk7ACbe7cH5na0m6CdnmeL8h3WDAFmxc2Ib_WGWRqtRHwntk8wpUZ8AWgzciPO8zMC3R-HO-XwZ9hzt-5Eg1y1",
+        "title": "kapwing.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQsQUDZcLIbqz9nn4ilqREJbR8wtn9spGklh8s10KAClI8O4i-sx7_oy2RG2hE3AfecBxVeE5KkM-9VefrA0JYkqPIXOUXW3Izr8tFEWDfw6DHFBVinS69oEIoornmxwjwQ==",
+        "title": "cleanvoice.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqeABQeVbrbKejGhzCjLjc_G0aCTPhZTw-Sl7cdSUzQG1KychFQbNgwme3FNBYe0LYO1bTen7GZcoTjNnQfy-Yz850IdAUYVUlQg22Rj2vwE2f_P_LGQnDxUZat1RoZ7Shkp3ts4A=",
+        "title": "opus.pro"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhBOVtkShczUFgp4BaCr-wuNne1G9N-T2itJKDWjeS8evbHfCj7964nZYB08AOjf4aUbmuhDc8AiC8bg5XUX94EUHmVo02YWXqZ7UXR-xUQtXWa93iGY5CqljmTG_TEcFLoXrJi3hqpAfqV7Uwvw1a",
+        "title": "recast.studio"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIzwvlgYklVyyRfglq_kRZTqQ_YKhXFCrRTxEChu3ukmz92iH5KGOCpC_jQLZ3hbERHoTzBqnhJSDW5gqcrjjFulM-EPL0TTHQ1aHMCzrag3yFv0KX0ZdR9wn7V5_U7xA4fpgi84m-OQklX8OxYeZN8A==",
+        "title": "soundmadeseen.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX3euOt-i_l8bfoEnWNP5HTRivNI0G4RlQreNDUzJHmbTDi7MMixVydTsK4D3UfBKtCt05sJwPjDIaIwHIq5DlrQ_n6zr_Qu8hhd9R85yjBoKr9FwtLVZFKGlvHFwnKSXLi3gX3PblfJEAwvOg8x1kpvodpg==",
+        "title": "echowave.io"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ_8gRazxzI8RBjDYvAS5V3jOPG8VKZYDc4gafPy6C_KyaLsbDEc-o-ld7GBtP0FbT-g_cXdos081wb_NsI1qJYd3lTwEb9jSSmnKvKlLb0YBQHe4gTOiNBfI3tq_uQo8XEPs=",
+        "title": "audiocleaner.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMV95JvXR9bP1vlLBIe15hPxU7wpwLm-WzUE8N2m6bS3BtFhxpZ_JEcn48n1gtNmkbSDLiBWHwBcDs6ZtFwcWBKYVlb8V6DtUf2IecBNB855JAv-D6F25Ahgr4eaH2xgqXwbcrdsOXUGTy-M_UiXTZ",
+        "title": "wondercraft.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM9QCx5aEbvEpvnaptMM3AVGmfdcVQSeVCtD0GdiwvIo9B0gsUu8635Hy7FMrUNxz8-tCw6bIO0rs1S-6JcqrRYH8IywMRwyezAO_GOMcsntwKNHOxzgPAv1uRRmFJPubJBjhKRCQ=",
+        "title": "youtube.com"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 715,
+        "endIndex": 773,
+        "text": "They are ideal for promoting your podcast on social media."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2,
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 775,
+        "endIndex": 862,
+        "text": "*   **Key Features to Look For:**\n    *   Animated waveforms that sync with your audio."
+       },
+       "groundingChunkIndices": [
+        0,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 867,
+        "endIndex": 979,
+        "text": "*   Automatic captions or subtitles to increase accessibility and engagement for viewers watching without sound."
+       },
+       "groundingChunkIndices": [
+        0,
+        5,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 984,
+        "endIndex": 1054,
+        "text": "*   Branding options (logo, custom colours, fonts, background images)."
+       },
+       "groundingChunkIndices": [
+        0,
+        5,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1059,
+        "endIndex": 1195,
+        "text": "*   Multiple aspect ratios for different platforms (e.g., square for Instagram feeds, vertical for Reels/TikTok, landscape for YouTube)."
+       },
+       "groundingChunkIndices": [
+        0,
+        5,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1197,
+        "endIndex": 1322,
+        "text": "*   **Recommended Tools:**\n    *   **Headliner App:** This is a popular online tool for creating audiograms and social clips."
+       },
+       "groundingChunkIndices": [
+        1,
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1327,
+        "endIndex": 1526,
+        "text": "*   **Podsqueeze:** Utilises AI to identify captivating moments, generate subtitles, and create dynamic audiograms and video clips for various platforms like TikTok, YouTube, Instagram, and Facebook."
+       },
+       "groundingChunkIndices": [
+        5,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1531,
+        "endIndex": 1660,
+        "text": "*   **Reap:** Offers an audiogram maker with animated waveforms, automatic captions, brand templates, and platform-ready layouts."
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1665,
+        "endIndex": 1768,
+        "text": "*   **Adobe Podcast:** Provides a free tool to create audiograms with waveform animations and captions."
+       },
+       "groundingChunkIndices": [
+        7,
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1773,
+        "endIndex": 1884,
+        "text": "*   **Audiogram (the tool):** Allows you to convert audio into engaging social video with customisable designs."
+       },
+       "groundingChunkIndices": [
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1889,
+        "endIndex": 2039,
+        "text": "*   **Kapwing's Sound Wave Generator:** Transforms audio files into engaging videos with sound wave animations synced to an image or video background."
+       },
+       "groundingChunkIndices": [
+        10
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2044,
+        "endIndex": 2180,
+        "text": "*   **Cleanvoice AI:** A free audiogram maker that allows you to add waveforms, background, podcast cover, and text to your audio clips."
+       },
+       "groundingChunkIndices": [
+        11
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2185,
+        "endIndex": 2323,
+        "text": "*   **OpusClip:** Specialises in creating shareable video audiograms from podcast clips with waveform animations and automated captioning."
+       },
+       "groundingChunkIndices": [
+        12
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2328,
+        "endIndex": 2465,
+        "text": "*   **Recast Studio:** Best for podcast-to-video repurposing, offering AI-powered highlights and dynamic captions for social-ready clips."
+       },
+       "groundingChunkIndices": [
+        13
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2470,
+        "endIndex": 2610,
+        "text": "*   **SoundMadeSeen:** An AI-powered audiogram maker that automatically creates audiograms and can generate written content from your audio."
+       },
+       "groundingChunkIndices": [
+        14
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2615,
+        "endIndex": 2704,
+        "text": "*   **Wavve:** Another well-known tool for creating audiograms with customisable visuals."
+       },
+       "groundingChunkIndices": [
+        1
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2709,
+        "endIndex": 2844,
+        "text": "*   **EchoWave:** Helps create custom sound wave art and videos, allowing you to resize, reposition, and adjust the wave, and add text."
+       },
+       "groundingChunkIndices": [
+        15
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3042,
+        "endIndex": 3124,
+        "text": "This is a simple way to get your entire episode onto video platforms like YouTube."
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3126,
+        "endIndex": 3251,
+        "text": "*   **How to do it:**\n    *   Use basic video editing software (e.g., CapCut, Adobe Premiere Pro) or online tools like Canva."
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3474,
+        "endIndex": 3723,
+        "text": "Dynamic Video with Captions or AI-Generated Visuals**\nFor a more advanced approach, you can create videos with a static or lightly animated background and auto-generated subtitles, enhancing accessibility and engagement for viewers watching on mute."
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3724,
+        "endIndex": 3817,
+        "text": "Some AI tools can even generate dynamic visuals or avatar scenes to match your audio content."
+       },
+       "groundingChunkIndices": [
+        16,
+        17
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3819,
+        "endIndex": 4007,
+        "text": "*   **Recommended Tools:**\n    *   **Descript:** Offers text-based video editing, making it easy to edit video by editing the transcript, and includes features for captions and audiograms."
+       },
+       "groundingChunkIndices": [
+        13,
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4012,
+        "endIndex": 4153,
+        "text": "*   **CapCut:** A free desktop and mobile application for full video editing with creative control, suitable for adding visuals and captions."
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4158,
+        "endIndex": 4343,
+        "text": "*   **Adobe Premiere Pro/After Effects:** Professional-grade software for comprehensive video editing, including creating animated waveforms and complex visualisations for your podcast."
+       },
+       "groundingChunkIndices": [
+        18,
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4348,
+        "endIndex": 4470,
+        "text": "*   **Wondercraft:** An AI tool that converts MP3 podcasts into videos with visuals, captions, and branding automatically."
+       },
+       "groundingChunkIndices": [
+        17
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4475,
+        "endIndex": 4670,
+        "text": "*   **Online AI Podcast to Video Converters:** Several online tools can convert audio podcasts to video with AI visuals, subtitles, and even avatar scenes, such as the one mentioned by Hollyland."
+       },
+       "groundingChunkIndices": [
+        16
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 5098,
+        "endIndex": 5177,
+        "text": "**Upload your audio:** Import your MP3, M4A, or WAV file into your chosen tool."
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 5182,
+        "endIndex": 5298,
+        "text": "**Customise the visuals:** Add waveforms, captions, logos, text, and adjust colours and layouts to match your brand."
+       },
+       "groundingChunkIndices": [
+        0,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 5303,
+        "endIndex": 5483,
+        "text": "**Export the video:** Select the appropriate aspect ratio and resolution for the platform you intend to share on (e.g., 1:1 for Instagram, 9:16 for TikTok/Reels, 16:9 for YouTube)."
+       },
+       "groundingChunkIndices": [
+        0,
+        4
+       ]
+      }
+     ],
+     "webSearchQueries": [
+      "convert podcast to video UK tools",
+      "podcast to video software audiogram",
+      "add waveform to podcast video",
+      "best tools for podcast video creation",
+      "how to make a podcast audiogram"
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 32,
+   "candidatesTokenCount": 1254,
+   "totalTokenCount": 2338,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 32
+    }
+   ],
+   "toolUsePromptTokenCount": 340,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 340
+    }
+   ],
+   "thoughtsTokenCount": 712,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "997caojyGp2Q694PvIOUiAY"
+ }
+}

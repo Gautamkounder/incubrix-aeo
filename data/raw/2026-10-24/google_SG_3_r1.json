@@ -1,0 +1,138 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.opus.pro/tools/podcast-to-video",
+   "title": "Podcast to Video Converter"
+  },
+  {
+   "position": 2,
+   "link": "https://www.chopcast.io/tools/convert-podcast-to-video",
+   "title": "Convert podcast to video"
+  },
+  {
+   "position": 3,
+   "link": "https://www.youtube.com/watch?v=2ODfyIIaRJs",
+   "title": "How To Create A Podcast from ANY Video"
+  },
+  {
+   "position": 4,
+   "link": "https://www.churchofengland.org/how-turn-your-video-audio-podcast-2024",
+   "title": "How to turn your video into audio for podcast in 2024"
+  },
+  {
+   "position": 5,
+   "link": "https://www.reddit.com/r/podcasting/comments/1rlhlo9/turning_an_audio_podcast_to_a_video_podcast/",
+   "title": "Turning an audio podcast to a video podcast"
+  },
+  {
+   "position": 6,
+   "link": "https://podsqueeze.com/turn-podcast-into-video/",
+   "title": "Turn Podcast Into Video"
+  },
+  {
+   "position": 7,
+   "link": "https://www.swellai.com/blog/podcast-to-article-converter",
+   "title": "Podcast to Article Converter"
+  },
+  {
+   "position": 8,
+   "link": "https://www.youtube.com/watch?v=Mf9F6j_RWpI&vl=en",
+   "title": "Turn Podcasts into Videos Instantly with AI. (ZERO Editing ..."
+  },
+  {
+   "position": 9,
+   "link": "https://ticnote.com/en/blog/convert-videos-to-podcast-automatically",
+   "title": "How to Convert Videos into a Podcast Automatically"
+  },
+  {
+   "position": 10,
+   "link": "https://store.hollyland.com/blogs/creator-hub/convert-an-mp3-audio-podcast-to-video?srsltid=AYCX9vJzl2qF_-WsnNgMQhyzgmJNQgU9Cs7kJdi0sFkWuZvGoIAncfm-",
+   "title": "How to Convert an MP3 Audio Podcast to Video (Step-by- ..."
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "related_searches": [],
+ "model": "serper.dev",
+ "raw": {
+  "searchParameters": {
+   "q": "How can I convert a podcast into a video?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Podcast to Video Converter",
+    "link": "https://www.opus.pro/tools/podcast-to-video",
+    "snippet": "OpusClip takes your podcast audio or video file and automatically generates a visual video version. It adds synchronized captions, animated waveforms, speaker ...",
+    "position": 1
+   },
+   {
+    "title": "Convert podcast to video",
+    "link": "https://www.chopcast.io/tools/convert-podcast-to-video",
+    "snippet": "With chopcast, conversion is a breeze \u2013 simply upload your podcast, select the desired video format, and let our tool handle the rest.",
+    "position": 2
+   },
+   {
+    "title": "How To Create A Podcast from ANY Video",
+    "link": "https://www.youtube.com/watch?v=2ODfyIIaRJs",
+    "snippet": "Learn how to convert a video file into an audio file for a podcast. ****** Get your podcast on Apple, Spotify, and Google Podcasts",
+    "date": "4 years ago",
+    "position": 3
+   },
+   {
+    "title": "How to turn your video into audio for podcast in 2024",
+    "link": "https://www.churchofengland.org/how-turn-your-video-audio-podcast-2024",
+    "snippet": "Step 1: Convert video to audio only. The first step is converting your video content into podcast-ready audio. If you have access to video ...",
+    "date": "1 Mar 2024",
+    "position": 4
+   },
+   {
+    "title": "Turning an audio podcast to a video podcast",
+    "link": "https://www.reddit.com/r/podcasting/comments/1rlhlo9/turning_an_audio_podcast_to_a_video_podcast/",
+    "snippet": "Start recording the podcast as video using Riverside. It's a heavy lift but it's workable. If you're looking to simply convert your audio only ...",
+    "date": "7 months ago",
+    "position": 5
+   },
+   {
+    "title": "Turn Podcast Into Video",
+    "link": "https://podsqueeze.com/turn-podcast-into-video/",
+    "snippet": "Turn your podcast into shareable videos & audiograms. With our AI-oered clip maker, easily turn your video into shorts for sharing on social media.",
+    "position": 6
+   },
+   {
+    "title": "Podcast to Article Converter",
+    "link": "https://www.swellai.com/blog/podcast-to-article-converter",
+    "snippet": "This post outlines the benefits of using a converter and provides a step-by-step guide on how to turn a video into an article. Turn videos into transcripts, ...",
+    "position": 7
+   },
+   {
+    "title": "Turn Podcasts into Videos Instantly with AI. (ZERO Editing ...",
+    "link": "https://www.youtube.com/watch?v=Mf9F6j_RWpI&vl=en",
+    "snippet": "VIDEO CHAPTERS: 00:00 Introduction 01:10 Convert NotebookLM Podcast Audio to Talking Video With JoggAI (With Original Voices) 07:25 Swap ...",
+    "date": "1 year ago",
+    "position": 8
+   },
+   {
+    "title": "How to Convert Videos into a Podcast Automatically",
+    "link": "https://ticnote.com/en/blog/convert-videos-to-podcast-automatically",
+    "snippet": "Learn how to convert videos into podcasts automatically with a workflow for audio extraction, cleanup, metadata, hosting, and distribution.",
+    "date": "3 Mar 2026",
+    "position": 9
+   },
+   {
+    "title": "How to Convert an MP3 Audio Podcast to Video (Step-by- ...",
+    "link": "https://store.hollyland.com/blogs/creator-hub/convert-an-mp3-audio-podcast-to-video?srsltid=AYCX9vJzl2qF_-WsnNgMQhyzgmJNQgU9Cs7kJdi0sFkWuZvGoIAncfm-",
+    "snippet": "To distribute your podcast on video platforms, you need an MP4 file with a visual layer paired to your audio. This guide covers three practical ...",
+    "date": "13 Aug 2026",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

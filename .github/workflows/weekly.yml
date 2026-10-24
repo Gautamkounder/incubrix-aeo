@@ -1,0 +1,33 @@
+# Weekly tracker on GitHub Actions. Add the API keys as repository secrets (Settings > Secrets > Actions).
+name: weekly-visibility
+on:
+  schedule: [{cron: "0 3 * * 1"}]   # Mondays 03:00 UTC
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    env:
+      SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install -r requirements.txt
+      - run: python -m engine.run
+      - run: python -m engine.report
+      - run: python -m engine.brief --top 10
+      - run: python -m engine.alerts
+        continue-on-error: true      # exit code 2 means "visibility moved", not a failure
+      - name: Commit results
+        run: |
+          git config user.name "aeo-bot"; git config user.email "aeo-bot@users.noreply.github.com"
+          git add data/checks.csv data/raw reports
+          git commit -m "weekly visibility run" || echo "nothing to commit"
+          git push

@@ -1,0 +1,82 @@
+[
+ {
+  "finished_utc": "2026-10-24T16:41:01+00:00",
+  "wall_seconds": 285.6,
+  "workers": 4,
+  "questions": 5,
+  "markets": 3,
+  "stats": {
+   "done": 32,
+   "skipped_existing": 0,
+   "errors": 13
+  },
+  "providers": {
+   "google": {
+    "calls": 15,
+    "avg_latency_s": 3.42,
+    "est_cost_usd": null
+   },
+   "gemini": {
+    "calls": 30,
+    "avg_latency_s": 18.27,
+    "est_cost_usd": null
+   }
+  },
+  "projection": [
+   {
+    "questions": 100,
+    "calls": 2700,
+    "est_minutes": 95.6,
+    "est_cost_usd": null
+   },
+   {
+    "questions": 300,
+    "calls": 8100,
+    "est_minutes": 286.9,
+    "est_cost_usd": null
+   }
+  ],
+  "note": "est_cost_usd needs cost_per_call_usd in config/settings.json (use each vendor's current price); projection assumes the latencies measured in this run.",
+  "day": "2026-10-24"
+ },
+ {
+  "finished_utc": "2026-10-24T17:19:33+00:00",
+  "wall_seconds": 375.7,
+  "workers": 4,
+  "questions": 10,
+  "markets": 3,
+  "stats": {
+   "done": 15,
+   "skipped_existing": 32,
+   "errors": 43
+  },
+  "providers": {
+   "gemini": {
+    "calls": 43,
+    "avg_latency_s": 16.64,
+    "est_cost_usd": null
+   },
+   "google": {
+    "calls": 15,
+    "avg_latency_s": 2.49,
+    "est_cost_usd": null
+   }
+  },
+  "projection": [
+   {
+    "questions": 100,
+    "calls": 2700,
+    "est_minutes": 86.3,
+    "est_cost_usd": null
+   },
+   {
+    "questions": 300,
+    "calls": 8100,
+    "est_minutes": 258.9,
+    "est_cost_usd": null
+   }
+  ],
+  "note": "est_cost_usd needs cost_per_call_usd in config/settings.json (use each vendor's current price); projection assumes the latencies measured in this run.",
+  "day": "2026-10-24"
+ }
+]

@@ -1,0 +1,571 @@
+{
+ "answer": "Repurposing your podcast into short, engaging clips is a highly effective strategy to expand your reach, boost engagement, and maximize the value of your content. By transforming longer episodes into \"snackable\" video or audio segments, you can cater to different consumption preferences and tap into new audiences on various social media platforms.\n\nHere's how to repurpose your podcast into clips:\n\n### 1. Identify Key Moments\n\nThe first step is to pinpoint the most compelling, insightful, or entertaining segments within your full podcast episode. These could be:\n*   **\"Aha!\" moments or key takeaways:** Powerful insights or valuable advice.\n*   **Emotional or controversial discussions:** Segments that spark strong feelings or debate.\n*   **Funny anecdotes or memorable quotes:** Humorous or highly quotable parts.\n*   ** \ub2f5\ubcc0 to frequently asked questions:** Concise answers that can stand alone.\n\nSome AI tools, like Opus Clip, can even provide a \"Virality Score\" to help you select clips with the highest potential for social media performance. Other tools like Choppity use AI to identify viral moments and generate clips automatically.\n\n### 2. Choose Your Clip Format\n\nPodcast clips can take several forms, depending on your content and target platform:\n\n*   **Video Clips:** If you record video podcasts, these are straightforward to create. Even for audio-only podcasts, you can create video clips by adding visual elements.\n*   **Audiograms:** These are animated sound wave videos that combine your audio clip with a static image, waveform animation, and often animated captions. They are ideal for platforms like Instagram, Facebook, and YouTube Shorts.\n\n### 3. Edit Your Clips\n\nOnce you've identified the moments, it's time for editing. This involves trimming, refining audio, and adding visual elements.\n\n**For Video Clips:**\n\n*   **Basic Editing:** Cut out dead air, filler words, and any irrelevant sections to make the clip concise and impactful.\n*   **Captions/Subtitles:** Crucial for social media, as many users watch videos without sound. Tools often offer automatic transcription and animated captioning.\n*   **Visual Enhancements:** Add intro/outro screens, lower thirds, or simple motion graphics to make the clip more dynamic.\n*   **Aspect Ratio:** Adjust the video to suit different platforms (e.g., 9:16 for TikTok, Reels, and YouTube Shorts).\n\n**For Audiograms:**\n\n*   **Audio Trimming:** Select the exact audio segment you want to highlight.\n*   **Visual Design:** Choose a background image or video, customize waveform styles, and select fonts for captions.\n*   **Animated Captions:** Many audiogram tools can automatically sync captions with your audio, highlighting words as they are spoken.\n\n### 4. Recommended Tools\n\nSeveral tools, ranging from professional editing software to AI-powered clip generators, can assist in this process:\n\n**AI-Powered Clipping Tools (for automatic clip generation and transcription):**\n\n*   **Opus Clip:** Popular for its AI that suggests viral moments and provides a \"Virality Score\".\n*   **Descript:** Offers transcript-based editing, allowing you to edit video by editing text, and also generates clips. It can also create audiograms.\n*   **CapCut:** A free and user-friendly option for social media podcast clips with AI features.\n*   **Choppity:** AI-powered video editor that can turn long videos into multiple short clips quickly.\n*   **Riverside:** Offers recording and repurposing features, including \"Magic Clips\" to turn recordings into short-form videos.\n*   **Vizard:** Another AI tool for turning long videos into short clips.\n*   **PodcastorAI:** Generates ready-to-use clips quickly after uploading your podcast.\n\n**Traditional Video Editing Software (for more control and advanced edits):**\n\n*   **Adobe Premiere Pro:** Professional-grade software with advanced editing capabilities, including AI auto-reframe for different aspect ratios.\n*   **DaVinci Resolve:** A free, powerful option for advanced reel editing, captions, and motion graphics.\n\n**Audiogram Creators (for turning audio into visually engaging videos):**\n\n*   **VEED.IO:** An online audiogram creator that lets you add waveforms and animated subtitles to your video podcasts. It can automatically add subtitles and animate words as they are spoken.\n*   **Headliner App:** A widely used tool for creating audiograms.\n*   **Wavve:** Another popular audiogram creation tool.\n*   **Recast Studio:** Offers an audiogram generator with templates and sound wave visuals.\n*   **SoundMadeSeen:** An AI-powered audiogram maker that can also convert long videos into clips.\n*   **Audioburst:** Provides tools for podcasters, including an audiogram creator that breaks down podcasts into short \"audiobursts\".\n\n### 5. Distribute Your Clips\n\nOnce your clips are ready, share them strategically across various platforms:\n\n*   **YouTube Shorts:** Vertical video format for quick consumption.\n*   **Instagram Reels & Stories:** Engaging short-form video for visual platforms.\n*   **TikTok:** Highly effective for viral, short video content.\n*   **Facebook:** Share video clips and audiograms directly to your page and groups.\n*   **Twitter:** Use short video clips or audiograms with compelling quotes and hashtags.\n\nBy consistently repurposing your podcast content into these digestible formats, you can significantly enhance your podcast's visibility and attract a broader audience.",
+ "citations": [
+  "https://www.rev.com/blog/creative-ways-to-repurpose-podcasts-and-videos",
+  "https://fellyday.com/repurpose-your-podcast-episodes/",
+  "https://www.swellai.com/blog/repurpose-podcast-content-3b14f",
+  "https://exemplary.ai/blog/how-to-repurpose-podcast-content",
+  "https://blog.podcast.co/reach/repurpose-podcast-content",
+  "https://www.ssemble.com/blog/best-ai-podcast-clip-maker-2026",
+  "https://www.choppity.com/blog/best-ai-podcast-clip-makers-generators/",
+  "https://www.choppity.com/",
+  "https://www.podchaser.com/articles/resources/best-audiogram-makers",
+  "https://www.youtube.com/watch?v=RXQOmQGJK34",
+  "https://www.youtube.com/watch?v=i7dfZbN6ZOo",
+  "https://www.veed.io/tools/music-visualizer/audiogram-podcast",
+  "https://podcastor.ai/blog/6-best-podcast-clipping-tools",
+  "https://www.trezalabs.com/blog/best-podcast-clip-generators",
+  "https://reap.video/blog/best-podcast-clip-generators",
+  "https://riverside.com/blog/podcast-editing-software",
+  "https://www.youtube.com/watch?v=SJCW_zcbeq8",
+  "https://travelislife.org/convert-audio-podcasts-into-visual-videos/",
+  "https://soundmadeseen.com/blog/6-best-audiogram-makers",
+  "https://recast.studio/podcast-audiogram"
+ ],
+ "citation_map": [
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmQcCVtAMfSa4MT6yGW-EMsRmxnbsZL67EFKvET-A2fJnyTbGeG2ot4KYy7UEXfyWXcuWUTjhScRJaAwuszdBF2ilAwTqKbNhcOTm4kI5q_XP9hYq5NWnOvbFCI2B7GtUNmh2FPMuE5D6fHkTlWAk7mZ65iEsoDY8dX3ccRz2DyDs=",
+   "resolved": "https://www.rev.com/blog/creative-ways-to-repurpose-podcasts-and-videos",
+   "title": "rev.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV3fMDViNqbAPyqpZLYXeTM9CssTRfsq_c3e_8tDdEnmcFs51U9cR4vtdhKLoqHfLh2khhZkNBx0ss_0QjVXI51jXd2Ww3tqhWsFVPHSayjYQ3YP6a6jBCbUo2WllL8wOmpFYxRtUFAUEoiwvqc9o=",
+   "resolved": "https://fellyday.com/repurpose-your-podcast-episodes/",
+   "title": "fellyday.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpRt-wFI59AIqPMkTlbpC2lt41gQ7_fC1xBdsNoAtse0Cr-YynUmhik12khlyqmPO_DlHqy4PmmGlPgVJl6h_chlTD8LaEGuUZdGeYur_iQnmKTZP78EK0dPcShLrIBxULxFM9MKxZAEf4xEFcfUKOyPtKluXo",
+   "resolved": "https://www.swellai.com/blog/repurpose-podcast-content-3b14f",
+   "title": "swellai.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LpDGN8OVUWs-Y7yehZAE45NvgMl0VnlCMUVXTEe3Z4_7fHaMGfjrzBcLEAUI-26CurLMRv2X9HjNVpSrjGyPj61tt_nm4SIH2FFdsClwiG8nZnplZb8tbMw70jg8rigYjj_4pPkbd59AcVQi5f_KwULy1g==",
+   "resolved": "https://exemplary.ai/blog/how-to-repurpose-podcast-content",
+   "title": "exemplary.ai"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc3Qb1yrmRbRo6Hj3XgChFc6dKAHdXEI6yVTc7uZASWP-RAeV0ZqYmsqvA8K3hgcEJNW4rd8uQxlmfU2tpUdIh8GJFksDfF2l-MydtgZ_zZYp_ZDpEK5rB1EF4A_e6h6EhvhC9QrKkCNEBhSA_HEIBug==",
+   "resolved": "https://blog.podcast.co/reach/repurpose-podcast-content",
+   "title": "podcast.co"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWjdhWcIzsjfUqNQgbpf5ev7pPqU9OT3nyBd4d_e0NQC-0r_2HBbjfVzB8_4KwjqAzHDXk1bbafVx1jH-uBbhMZE9s-zRZPyvy-4WhLK561vGDG22447jkjA14pw4wCkLX9XBcPzLQPkgJEOBy9dGGcv6LRbuE",
+   "resolved": "https://www.ssemble.com/blog/best-ai-podcast-clip-maker-2026",
+   "title": "ssemble.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQKjMzmH7Wqg1Ryp7uL09T1IXzQvGFbwzWdGlwOEMGtUCu82wDHAcnfG4OQbQN1yhoRkoE_48DqpZry4SwpmkWJVqD0okI1wiwlppvk66TOeTbXWcekgld-DHSgxEHjaHQS7Myh0TPSk6RyfXR7U6mfXZHTb4fgIdDnvxFffo1",
+   "resolved": "https://www.choppity.com/blog/best-ai-podcast-clip-makers-generators/",
+   "title": "choppity.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3bmTZnK2aMK6mwJqS7fZLZQkbh-a7gpSgibnXICQX1C6u5sMGZKxH-gk1K_VuCvBvNCTUOgs3KQE4td8iMR1wNOu1thj9shz0B7oUAJxYqRWV5A==",
+   "resolved": "https://www.choppity.com/",
+   "title": "choppity.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYa585cIzf_q-2P01nZd10EzImpLblE24ER5WG-aWBSOCoZYN-Q7NcJI5BIDqdnbh0CIF0xGj0mN3GCBrG5AgnoGWvkKiIpU1r9s34KbywVnNoObNABV8DI-SqO-OsM5MZjJjMqi9fDM9ZewLipFGtjM80aZPqQu5GU7h1",
+   "resolved": "https://www.podchaser.com/articles/resources/best-audiogram-makers",
+   "title": "podchaser.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOXflL2UV1hMhPh41_FSM4Vv97yvuRgvhuPwq-swk8PojopZxUug3wbF-ZC_QhVxrPaQvstIFumTEN2bwLVFMSImt8hoDX78lOTICvUffwZRYqcfLxhsxLcnZOhAPxPPMGSUIqyA==",
+   "resolved": "https://www.youtube.com/watch?v=RXQOmQGJK34",
+   "title": "youtube.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-lxmgQdiz9I0fERA09ftFJxjwE1WZRbQV3ATNRD8X1Ry9tleGbMTOfG6dGZmgJAIrZTQM4PuNK5C2T9rQWU6TkfEwNH7oXAcXW5K7BMgzE81jQ9OZklDKB5zS_atePxlWYcCW4g==",
+   "resolved": "https://www.youtube.com/watch?v=i7dfZbN6ZOo",
+   "title": "youtube.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERMJMd6kaox5EIOzt-U3hTp6tenRHcfhh0Jg4TR7bNLRm-EYl8t4oU0XIhFWu6Vap_bnZbsV3KDUG2-zmdj4Zf1fjzEBOT7HCt9Vn9fIudtf3Fd3Ze-oc-qQZwQAYQ-XWDxTdfhEqbRZttGIFrm0prVp4fV3Rq",
+   "resolved": "https://www.veed.io/tools/music-visualizer/audiogram-podcast",
+   "title": "veed.io"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3Z0j1sIENYI-hwOzJHF5jb3Wjdad5HQ23RXOpMIF9Bs1CWDW8nAhvyLRI29wKphiiaiihWVSn6CLfRr70dsbiTd1DBpi7Vt1ugIi00ygNn5pO1nQcNiJOBf4cWUekkwZ5dlyVGQrCQyMivNu0vqPRFw==",
+   "resolved": "https://podcastor.ai/blog/6-best-podcast-clipping-tools",
+   "title": "podcastor.ai"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0y3rE2e_jYL2jEoDotZhJjevVOa86CZJSvUPbTnAqK4Lv92Yy5LpNW86lyHFvvkJQPd-nZ6RLPDxqUSxaSj7imjt2BDLbbkeen-klatHR7D0M-pMw3Qx2HxiN3el2aQpvtBovmhDG5P9vRL1a5V5JOtk73YQ=",
+   "resolved": "https://www.trezalabs.com/blog/best-podcast-clip-generators",
+   "title": "trezalabs.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYcLIIn_07B8EEgS_SzpO4Qb5twErF76ORceKFvB-K7IdeCP5wLa-lIMW46Zl7we8fb0UcYIko5oxyqu1CjBp0DSuEAnoEsdXjWpvl2TB_Qp7clB7rrnsgFEdnMbggVF7Hm6wlxieUiEi9vh7aFg==",
+   "resolved": "https://reap.video/blog/best-podcast-clip-generators",
+   "title": "reap.video"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8FlTdrPhMWN6cd3LjM08VXhiMZLIEOFUpNQ00qw7chvFcT8I3jjy90RCkyeq3IG6QI20-mK_kQIYFKjLsSrfmsufc6xwcnv2atinMhe0bdfR0q2dY6xpeJ2areh5YBPPNawe127nNV1IE6LWD",
+   "resolved": "https://riverside.com/blog/podcast-editing-software",
+   "title": "riverside.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuFrlGZj5VG5tI-EUUK9AChoPmzCVe5s_KFWs0xkArZCwF7HJYawK9hrRy75QwUkM2nVMUzmWYikew_KgL565nNccaMj1qJESCdViEIiWKHo8iWUy0aWkBtGI_JAMho0hE45MDKA==",
+   "resolved": "https://www.youtube.com/watch?v=SJCW_zcbeq8",
+   "title": "youtube.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIsVLFYGJvRkgj2a0pAa80SoSnjY_dTUmhjsLt_bsuFTV0RfOU4Obiiv-d7pDozbGsKE7QEZ2wu7CVOyMWKY68jkNMPLswfQ7TG8GC8_IpvobLcEvlJHViAg_aHpgpaOjGiNxm8r7apYHhmL36WPoFn7BUxV79-sKuamDS-g==",
+   "resolved": "https://travelislife.org/convert-audio-podcasts-into-visual-videos/",
+   "title": "travelislife.org"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz4J_6k7O_tu9VnnRJQQwugzZk0S7XLTN9y5KjEfJy1eMbSbkWbTAHlkcMkO9D8PWZHLraw3PODBD-KTIDilzsr5Z8_hLIumioxXtRxRb9O-vbXHCUQyty4x0YUllRAnWXn6ugio05VpOb4_IWRnBc",
+   "resolved": "https://soundmadeseen.com/blog/6-best-audiogram-makers",
+   "title": "soundmadeseen.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb58IcyYXhyjKqG-FmDwCOxFTAPDlOS48RQSTGRzEK4RnQhneHEVvEAbwIO4pdR07LXeKryueIQUESqnUXgFHCyizQSNL6GC0yD0FM7iqikKaxOKueNQrnfbFrXPRTIL1s",
+   "resolved": "https://recast.studio/podcast-audiogram",
+   "title": "recast.studio"
+  }
+ ],
+ "model": "gemini-2.5-flash",
+ "search_queries": [
+  "how to repurpose podcast into short clips for social media",
+  "best tools for podcast clipping",
+  "podcast audiogram creators",
+  "podcast video editing software for clips",
+  "why repurpose podcast clips"
+ ],
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Repurposing your podcast into short, engaging clips is a highly effective strategy to expand your reach, boost engagement, and maximize the value of your content. By transforming longer episodes into \"snackable\" video or audio segments, you can cater to different consumption preferences and tap into new audiences on various social media platforms.\n\nHere's how to repurpose your podcast into clips:\n\n### 1. Identify Key Moments\n\nThe first step is to pinpoint the most compelling, insightful, or entertaining segments within your full podcast episode. These could be:\n*   **\"Aha!\" moments or key takeaways:** Powerful insights or valuable advice.\n*   **Emotional or controversial discussions:** Segments that spark strong feelings or debate.\n*   **Funny anecdotes or memorable quotes:** Humorous or highly quotable parts.\n*   ** \ub2f5\ubcc0 to frequently asked questions:** Concise answers that can stand alone.\n\nSome AI tools, like Opus Clip, can even provide a \"Virality Score\" to help you select clips with the highest potential for social media performance. Other tools like Choppity use AI to identify viral moments and generate clips automatically.\n\n### 2. Choose Your Clip Format\n\nPodcast clips can take several forms, depending on your content and target platform:\n\n*   **Video Clips:** If you record video podcasts, these are straightforward to create. Even for audio-only podcasts, you can create video clips by adding visual elements.\n*   **Audiograms:** These are animated sound wave videos that combine your audio clip with a static image, waveform animation, and often animated captions. They are ideal for platforms like Instagram, Facebook, and YouTube Shorts.\n\n### 3. Edit Your Clips\n\nOnce you've identified the moments, it's time for editing. This involves trimming, refining audio, and adding visual elements.\n\n**For Video Clips:**\n\n*   **Basic Editing:** Cut out dead air, filler words, and any irrelevant sections to make the clip concise and impactful.\n*   **Captions/Subtitles:** Crucial for social media, as many users watch videos without sound. Tools often offer automatic transcription and animated captioning.\n*   **Visual Enhancements:** Add intro/outro screens, lower thirds, or simple motion graphics to make the clip more dynamic.\n*   **Aspect Ratio:** Adjust the video to suit different platforms (e.g., 9:16 for TikTok, Reels, and YouTube Shorts).\n\n**For Audiograms:**\n\n*   **Audio Trimming:** Select the exact audio segment you want to highlight.\n*   **Visual Design:** Choose a background image or video, customize waveform styles, and select fonts for captions.\n*   **Animated Captions:** Many audiogram tools can automatically sync captions with your audio, highlighting words as they are spoken.\n\n### 4. Recommended Tools\n\nSeveral tools, ranging from professional editing software to AI-powered clip generators, can assist in this process:\n\n**AI-Powered Clipping Tools (for automatic clip generation and transcription):**\n\n*   **Opus Clip:** Popular for its AI that suggests viral moments and provides a \"Virality Score\".\n*   **Descript:** Offers transcript-based editing, allowing you to edit video by editing text, and also generates clips. It can also create audiograms.\n*   **CapCut:** A free and user-friendly option for social media podcast clips with AI features.\n*   **Choppity:** AI-powered video editor that can turn long videos into multiple short clips quickly.\n*   **Riverside:** Offers recording and repurposing features, including \"Magic Clips\" to turn recordings into short-form videos.\n*   **Vizard:** Another AI tool for turning long videos into short clips.\n*   **PodcastorAI:** Generates ready-to-use clips quickly after uploading your podcast.\n\n**Traditional Video Editing Software (for more control and advanced edits):**\n\n*   **Adobe Premiere Pro:** Professional-grade software with advanced editing capabilities, including AI auto-reframe for different aspect ratios.\n*   **DaVinci Resolve:** A free, powerful option for advanced reel editing, captions, and motion graphics.\n\n**Audiogram Creators (for turning audio into visually engaging videos):**\n\n*   **VEED.IO:** An online audiogram creator that lets you add waveforms and animated subtitles to your video podcasts. It can automatically add subtitles and animate words as they are spoken.\n*   **Headliner App:** A widely used tool for creating audiograms.\n*   **Wavve:** Another popular audiogram creation tool.\n*   **Recast Studio:** Offers an audiogram generator with templates and sound wave visuals.\n*   **SoundMadeSeen:** An AI-powered audiogram maker that can also convert long videos into clips.\n*   **Audioburst:** Provides tools for podcasters, including an audiogram creator that breaks down podcasts into short \"audiobursts\".\n\n### 5. Distribute Your Clips\n\nOnce your clips are ready, share them strategically across various platforms:\n\n*   **YouTube Shorts:** Vertical video format for quick consumption.\n*   **Instagram Reels & Stories:** Engaging short-form video for visual platforms.\n*   **TikTok:** Highly effective for viral, short video content.\n*   **Facebook:** Share video clips and audiograms directly to your page and groups.\n*   **Twitter:** Use short video clips or audiograms with compelling quotes and hashtags.\n\nBy consistently repurposing your podcast content into these digestible formats, you can significantly enhance your podcast's visibility and attract a broader audience."
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "searchEntryPoint": {
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRbVD_cuKWYBIKqB0WUhvYtszGtkk7a03woL1o6zFKTrzuiyNFaPJHRG7xSO3M-5WKAaziI-up7jEkxDqu9eRwTmFi3F8RMjrGmTLQqpf7Oi23xvE7WxU2gDjh6i0XK1XtFfhfSKZlCfeZx6frruvH6zj-du5HM49VMzygECgZPZEHCXkf5wLQSblHCMXuQRwc0tdQhueh-61UXfRxIYG02x9Vg0nv7tGajA==\">podcast video editing software for clips</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAyQcTxdKBCogxsQ1LgIc5Qy0MVmzmCQmq34bXJ9QdIYqJ9Mpvfnnz9h5yeMKfuECTP66in6n7ahv2ZRo2cZ6v6luUD9Sw-prujioP6yMuczJFTDuOlnZkCkfhUdQB0E4mQaxDAQ9qkNlmsDdKxgqctnHUoDFxSY8ryvK_c0axTkMMvO_f6bq6mMapx6ykQWhSCNhCfk3_FhwwH18=\">podcast audiogram creators</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETNFsFQ35tIhfGJjjf8nrqnwmMyWBLBcz1f3tgJqDtwsNMY1KToectrHK6uHmmDUrq4ZS4NmTfTuHP7VTor9P83EMTSE06ThK8MuudSO3Zd8JQa3pzmFqF7wvBbTMfznDs89_rtJqxjuf7zBZ_k7_3eJ77gfSB_ARF0_v0ZKby7edJKoibwo8TYzBo2eHr9iA1subu6ms3SZN1yQFk2QtarVhWZ4YtYoxcVOLGo_Ssu0lsQmdADh4zoBnDB2o=\">how to repurpose podcast into short clips for social media</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpDXgF5P2J2atAWxe30LIfzTYkM-rrWqAZbYVBj003VjusWkAe5RTFUkCfcsCbHF1hdRu_q0fJGBOk3ovDi-27GV-6wK8Q1V9dABA50xHauZ3Tuu1gIwzqLwa6dTA1vhMs2GotM9htO73d7G0njc21hlPsDtW8scqcyr37CIEaJ2FYrnxmve3vcRqU19io4U-88x5pV_qx2YFZdQcaGGGNAQ==\">best tools for podcast clipping</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2NMtAAXTiOt5MLm44hJOlgJZAzqbyn-DvD5CDMRhAnHsuSnAAQTPL7j6feEnSjGUpoaULqHh4E_EIXIQXhpshn6LcBIbaeXWR4NPAMZgLK04Tyg0oVxRqp3mPB1z0C3rwAQfxH6NvTcRyf8QzCVGiAf9172pRdLW6lJPTFh7Kopn81my6xyl3kKWiF5GT4aU6QL5Uz1XxeTx6kY-m\">why repurpose podcast clips</a>\n  </div>\n</div>\n"
+     },
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmQcCVtAMfSa4MT6yGW-EMsRmxnbsZL67EFKvET-A2fJnyTbGeG2ot4KYy7UEXfyWXcuWUTjhScRJaAwuszdBF2ilAwTqKbNhcOTm4kI5q_XP9hYq5NWnOvbFCI2B7GtUNmh2FPMuE5D6fHkTlWAk7mZ65iEsoDY8dX3ccRz2DyDs=",
+        "title": "rev.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV3fMDViNqbAPyqpZLYXeTM9CssTRfsq_c3e_8tDdEnmcFs51U9cR4vtdhKLoqHfLh2khhZkNBx0ss_0QjVXI51jXd2Ww3tqhWsFVPHSayjYQ3YP6a6jBCbUo2WllL8wOmpFYxRtUFAUEoiwvqc9o=",
+        "title": "fellyday.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpRt-wFI59AIqPMkTlbpC2lt41gQ7_fC1xBdsNoAtse0Cr-YynUmhik12khlyqmPO_DlHqy4PmmGlPgVJl6h_chlTD8LaEGuUZdGeYur_iQnmKTZP78EK0dPcShLrIBxULxFM9MKxZAEf4xEFcfUKOyPtKluXo",
+        "title": "swellai.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LpDGN8OVUWs-Y7yehZAE45NvgMl0VnlCMUVXTEe3Z4_7fHaMGfjrzBcLEAUI-26CurLMRv2X9HjNVpSrjGyPj61tt_nm4SIH2FFdsClwiG8nZnplZb8tbMw70jg8rigYjj_4pPkbd59AcVQi5f_KwULy1g==",
+        "title": "exemplary.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc3Qb1yrmRbRo6Hj3XgChFc6dKAHdXEI6yVTc7uZASWP-RAeV0ZqYmsqvA8K3hgcEJNW4rd8uQxlmfU2tpUdIh8GJFksDfF2l-MydtgZ_zZYp_ZDpEK5rB1EF4A_e6h6EhvhC9QrKkCNEBhSA_HEIBug==",
+        "title": "podcast.co"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWjdhWcIzsjfUqNQgbpf5ev7pPqU9OT3nyBd4d_e0NQC-0r_2HBbjfVzB8_4KwjqAzHDXk1bbafVx1jH-uBbhMZE9s-zRZPyvy-4WhLK561vGDG22447jkjA14pw4wCkLX9XBcPzLQPkgJEOBy9dGGcv6LRbuE",
+        "title": "ssemble.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQKjMzmH7Wqg1Ryp7uL09T1IXzQvGFbwzWdGlwOEMGtUCu82wDHAcnfG4OQbQN1yhoRkoE_48DqpZry4SwpmkWJVqD0okI1wiwlppvk66TOeTbXWcekgld-DHSgxEHjaHQS7Myh0TPSk6RyfXR7U6mfXZHTb4fgIdDnvxFffo1",
+        "title": "choppity.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3bmTZnK2aMK6mwJqS7fZLZQkbh-a7gpSgibnXICQX1C6u5sMGZKxH-gk1K_VuCvBvNCTUOgs3KQE4td8iMR1wNOu1thj9shz0B7oUAJxYqRWV5A==",
+        "title": "choppity.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYa585cIzf_q-2P01nZd10EzImpLblE24ER5WG-aWBSOCoZYN-Q7NcJI5BIDqdnbh0CIF0xGj0mN3GCBrG5AgnoGWvkKiIpU1r9s34KbywVnNoObNABV8DI-SqO-OsM5MZjJjMqi9fDM9ZewLipFGtjM80aZPqQu5GU7h1",
+        "title": "podchaser.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOXflL2UV1hMhPh41_FSM4Vv97yvuRgvhuPwq-swk8PojopZxUug3wbF-ZC_QhVxrPaQvstIFumTEN2bwLVFMSImt8hoDX78lOTICvUffwZRYqcfLxhsxLcnZOhAPxPPMGSUIqyA==",
+        "title": "youtube.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-lxmgQdiz9I0fERA09ftFJxjwE1WZRbQV3ATNRD8X1Ry9tleGbMTOfG6dGZmgJAIrZTQM4PuNK5C2T9rQWU6TkfEwNH7oXAcXW5K7BMgzE81jQ9OZklDKB5zS_atePxlWYcCW4g==",
+        "title": "youtube.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERMJMd6kaox5EIOzt-U3hTp6tenRHcfhh0Jg4TR7bNLRm-EYl8t4oU0XIhFWu6Vap_bnZbsV3KDUG2-zmdj4Zf1fjzEBOT7HCt9Vn9fIudtf3Fd3Ze-oc-qQZwQAYQ-XWDxTdfhEqbRZttGIFrm0prVp4fV3Rq",
+        "title": "veed.io"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3Z0j1sIENYI-hwOzJHF5jb3Wjdad5HQ23RXOpMIF9Bs1CWDW8nAhvyLRI29wKphiiaiihWVSn6CLfRr70dsbiTd1DBpi7Vt1ugIi00ygNn5pO1nQcNiJOBf4cWUekkwZ5dlyVGQrCQyMivNu0vqPRFw==",
+        "title": "podcastor.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0y3rE2e_jYL2jEoDotZhJjevVOa86CZJSvUPbTnAqK4Lv92Yy5LpNW86lyHFvvkJQPd-nZ6RLPDxqUSxaSj7imjt2BDLbbkeen-klatHR7D0M-pMw3Qx2HxiN3el2aQpvtBovmhDG5P9vRL1a5V5JOtk73YQ=",
+        "title": "trezalabs.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYcLIIn_07B8EEgS_SzpO4Qb5twErF76ORceKFvB-K7IdeCP5wLa-lIMW46Zl7we8fb0UcYIko5oxyqu1CjBp0DSuEAnoEsdXjWpvl2TB_Qp7clB7rrnsgFEdnMbggVF7Hm6wlxieUiEi9vh7aFg==",
+        "title": "reap.video"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8FlTdrPhMWN6cd3LjM08VXhiMZLIEOFUpNQ00qw7chvFcT8I3jjy90RCkyeq3IG6QI20-mK_kQIYFKjLsSrfmsufc6xwcnv2atinMhe0bdfR0q2dY6xpeJ2areh5YBPPNawe127nNV1IE6LWD",
+        "title": "riverside.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuFrlGZj5VG5tI-EUUK9AChoPmzCVe5s_KFWs0xkArZCwF7HJYawK9hrRy75QwUkM2nVMUzmWYikew_KgL565nNccaMj1qJESCdViEIiWKHo8iWUy0aWkBtGI_JAMho0hE45MDKA==",
+        "title": "youtube.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIsVLFYGJvRkgj2a0pAa80SoSnjY_dTUmhjsLt_bsuFTV0RfOU4Obiiv-d7pDozbGsKE7QEZ2wu7CVOyMWKY68jkNMPLswfQ7TG8GC8_IpvobLcEvlJHViAg_aHpgpaOjGiNxm8r7apYHhmL36WPoFn7BUxV79-sKuamDS-g==",
+        "title": "travelislife.org"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz4J_6k7O_tu9VnnRJQQwugzZk0S7XLTN9y5KjEfJy1eMbSbkWbTAHlkcMkO9D8PWZHLraw3PODBD-KTIDilzsr5Z8_hLIumioxXtRxRb9O-vbXHCUQyty4x0YUllRAnWXn6ugio05VpOb4_IWRnBc",
+        "title": "soundmadeseen.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb58IcyYXhyjKqG-FmDwCOxFTAPDlOS48RQSTGRzEK4RnQhneHEVvEAbwIO4pdR07LXeKryueIQUESqnUXgFHCyizQSNL6GC0yD0FM7iqikKaxOKueNQrnfbFrXPRTIL1s",
+        "title": "recast.studio"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 163,
+        "endIndex": 348,
+        "text": "By transforming longer episodes into \"snackable\" video or audio segments, you can cater to different consumption preferences and tap into new audiences on various social media platforms"
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 908,
+        "endIndex": 1055,
+        "text": "Some AI tools, like Opus Clip, can even provide a \"Virality Score\" to help you select clips with the highest potential for social media performance"
+       },
+       "groundingChunkIndices": [
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1057,
+        "endIndex": 1148,
+        "text": "Other tools like Choppity use AI to identify viral moments and generate clips automatically"
+       },
+       "groundingChunkIndices": [
+        6,
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1597,
+        "endIndex": 1670,
+        "text": "They are ideal for platforms like Instagram, Facebook, and YouTube Shorts"
+       },
+       "groundingChunkIndices": [
+        3,
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2133,
+        "endIndex": 2256,
+        "text": "*   **Visual Enhancements:** Add intro/outro screens, lower thirds, or simple motion graphics to make the clip more dynamic"
+       },
+       "groundingChunkIndices": [
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2258,
+        "endIndex": 2375,
+        "text": "*   **Aspect Ratio:** Adjust the video to suit different platforms (e.g., 9:16 for TikTok, Reels, and YouTube Shorts)"
+       },
+       "groundingChunkIndices": [
+        10
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2594,
+        "endIndex": 2728,
+        "text": "*   **Animated Captions:** Many audiogram tools can automatically sync captions with your audio, highlighting words as they are spoken"
+       },
+       "groundingChunkIndices": [
+        11
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2957,
+        "endIndex": 3054,
+        "text": "*   **Opus Clip:** Popular for its AI that suggests viral moments and provides a \"Virality Score\""
+       },
+       "groundingChunkIndices": [
+        12,
+        13,
+        5,
+        14
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3056,
+        "endIndex": 3175,
+        "text": "*   **Descript:** Offers transcript-based editing, allowing you to edit video by editing text, and also generates clips"
+       },
+       "groundingChunkIndices": [
+        12,
+        13,
+        15
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3177,
+        "endIndex": 3206,
+        "text": "It can also create audiograms"
+       },
+       "groundingChunkIndices": [
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3208,
+        "endIndex": 3303,
+        "text": "*   **CapCut:** A free and user-friendly option for social media podcast clips with AI features"
+       },
+       "groundingChunkIndices": [
+        12,
+        13,
+        16
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3305,
+        "endIndex": 3406,
+        "text": "*   **Choppity:** AI-powered video editor that can turn long videos into multiple short clips quickly"
+       },
+       "groundingChunkIndices": [
+        6,
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3408,
+        "endIndex": 3535,
+        "text": "*   **Riverside:** Offers recording and repurposing features, including \"Magic Clips\" to turn recordings into short-form videos"
+       },
+       "groundingChunkIndices": [
+        12,
+        15
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3537,
+        "endIndex": 3609,
+        "text": "*   **Vizard:** Another AI tool for turning long videos into short clips"
+       },
+       "groundingChunkIndices": [
+        13,
+        16
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3611,
+        "endIndex": 3697,
+        "text": "*   **PodcastorAI:** Generates ready-to-use clips quickly after uploading your podcast"
+       },
+       "groundingChunkIndices": [
+        12
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3779,
+        "endIndex": 3924,
+        "text": "*   **Adobe Premiere Pro:** Professional-grade software with advanced editing capabilities, including AI auto-reframe for different aspect ratios"
+       },
+       "groundingChunkIndices": [
+        12,
+        10
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3926,
+        "endIndex": 4031,
+        "text": "*   **DaVinci Resolve:** A free, powerful option for advanced reel editing, captions, and motion graphics"
+       },
+       "groundingChunkIndices": [
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4229,
+        "endIndex": 4300,
+        "text": "It can automatically add subtitles and animate words as they are spoken"
+       },
+       "groundingChunkIndices": [
+        11
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4302,
+        "endIndex": 4367,
+        "text": "*   **Headliner App:** A widely used tool for creating audiograms"
+       },
+       "groundingChunkIndices": [
+        17,
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4369,
+        "endIndex": 4423,
+        "text": "*   **Wavve:** Another popular audiogram creation tool"
+       },
+       "groundingChunkIndices": [
+        17,
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4425,
+        "endIndex": 4515,
+        "text": "*   **Recast Studio:** Offers an audiogram generator with templates and sound wave visuals"
+       },
+       "groundingChunkIndices": [
+        18,
+        8,
+        19
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4517,
+        "endIndex": 4614,
+        "text": "*   **SoundMadeSeen:** An AI-powered audiogram maker that can also convert long videos into clips"
+       },
+       "groundingChunkIndices": [
+        18
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4616,
+        "endIndex": 4748,
+        "text": "*   **Audioburst:** Provides tools for podcasters, including an audiogram creator that breaks down podcasts into short \"audiobursts\""
+       },
+       "groundingChunkIndices": [
+        17
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 5253,
+        "endIndex": 5419,
+        "text": "By consistently repurposing your podcast content into these digestible formats, you can significantly enhance your podcast's visibility and attract a broader audience"
+       },
+       "groundingChunkIndices": [
+        3,
+        4
+       ]
+      }
+     ],
+     "webSearchQueries": [
+      "how to repurpose podcast into short clips for social media",
+      "best tools for podcast clipping",
+      "podcast audiogram creators",
+      "podcast video editing software for clips",
+      "why repurpose podcast clips"
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 30,
+   "candidatesTokenCount": 1209,
+   "totalTokenCount": 1855,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 30
+    }
+   ],
+   "toolUsePromptTokenCount": 348,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 348
+    }
+   ],
+   "thoughtsTokenCount": 268,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "f97cauqzCYX6694Po8yrUA"
+ }
+}

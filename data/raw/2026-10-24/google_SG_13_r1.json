@@ -1,0 +1,139 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.canva.com/features/ai-video-generator/",
+   "title": "AI Video Generator: Text to Video AI Tool"
+  },
+  {
+   "position": 2,
+   "link": "https://www.heygen.com/tool/ai-video-clip-generator",
+   "title": "Free AI Clip Generator Turn Long Videos Into Short Clips"
+  },
+  {
+   "position": 3,
+   "link": "https://www.krea.ai/features/ai-video-generator",
+   "title": "Free AI Video Generator - Text to Video & Image to Video"
+  },
+  {
+   "position": 4,
+   "link": "https://klap.app/tools/ai-clip-generator",
+   "title": "AI Clip Generator from Long Videos \u2014 Free"
+  },
+  {
+   "position": 5,
+   "link": "https://www.adobe.com/express/create/ai/video/clip",
+   "title": "Free AI Clip Generator | Adobe Express"
+  },
+  {
+   "position": 6,
+   "link": "https://openart.ai/ai-video-generator/",
+   "title": "Introducing OpenArt's AI Video Generator"
+  },
+  {
+   "position": 7,
+   "link": "https://wayin.ai/",
+   "title": "WayinVideo - AI Video Platform for Every Workflow"
+  },
+  {
+   "position": 8,
+   "link": "https://www.vmaker.com/tools/ai-clip-maker",
+   "title": "Free AI Clip Maker for Viral Short Videos"
+  },
+  {
+   "position": 9,
+   "link": "https://invideo.io/make/ai-video-generator/",
+   "title": "Free AI Video Generator"
+  },
+  {
+   "position": 10,
+   "link": "https://www.reddit.com/r/ArtificialInteligence/comments/1asdjc0/best_free_site_for_prompt_generating_ai_videos/",
+   "title": "Best free site for prompt generating ai videos?"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "related_searches": [],
+ "model": "serper.dev",
+ "raw": {
+  "searchParameters": {
+   "q": "Is there a free AI video clip generator?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "AI Video Generator: Text to Video AI Tool",
+    "link": "https://www.canva.com/features/ai-video-generator/",
+    "snippet": "Use Canva AI's Create a Video Clip to instantly generate an AI-powered video from text\u2014complete with synchronized audio, including dialogue and sound effects.",
+    "position": 1
+   },
+   {
+    "title": "Free AI Clip Generator Turn Long Videos Into Short Clips",
+    "link": "https://www.heygen.com/tool/ai-video-clip-generator",
+    "snippet": "Use HeyGen's free AI clip generator to turn long videos into short clips with AI clipping. Generate captioned clips for TikTok, Reels, and YouTube Shorts ...",
+    "position": 2
+   },
+   {
+    "title": "Free AI Video Generator - Text to Video & Image to Video",
+    "link": "https://www.krea.ai/features/ai-video-generator",
+    "snippet": "Generate AI videos from text or images with Krea's free AI video generator. Try Seedance 2.5, Veo 3.1, Kling 3.0, MiniMax H3 Max, Wan 3.0, and Flux 3 Video.",
+    "position": 3
+   },
+   {
+    "title": "AI Clip Generator from Long Videos \u2014 Free",
+    "link": "https://klap.app/tools/ai-clip-generator",
+    "snippet": "Klap's free AI clip generator scans your long videos and generates 10+ viral-ready short clips in 30 seconds. Auto-reframed, captioned, scored. No editing ...",
+    "rating": 4.8,
+    "ratingCount": 2300000,
+    "position": 4
+   },
+   {
+    "title": "Free AI Clip Generator | Adobe Express",
+    "link": "https://www.adobe.com/express/create/ai/video/clip",
+    "snippet": "Free AI Clip maker. Create engaging, bite-sized video clips effortlessly with the Adobe Express AI Clip maker. Just upload your video, and watch as AI ...",
+    "position": 5
+   },
+   {
+    "title": "Introducing OpenArt's AI Video Generator",
+    "link": "https://openart.ai/ai-video-generator/",
+    "snippet": "Yes. OpenArt is a free AI video generator to start: new users get free credits on signup. Longer, higher-quality videos and premium models like Veo 3.1 and ...",
+    "position": 6
+   },
+   {
+    "title": "WayinVideo - AI Video Platform for Every Workflow",
+    "link": "https://wayin.ai/",
+    "snippet": "Turn long videos into short clips with WayinVideo's AI clip maker, which finds highlights and prepares social-ready edits for TikTok, Reels, and Shorts.",
+    "position": 7
+   },
+   {
+    "title": "Free AI Clip Maker for Viral Short Videos",
+    "link": "https://www.vmaker.com/tools/ai-clip-maker",
+    "snippet": "Yes. Most tools offer a free plan to try, and with Vmaker AI you can upload and generate clips for free, and even edit them.",
+    "rating": 4.7,
+    "ratingCount": 103,
+    "position": 8
+   },
+   {
+    "title": "Free AI Video Generator",
+    "link": "https://invideo.io/make/ai-video-generator/",
+    "snippet": "Generate AI videos with simple text prompts using an AI video generator by invideo AI. It generates scripts, adds clips, subtitles, music, and transitions.",
+    "rating": 4.7,
+    "ratingCount": 530,
+    "position": 9
+   },
+   {
+    "title": "Best free site for prompt generating ai videos?",
+    "link": "https://www.reddit.com/r/ArtificialInteligence/comments/1asdjc0/best_free_site_for_prompt_generating_ai_videos/",
+    "snippet": "Runway ML has a free tier that lets you experiment with AI video generation, though with some limitations. You can create short clips from text ...",
+    "date": "2 years ago",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

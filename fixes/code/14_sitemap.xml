@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Set each lastmod to the real date that page last changed. Google ignores changefreq and priority, so they are removed. -->
+  <url><loc>https://incubrix.com/</loc><lastmod>YYYY-MM-DD</lastmod></url>
+  <url><loc>https://incubrix.com/about</loc><lastmod>YYYY-MM-DD</lastmod></url>
+  <url><loc>https://incubrix.com/how-it-works</loc><lastmod>YYYY-MM-DD</lastmod></url>
+  <url><loc>https://incubrix.com/faq</loc><lastmod>YYYY-MM-DD</lastmod></url>
+  <url><loc>https://incubrix.com/pricing</loc><lastmod>YYYY-MM-DD</lastmod></url>
+  <url><loc>https://incubrix.com/contact</loc><lastmod>YYYY-MM-DD</lastmod></url>
+  <url><loc>https://incubrix.com/team</loc><lastmod>YYYY-MM-DD</lastmod></url>
+  <url><loc>https://incubrix.com/careers</loc><lastmod>YYYY-MM-DD</lastmod></url>
+  <url><loc>https://incubrix.com/manifesto</loc><lastmod>YYYY-MM-DD</lastmod></url>
+  <!-- Add the 10 new guide pages here once published, e.g. https://incubrix.com/guides/<slug> -->
+</urlset>

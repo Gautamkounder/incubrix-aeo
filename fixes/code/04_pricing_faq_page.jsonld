@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do we offer a free trial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We do not offer free trials for paid plans. However, we offer a Free plan for exploring the platform. Once the limits of the free plan are exhausted, we provide options to upgrade to a paid plan to continue using the services."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I upgrade or downgrade my plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We support plan upgrades anytime when higher limits or additional capabilities are required. Downgrading plans is currently not supported once a paid plan has been activated."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a monthly usage limit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. There are no monthly limits. We allow the usage limits provided in each plan to be used within a 1-year period, giving flexibility to utilize them based on the workflow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment methods do we accept?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All payments are processed through Stripe, our secure payment partner. We support all payment methods accepted by Stripe, such as major credit or debit cards depending on the region."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do we offer refunds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fees are non-refundable except where required by law or in the case of verified billing errors, duplicate charges, or unauthorized transactions. In those cases we'll make it right with a credit or refund. Payments are processed securely by Stripe."
+      }
+    }
+  ]
+}

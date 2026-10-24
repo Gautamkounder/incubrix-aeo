@@ -1,0 +1,138 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.reddit.com/r/SmallYTChannel/comments/1nn0wg1/creating_shorts_from_my_existing_long_form_content/",
+   "title": "Creating shorts from my existing long form content"
+  },
+  {
+   "position": 2,
+   "link": "https://www.canva.com/features/long-video-to-short-video-AI/",
+   "title": "AI Video to Shorts Converter"
+  },
+  {
+   "position": 3,
+   "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+   "title": "Free Long Video to Short Video AI Converter"
+  },
+  {
+   "position": 4,
+   "link": "https://www.youtube.com/watch?v=gY1qWqNKamQ",
+   "title": "How To Turn Your YouTube Videos Into Shorts (On A Computer!)"
+  },
+  {
+   "position": 5,
+   "link": "https://wayin.ai/tools/long-video-to-short-video/",
+   "title": "Free Long to Short Video Converter"
+  },
+  {
+   "position": 6,
+   "link": "https://www.capcut.com/tools/ai-long-video-to-short-video",
+   "title": "Transform Long Video to Short Clips - AI Tools"
+  },
+  {
+   "position": 7,
+   "link": "https://www.facebook.com/groups/1659712421002371/posts/3019482078358725/",
+   "title": "How to convert long form YouTube content into shorts?"
+  },
+  {
+   "position": 8,
+   "link": "https://www.flexclip.com/tools/ai-long-video-to-short-video/",
+   "title": "AI Long to Short Video Converter"
+  },
+  {
+   "position": 9,
+   "link": "https://www.opus.pro/tools/long-video-to-short-video-ai",
+   "title": "Long Video to Short Video AI - Auto Cut Clips Fast"
+  },
+  {
+   "position": 10,
+   "link": "https://www.youtube.com/watch?v=Coq4Fh3BjeE",
+   "title": "How I Convert Long Form to Short Form (2 Ways)"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "related_searches": [],
+ "model": "serper.dev",
+ "raw": {
+  "searchParameters": {
+   "q": "How to convert long form videos into Shorts?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Creating shorts from my existing long form content",
+    "link": "https://www.reddit.com/r/SmallYTChannel/comments/1nn0wg1/creating_shorts_from_my_existing_long_form_content/",
+    "snippet": "Klap, SendShort, and Spikes Studio are all wonderful options. Canva and Adobe Express have also just implemented \"long-to-short\" converters, ...",
+    "date": "1 year ago",
+    "position": 1
+   },
+   {
+    "title": "AI Video to Shorts Converter",
+    "link": "https://www.canva.com/features/long-video-to-short-video-AI/",
+    "snippet": "How to convert a long video to a short video with AI \u00b7 Upload your videos \u00b7 Make the cut \u00b7 Get your Highlights \u00b7 Edit your video \u00b7 Save and share \u00b7 Upload your videos.",
+    "position": 2
+   },
+   {
+    "title": "Free Long Video to Short Video AI Converter",
+    "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+    "snippet": "Turn long-form videos into ready-to-post shorts with Vmaker AI. Upload a podcast, webinar, or interview and get Shorts, Reels, and TikToks in minutes.",
+    "rating": 4.7,
+    "ratingCount": 103,
+    "position": 3
+   },
+   {
+    "title": "How To Turn Your YouTube Videos Into Shorts (On A Computer!)",
+    "link": "https://www.youtube.com/watch?v=gY1qWqNKamQ",
+    "snippet": "Learn how to easily turn long-form content into engaging YouTube Shorts, step-by-step using Descript.",
+    "date": "8 months ago",
+    "position": 4
+   },
+   {
+    "title": "Free Long to Short Video Converter",
+    "link": "https://wayin.ai/tools/long-video-to-short-video/",
+    "snippet": "Paste a YouTube link or upload your video to WayinVideo. Our AI automatically turns long videos into multiple Shorts-ready clips in 30 seconds. Sign up to ...",
+    "position": 5
+   },
+   {
+    "title": "Transform Long Video to Short Clips - AI Tools",
+    "link": "https://www.capcut.com/tools/ai-long-video-to-short-video",
+    "snippet": "How to convert a long video to short \u00b7 Step 1: Upload your video \u00b7 Step 2: Generate short clips \u00b7 Step 3: Export and share.",
+    "position": 6
+   },
+   {
+    "title": "How to convert long form YouTube content into shorts?",
+    "link": "https://www.facebook.com/groups/1659712421002371/posts/3019482078358725/",
+    "snippet": "Hi lovely ladies :)\nI'm running into a bit of tech issues and I was wondering if you could help me? I have a YouTube channel and I'm super indie but trying! ...",
+    "date": "1 year ago",
+    "position": 7
+   },
+   {
+    "title": "AI Long to Short Video Converter",
+    "link": "https://www.flexclip.com/tools/ai-long-video-to-short-video/",
+    "snippet": "Just paste a YouTube link or upload your video, and turn it into multiple viral shorts with FlexClip AI clipping tool. Free to try.",
+    "position": 8
+   },
+   {
+    "title": "Long Video to Short Video AI - Auto Cut Clips Fast",
+    "link": "https://www.opus.pro/tools/long-video-to-short-video-ai",
+    "snippet": "Turn long videos into short, engaging clips with AI. Automatically find the best highlights and get shareable short videos in seconds. Try it out now.",
+    "position": 9
+   },
+   {
+    "title": "How I Convert Long Form to Short Form (2 Ways)",
+    "link": "https://www.youtube.com/watch?v=Coq4Fh3BjeE",
+    "snippet": "How I Convert Long Form to Short Form (2 Ways). @websquadron39 ... How to Film YouTube Videos on Your Phone (Start to Finish). Content ...",
+    "date": "12 months ago",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

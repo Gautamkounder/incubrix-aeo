@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://incubrix.com/#organization",
+      "name": "IncuBrix",
+      "legalName": "IncuBrix Pte. Ltd.",
+      "url": "https://incubrix.com/",
+      "logo": "https://incubrix.com/logo.png",
+      "email": "support@incubrix.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4 Tampines Street 73",
+        "postalCode": "528824",
+        "addressCountry": "SG"
+      },
+      "sameAs": [
+        "https://linkedin.com/company/incubrix",
+        "https://www.instagram.com/incubrix_official",
+        "https://www.facebook.com/people/IncuBrix/61583095167915/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://incubrix.com/#website",
+      "url": "https://incubrix.com/",
+      "name": "IncuBrix",
+      "description": "IncuBrix turns one piece of content into clips, captions, voiceovers and posts for every platform, then publishes and tracks it from one screen.",
+      "publisher": { "@id": "https://incubrix.com/#organization" },
+      "inLanguage": "en"
+    }
+  ]
+}

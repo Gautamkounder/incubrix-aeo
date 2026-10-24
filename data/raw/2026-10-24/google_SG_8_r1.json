@@ -1,0 +1,136 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://klap.app/",
+   "title": "Klap | Turn videos into viral TikToks, Reels & Shorts"
+  },
+  {
+   "position": 2,
+   "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+   "title": "Free Long Video to Short Video AI Converter"
+  },
+  {
+   "position": 3,
+   "link": "https://www.flexclip.com/tools/ai-long-video-to-short-video/",
+   "title": "AI Long to Short Video Converter"
+  },
+  {
+   "position": 4,
+   "link": "https://www.canva.com/features/long-video-to-short-video-AI/",
+   "title": "AI Video to Shorts Converter"
+  },
+  {
+   "position": 5,
+   "link": "https://www.opus.pro/tools/youtube-shorts-maker",
+   "title": "YouTube Shorts Maker - Create Shorts Free with AI"
+  },
+  {
+   "position": 6,
+   "link": "https://www.quickreel.io/",
+   "title": "QuickReel: #1 AI video clipping & editing tool"
+  },
+  {
+   "position": 7,
+   "link": "https://vidiq.com/features/clipping/",
+   "title": "AI Video Clipping: Turn Long Videos into Shorts"
+  },
+  {
+   "position": 8,
+   "link": "https://exemplary.ai/ai-clips",
+   "title": "Free AI Clip Maker: Long Video to Short Clips"
+  },
+  {
+   "position": 9,
+   "link": "https://www.heygen.com/tool/long-video-to-short-video",
+   "title": "Long Video to Short Video AI Converter"
+  },
+  {
+   "position": 10,
+   "link": "https://www.youtube.com/watch?v=t1D-H7ZZF-c",
+   "title": "Turn Long Videos into Viral Shorts with HiClip AI"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "related_searches": [],
+ "model": "serper.dev",
+ "raw": {
+  "searchParameters": {
+   "q": "How can I turn a long video into viral Shorts?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Klap | Turn videos into viral TikToks, Reels & Shorts",
+    "link": "https://klap.app/",
+    "snippet": "Our AI video clip generator will turn all your long videos into a viral clips for your social media channels. Keep posting and watch your followers grow ...",
+    "position": 1
+   },
+   {
+    "title": "Free Long Video to Short Video AI Converter",
+    "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+    "snippet": "Turn long-form videos into ready-to-post shorts with Vmaker AI. Upload a podcast, webinar, or interview and get Shorts, Reels, and TikToks in minutes.",
+    "rating": 4.7,
+    "ratingCount": 103,
+    "position": 2
+   },
+   {
+    "title": "AI Long to Short Video Converter",
+    "link": "https://www.flexclip.com/tools/ai-long-video-to-short-video/",
+    "snippet": "Just paste a YouTube link or upload your video, and turn it into multiple viral shorts with FlexClip AI clipping tool. Free to try.",
+    "position": 3
+   },
+   {
+    "title": "AI Video to Shorts Converter",
+    "link": "https://www.canva.com/features/long-video-to-short-video-AI/",
+    "snippet": "Use our AI-powered video converter to automatically scan long clips. Click the trim icon on the toolbar, then select Highlights to trim your video into short ...",
+    "position": 4
+   },
+   {
+    "title": "YouTube Shorts Maker - Create Shorts Free with AI",
+    "link": "https://www.opus.pro/tools/youtube-shorts-maker",
+    "snippet": "Just upload your video and let our AI do the rest - identifying key moments, trimming unnecessary parts, and generating viral-worthy shorts. This tool not only ...",
+    "position": 5
+   },
+   {
+    "title": "QuickReel: #1 AI video clipping & editing tool",
+    "link": "https://www.quickreel.io/",
+    "snippet": "Create engaging viral short videos from your long-form content with AI. QuickReel turns long videos into YouTube Shorts, TikToks, and Instagram Reels in one ...",
+    "position": 6
+   },
+   {
+    "title": "AI Video Clipping: Turn Long Videos into Shorts",
+    "link": "https://vidiq.com/features/clipping/",
+    "snippet": "Turn long-form videos into short clips with vidIQ. Find highlights, add captions, and repurpose your content for YouTube Shorts, TikTok, and Reels.",
+    "position": 7
+   },
+   {
+    "title": "Free AI Clip Maker: Long Video to Short Clips",
+    "link": "https://exemplary.ai/ai-clips",
+    "snippet": "Turn a long video into short captioned clips with AI. Upload or paste a YouTube link, pick a length and 9:16, 1:1 or 16:9, and download MP4s ...",
+    "date": "14 Oct 2026",
+    "position": 8
+   },
+   {
+    "title": "Long Video to Short Video AI Converter",
+    "link": "https://www.heygen.com/tool/long-video-to-short-video",
+    "snippet": "A long video to short video converter uses AI to scan a full recording, find the strongest moments, and turn them into short, captioned clips sized for Shorts, ...",
+    "position": 9
+   },
+   {
+    "title": "Turn Long Videos into Viral Shorts with HiClip AI",
+    "link": "https://www.youtube.com/watch?v=t1D-H7ZZF-c",
+    "snippet": "\u26a1Try is now: https://app.hiclip.ai/... 30% off discount code: Y92U5Z56 --- Want to turn your long videos into viral, platform-ready ...",
+    "date": "1 year ago",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

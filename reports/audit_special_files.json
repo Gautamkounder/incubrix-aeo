@@ -1,0 +1,17 @@
+{
+ "robots.txt": {
+  "status": 200,
+  "bytes": 65,
+  "head": "User-agent: *\nAllow: /\nSitemap: https://incubrix.com/sitemap.xml\n"
+ },
+ "sitemap.xml": {
+  "status": 200,
+  "bytes": 1194,
+  "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://incubrix.com/</loc><changefreq>weekly</changefreq></url>\n  <url><loc>https://incubrix.com/about</loc><changefreq>weekly</changefreq></url>\n  <url><loc>https://incubrix.com/how-it-w"
+ },
+ "llms.txt": {
+  "status": 404,
+  "bytes": 79,
+  "head": ""
+ }
+}

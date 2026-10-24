@@ -1,0 +1,21 @@
+# IncuBrix
+
+> IncuBrix is a creator platform that turns one piece of content into clips, captions, voiceovers and posts for every platform, then publishes and tracks it from one screen. Creator Studio has a permanent Free plan. Company: IncuBrix Pte. Ltd., Singapore.
+
+## Product
+- [Home](https://incubrix.com/): What IncuBrix does and who it is for (podcasters, YouTubers, thought leaders, coaches, founders)
+- [How IncuBrix works](https://incubrix.com/how-it-works): From idea to published content
+- [Pricing](https://incubrix.com/pricing): Free plan and credit-based paid plans
+- [Creator Studio](https://app.incubrix.com/): The web app
+
+## Help
+- [FAQ](https://incubrix.com/faq): Getting started, features, data and privacy, support
+- [Contact](https://incubrix.com/contact): Support and demo booking
+
+## Company
+- [About](https://incubrix.com/about)
+- [Team](https://incubrix.com/team)
+- [Careers](https://incubrix.com/careers)
+
+## Optional
+- [Manifesto](https://incubrix.com/manifesto)

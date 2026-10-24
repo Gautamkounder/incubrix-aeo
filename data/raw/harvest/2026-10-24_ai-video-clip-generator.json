@@ -1,0 +1,212 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://wayin.ai/tools/clip-maker/",
+   "title": "Free AI Clip Maker & AI Clip Generator - Create Viral Clips ..."
+  },
+  {
+   "position": 2,
+   "link": "https://www.canva.com/features/ai-video-generator/",
+   "title": "AI Video Generator: Text to Video AI Tool"
+  },
+  {
+   "position": 3,
+   "link": "https://www.choppity.com/tools/free-ai-clip-maker/",
+   "title": "Free AI Clip Maker & AI Shorts Maker \u2014 Turn Long Videos ..."
+  },
+  {
+   "position": 4,
+   "link": "https://invideo.io/make/clipmaker/",
+   "title": "Free AI Clip Generator and Maker Online"
+  },
+  {
+   "position": 5,
+   "link": "https://www.adobe.com/express/create/ai/video/clip",
+   "title": "Free AI Clip Generator | Adobe Express"
+  },
+  {
+   "position": 6,
+   "link": "https://runway.com/product/ai-video-generator",
+   "title": "AI Video Generator"
+  },
+  {
+   "position": 7,
+   "link": "https://www.heygen.com/tool/ai-video-clip-generator",
+   "title": "Free AI Clip Generator Turn Long Videos Into Short Clips"
+  },
+  {
+   "position": 8,
+   "link": "https://www.spikes.studio/",
+   "title": "Spikes Studio | Ai clip generator for YouTube Twitch TikTok ..."
+  },
+  {
+   "position": 9,
+   "link": "https://vizard.ai/",
+   "title": "Vizard.ai | #1 AI Video Editing and Clipping Tool"
+  },
+  {
+   "position": 10,
+   "link": "https://www.vmaker.com/tools/ai-clip-maker",
+   "title": "Free AI Clip Maker for Viral Short Videos"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [
+  {
+   "question": "Is there a free AI video clip generator?"
+  },
+  {
+   "question": "How to generate a video clip with AI?"
+  },
+  {
+   "question": "Can ChatGPT create videos for free?"
+  },
+  {
+   "question": "What is the best website for video clipping?"
+  }
+ ],
+ "related_searches": [
+  {
+   "query": "Ai video clip generator free"
+  },
+  {
+   "query": "AI clip generator free"
+  },
+  {
+   "query": "Ai video clip generator online free"
+  },
+  {
+   "query": "Ai video clip generator online"
+  },
+  {
+   "query": "Ai video clip generator without watermark"
+  },
+  {
+   "query": "AI viral clip maker free"
+  },
+  {
+   "query": "AI clip generator from YouTube"
+  },
+  {
+   "query": "YouTube video to clips AI free"
+  }
+ ],
+ "model": "serper.dev",
+ "raw": {
+  "searchParameters": {
+   "q": "ai video clip generator",
+   "gl": "us",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Free AI Clip Maker & AI Clip Generator - Create Viral Clips ...",
+    "link": "https://wayin.ai/tools/clip-maker/",
+    "snippet": "Just upload your video or paste a link into WayinVideo. Our AI clip maker automatically creates multiple viral-ready clips in 30 seconds. Sign up to receive 100 ...",
+    "position": 1
+   },
+   {
+    "title": "AI Video Generator: Text to Video AI Tool",
+    "link": "https://www.canva.com/features/ai-video-generator/",
+    "snippet": "With Canva AI's Create a Video Clip, turn text prompts into stunning AI-generated videos in just one click. Add cinematic visuals and synchronized audio\u2014 ...",
+    "position": 2
+   },
+   {
+    "title": "Free AI Clip Maker & AI Shorts Maker \u2014 Turn Long Videos ...",
+    "link": "https://www.choppity.com/tools/free-ai-clip-maker/",
+    "snippet": "Choppity is a free AI clip maker and AI shorts maker. Upload any long video or podcast and our clips AI finds 30+ viral-ready Shorts, TikToks and Reels with ...",
+    "position": 3
+   },
+   {
+    "title": "Free AI Clip Generator and Maker Online",
+    "link": "https://invideo.io/make/clipmaker/",
+    "snippet": "Make short video clips from simple text prompts with our free and online AI clip generator. Generate video clips for YouTube, TikTok, and other social media",
+    "position": 4
+   },
+   {
+    "title": "Free AI Clip Generator | Adobe Express",
+    "link": "https://www.adobe.com/express/create/ai/video/clip",
+    "snippet": "Create engaging, bite-sized video clips effortlessly with the Adobe Express AI Clip maker. Just upload your video, and watch as AI highlights key segments, ...",
+    "position": 5
+   },
+   {
+    "title": "AI Video Generator",
+    "link": "https://runway.com/product/ai-video-generator",
+    "snippet": "Generate, edit, animate and extend video with the most powerful generative models in one place. Start from text, an image or existing footage.",
+    "position": 6
+   },
+   {
+    "title": "Free AI Clip Generator Turn Long Videos Into Short Clips",
+    "link": "https://www.heygen.com/tool/ai-video-clip-generator",
+    "snippet": "Use HeyGen's free AI clip generator to turn long videos into short clips with AI clipping. Generate captioned clips for TikTok, Reels, and YouTube Shorts ...",
+    "position": 7
+   },
+   {
+    "title": "Spikes Studio | Ai clip generator for YouTube Twitch TikTok ...",
+    "link": "https://www.spikes.studio/",
+    "snippet": "Spikes Studio's AI Video Editor finds the best moments in your videos and turns them into scroll-stopping clips for every social platform. GET FREE CLIPS.",
+    "position": 8
+   },
+   {
+    "title": "Vizard.ai | #1 AI Video Editing and Clipping Tool",
+    "link": "https://vizard.ai/",
+    "snippet": "Vizard turns your long form videos into engaging viral clips with AI. Make your engaging social-ready videos with just a few clicks.",
+    "position": 9
+   },
+   {
+    "title": "Free AI Clip Maker for Viral Short Videos",
+    "link": "https://www.vmaker.com/tools/ai-clip-maker",
+    "snippet": "Vmaker AI's free AI clip maker and clip generator turns long videos into viral short clips. Paste a link or upload a file.",
+    "rating": 4.7,
+    "ratingCount": 103,
+    "position": 10
+   }
+  ],
+  "peopleAlsoAsk": [
+   {
+    "question": "Is there a free AI video clip generator?"
+   },
+   {
+    "question": "How to generate a video clip with AI?"
+   },
+   {
+    "question": "Can ChatGPT create videos for free?"
+   },
+   {
+    "question": "What is the best website for video clipping?"
+   }
+  ],
+  "relatedSearches": [
+   {
+    "query": "Ai video clip generator free"
+   },
+   {
+    "query": "AI clip generator free"
+   },
+   {
+    "query": "Ai video clip generator online free"
+   },
+   {
+    "query": "Ai video clip generator online"
+   },
+   {
+    "query": "Ai video clip generator without watermark"
+   },
+   {
+    "query": "AI viral clip maker free"
+   },
+   {
+    "query": "AI clip generator from YouTube"
+   },
+   {
+    "query": "YouTube video to clips AI free"
+   }
+  ],
+  "credits": 1
+ }
+}

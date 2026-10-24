@@ -1,0 +1,51 @@
+{
+  "brand_name": "IncuBrix",
+  "brand_terms": [
+    "incubrix"
+  ],
+  "brand_domain": "incubrix.com",
+  "competitors": [
+    "Opus Clip",
+    "Descript",
+    "Riverside",
+    "Vizard",
+    "Repurpose.io",
+    "CapCut",
+    "Buffer",
+    "Hootsuite",
+    "Veed",
+    "Kapwing",
+    "Submagic",
+    "Captions"
+  ],
+  "markets": {
+    "US": {
+      "gl": "us",
+      "hl": "en",
+      "location": "United States"
+    },
+    "UK": {
+      "gl": "uk",
+      "hl": "en",
+      "location": "United Kingdom"
+    },
+    "SG": {
+      "gl": "sg",
+      "hl": "en",
+      "location": "Singapore"
+    }
+  },
+  "repeats": 2,
+  "providers": [
+    "google",
+    "perplexity",
+    "openai",
+    "gemini",
+    "anthropic"
+  ],
+  "weights": {
+    "google": 0.4,
+    "answer_surface": 0.2,
+    "ai_mention": 0.4
+  }
+}

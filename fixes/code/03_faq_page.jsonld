@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is IncuBrix suitable for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely! IncuBrix is designed for creators at all levels, from those just starting out to established professionals. Our intuitive interface and AI assistance make it easy to create professional content even if you're new to digital content creation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need technical skills to use IncuBrix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No technical skills required. IncuBrix is built to be user-friendly and intuitive. If you can use social media, you can use IncuBrix."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to get started?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You'll create your first piece of content within 15 minutes of signing in. Onboarding walks you through connecting your platforms and generating your first content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platforms does IncuBrix support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IncuBrix publishes to YouTube, Instagram, LinkedIn, and Spotify, with TikTok and more platforms on the roadmap."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the AI content generation work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IncuBrix learns your unique voice and style by analyzing your existing content. When you input an idea, it generates content that sounds authentically like you, not generic AI text. You maintain full control to edit and refine everything."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I customize the AI-generated content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! AI generation is just the starting point. You have full editing capabilities to refine, adjust, and personalize every piece of content before publishing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is my content data secure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Your content, analytics data, and personal information are protected and never shared with third parties without your explicit consent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you own the content I create on IncuBrix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. You own 100% of all content you create using IncuBrix. We simply provide the tools to help you create it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I export my data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can export all your content, analytics, and account data at any time in standard formats."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly do you respond to support requests?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We aim to respond to all support requests within 24 hours during weekdays, often much faster. Critical issues are handled immediately."
+      }
+    }
+  ]
+}

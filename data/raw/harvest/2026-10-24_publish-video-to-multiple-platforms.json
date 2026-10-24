@@ -1,0 +1,213 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1pk8j0f/hey_does_anyone_know_a_platform_where_i_can_post/",
+   "title": "Hey, does anyone know a platform where I can post ..."
+  },
+  {
+   "position": 2,
+   "link": "https://www.socialync.io/",
+   "title": "Socialync: Post to All Social Media at Once"
+  },
+  {
+   "position": 3,
+   "link": "https://www.reddit.com/r/socialmedia/comments/sggoji/upload_to_multiple_platforms_from_one_app/",
+   "title": "Upload to multiple platforms from one app?"
+  },
+  {
+   "position": 4,
+   "link": "https://www.facebook.com/groups/BuzzsproutCommunity/posts/8872686152751120/",
+   "title": "What app automatically uploads video clips to multiple social media ..."
+  },
+  {
+   "position": 5,
+   "link": "https://www.facebook.com/groups/1286531822337572/posts/1836217650702317/",
+   "title": "What are the best ways to post on multiple platforms and edit videos for ..."
+  },
+  {
+   "position": 6,
+   "link": "https://buffer.com/social-media-terms/cross-posting",
+   "title": "What is Cross Posting?"
+  },
+  {
+   "position": 7,
+   "link": "https://www.youtube.com/watch?v=l1n8ljMdXog",
+   "title": "How To Post On Multiple Social Media Platforms At Once"
+  },
+  {
+   "position": 8,
+   "link": "https://metricool.com/post-on-multiple-social-media-platforms/",
+   "title": "How to Post on Multiple Social Media Platforms At Once"
+  },
+  {
+   "position": 9,
+   "link": "https://www.bytecap.io/features/multi-platform-video",
+   "title": "Multi-Platform Video Publishing"
+  },
+  {
+   "position": 10,
+   "link": "https://www.quora.com/How-do-you-upload-a-video-to-multiple-platforms",
+   "title": "How do you upload a video to multiple platforms?"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [
+  {
+   "question": "Can you post the same video on multiple platforms?"
+  },
+  {
+   "question": "How to upload videos on multiple platforms at once?"
+  },
+  {
+   "question": "How can I post the same content to multiple platforms?"
+  },
+  {
+   "question": "Is there a free way to post on all social media platforms at once?"
+  }
+ ],
+ "related_searches": [
+  {
+   "query": "Publish video to multiple platforms free"
+  },
+  {
+   "query": "Publish video to multiple platforms reddit"
+  },
+  {
+   "query": "How to post on multiple platforms at once free"
+  },
+  {
+   "query": "Upload video to multiple platforms at once"
+  },
+  {
+   "query": "Buffer"
+  },
+  {
+   "query": "Upload video to multiple platforms free"
+  },
+  {
+   "query": "Socialync"
+  },
+  {
+   "query": "Hootsuite"
+  }
+ ],
+ "model": "serper.dev",
+ "raw": {
+  "searchParameters": {
+   "q": "publish video to multiple platforms",
+   "gl": "us",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Hey, does anyone know a platform where I can post ...",
+    "link": "https://www.reddit.com/r/AppBusiness/comments/1pk8j0f/hey_does_anyone_know_a_platform_where_i_can_post/",
+    "snippet": "I\u2019m building a new app and I\u2019ve been creating content for it, but honestly it\u2019s becoming super time-consuming to upload every video manually ...",
+    "date": "10 months ago",
+    "position": 1
+   },
+   {
+    "title": "Socialync: Post to All Social Media at Once",
+    "link": "https://www.socialync.io/",
+    "snippet": "One upload, every platform. Post to Instagram, TikTok, YouTube, Facebook, X, and LinkedIn simultaneously. Upload a video once. Socialync posts to 9 platforms ...",
+    "position": 2
+   },
+   {
+    "title": "Upload to multiple platforms from one app?",
+    "link": "https://www.reddit.com/r/socialmedia/comments/sggoji/upload_to_multiple_platforms_from_one_app/",
+    "position": 3
+   },
+   {
+    "title": "What app automatically uploads video clips to multiple social media ...",
+    "link": "https://www.facebook.com/groups/BuzzsproutCommunity/posts/8872686152751120/",
+    "position": 4
+   },
+   {
+    "title": "What are the best ways to post on multiple platforms and edit videos for ...",
+    "link": "https://www.facebook.com/groups/1286531822337572/posts/1836217650702317/",
+    "position": 5
+   },
+   {
+    "title": "What is Cross Posting?",
+    "link": "https://buffer.com/social-media-terms/cross-posting",
+    "snippet": "Cross posting is the practice of sharing the same content across multiple social media platforms ; Whether you're reposting a Reel from Instagram to TikTok or ...",
+    "position": 6
+   },
+   {
+    "title": "How To Post On Multiple Social Media Platforms At Once",
+    "link": "https://www.youtube.com/watch?v=l1n8ljMdXog",
+    "snippet": "In this video, I'll show you a simple and easy way to post on several social media platforms all in one place through a platform called Buffer.",
+    "date": "2 years ago",
+    "position": 7
+   },
+   {
+    "title": "How to Post on Multiple Social Media Platforms At Once",
+    "link": "https://metricool.com/post-on-multiple-social-media-platforms/",
+    "snippet": "You write the post once, tweak it for each network in the same editor, preview how it'll look on each one, and schedule it for each platform's ...",
+    "date": "Sep 14, 2026",
+    "position": 8
+   },
+   {
+    "title": "Multi-Platform Video Publishing",
+    "link": "https://www.bytecap.io/features/multi-platform-video",
+    "snippet": "Multi-platform video posting is the ability to publish a single video to multiple social networks at the same time \u2014 instead of uploading it separately to each ...",
+    "rating": 4.9,
+    "ratingCount": 3200,
+    "position": 9
+   },
+   {
+    "title": "How do you upload a video to multiple platforms?",
+    "link": "https://www.quora.com/How-do-you-upload-a-video-to-multiple-platforms",
+    "snippet": "The easiest and least expensive method to embed your videos to multiple platforms is to use Youtube own share button it's cheap, free and works ...",
+    "date": "5 years ago",
+    "position": 10
+   }
+  ],
+  "peopleAlsoAsk": [
+   {
+    "question": "Can you post the same video on multiple platforms?"
+   },
+   {
+    "question": "How to upload videos on multiple platforms at once?"
+   },
+   {
+    "question": "How can I post the same content to multiple platforms?"
+   },
+   {
+    "question": "Is there a free way to post on all social media platforms at once?"
+   }
+  ],
+  "relatedSearches": [
+   {
+    "query": "Publish video to multiple platforms free"
+   },
+   {
+    "query": "Publish video to multiple platforms reddit"
+   },
+   {
+    "query": "How to post on multiple platforms at once free"
+   },
+   {
+    "query": "Upload video to multiple platforms at once"
+   },
+   {
+    "query": "Buffer"
+   },
+   {
+    "query": "Upload video to multiple platforms free"
+   },
+   {
+    "query": "Socialync"
+   },
+   {
+    "query": "Hootsuite"
+   }
+  ],
+  "credits": 1
+ }
+}

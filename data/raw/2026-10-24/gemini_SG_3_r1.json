@@ -1,0 +1,546 @@
+{
+ "answer": "Converting a podcast into a video can significantly boost its discoverability and engagement, especially on platforms like YouTube, TikTok, and Instagram, where visual content is dominant. For users in Singapore, the demand for video podcasts is growing, with many local studios and services emerging to support creators.\n\nHere are several ways to transform your podcast into a video, along with recommended tools:\n\n**1. Basic Conversion: Static Image with Audio**\nThe simplest method involves combining your podcast's audio with a static image, such as your podcast cover art, a logo, or a relevant photo. This creates a basic video file (typically MP4) that can be uploaded to video-sharing platforms.\n\n*   **Recommended Tools:**\n    *   **Clideo:** An online tool that allows you to upload an image or video clip and combine it with your MP3 audio to create a video.\n    *   **VLC Media Player:** This free, open-source media player offers basic conversion features, including adding a static image to an audio file to create a video. While functional, it offers limited customization.\n    *   **Canva:** A popular online design tool that allows you to start a video project, upload your audio, personalize it with designs, and then convert it to an MP4 video.\n    *   **Neural Frames:** Offers a free, no-signup converter where you can upload an audio file and choose a visual (an image or included background) to create a video.\n\n**2. Dynamic Visuals: Waveforms and Audiograms**\nTo make your video more engaging than a static image, you can add an animated waveform or create an audiogram. These visuals react to the audio, showing sound waves moving in sync with your speech or music. Many tools also allow you to add captions, progress bars, and branding.\n\n*   **Recommended Tools:**\n    *   **Recast Studio:** This tool allows you to convert podcast audio into captioned videos, offering options for waveform styles, captions, and brand styling, and exporting in various formats suitable for different channels.\n    *   **Podsqueeze:** An AI-powered tool that can turn your podcast audio into dynamic audiograms with animated waveforms that sync with your track. It also includes automatic subtitles and allows customization of colors, aspect ratio, fonts, and cover art.\n    *   **Kapwing:** Offers a sound wave generator that transforms audio files into engaging videos with customizable sound wave animations, synced to any image or video background. It provides various waveform styles and editing capabilities.\n    *   **Cleanvoice AI:** A free audiogram maker that enables you to add animated waveforms, background images, podcast cover art, and text to your audio clips.\n    *   **Chopcast:** Allows you to upload your podcast and choose to transform your audio into video, including options for a static image with a moving waveform.\n\n**3. AI-Powered Video Generation: Automated Visuals and Subtitles**\nFor a more advanced and automated approach, AI tools can analyze your podcast audio and generate dynamic visuals, subtitles, and even avatar scenes, making the video creation process highly efficient.\n\n*   **Recommended Tools:**\n    *   **Mootion:** Described as an easy AI tool to transform podcast audio into engaging videos. It automatically generates visuals, subtitles, and audiograms for platforms like YouTube and TikTok, and is noted for its speed.\n    *   **Chopcast:** Beyond waveforms, Chopcast can also convert podcasts into videos with automated visuals, making it a versatile option.\n    *   **Freebeat:** An AI audio to video converter that analyzes your audio's structure (beat, rhythm, energy) to generate dynamic, beat-synced visuals and animations, rather than just a static image.\n    *   **Picsart (Audio-to-Video AI):** This AI tool generates original visuals from your sound, with motion and pacing that respond to the audio itself, controlling character motion, camera movement, pacing, and transitions based on speech, beats, and energy shifts.\n    *   **PodcastorAI:** This platform allows you to turn your script and audio into a polished video podcast, offering flexible video formats (image + waveform, split-screen with AI host, or same-screen overlay), AI hosts, custom backgrounds, and automatic subtitles.\n    *   **Vizard.ai and Podeo.ai:** These are also AI-powered platforms designed to convert audio podcasts into captivating social media videos with automatic subtitles and full episodes with captions and chapters, respectively.\n\n**Tips for Singaporean Creators:**\n\n*   **Utilize Local Studios:** If you're looking for professional quality, consider using podcast studios in Singapore like Verta Collective, Vicinity Studio, or Alta Studio. These studios often offer professional equipment and can help with video production.\n*   **Focus on Discoverability:** Given Singapore's digital landscape, converting your podcast to video is crucial for reaching new audiences on platforms where video is king.\n*   **Consider Captions:** Many social media users watch videos on mute. Adding automatic captions generated by the tools above can significantly increase engagement and accessibility.",
+ "citations": [
+  "https://podsqueeze.com/turn-podcast-into-video/",
+  "https://clideo.com/resources/mp3-to-video",
+  "https://www.vividsnaps.com/the-rise-of-video-podcast-services-in-singapore/",
+  "https://vertacollective.com/podcast-studio",
+  "https://vicinity.studio/3-tips-for-video-podcasts-in-singapore/",
+  "https://www.alta.sg/podcaststudio",
+  "https://www.canva.com/features/audio-to-video-converter/",
+  "https://www.neuralframes.com/tools/audio-to-video",
+  "https://recast.studio/tools/podcast-to-video",
+  "https://podsqueeze.com/waveform-video-maker/",
+  "https://www.kapwing.com/tools/add-effects/waveform",
+  "https://cleanvoice.ai/audio-visualizer/",
+  "https://www.chopcast.io/tools/convert-podcast-to-video",
+  "https://www.mootion.com/use-cases/en/transform-podcasts-into-video",
+  "https://freebeat.ai/audio-to-video",
+  "https://picsart.com/blog/how-to-turn-audio-into-video/",
+  "https://podcastor.ai/tools/ai-video-podcast-generator",
+  "https://vizard.ai/tools/podcast-to-video",
+  "https://adoriai.com/audio-podcast-to-video-ai"
+ ],
+ "citation_map": [
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm3PF29zXnkP7MErOYiYUqLaoH5_hxDKrwE30DdWgQPLzjSUdeB-JWh25qAWEgKb8CLfbihvgAgzG0DnxT8TjJROph2aZqSzDcO_7-ZQ1SEsjezSs4zBE1Ui22btcbkCSdJq0vik3_Qqls",
+   "resolved": "https://podsqueeze.com/turn-podcast-into-video/",
+   "title": "podsqueeze.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj5pjN19hgb60SEDrFbmWoQFscuzxE_3d8rpfxVIQVuyisEy4JRybGihB5PWfIAjpe2iR0KX24DqUTDEmCVrJ5i52Kt-LStXFfzzNgNiZLThdicSnBYLELOzmUcSv-MFL6oHvg",
+   "resolved": "https://clideo.com/resources/mp3-to-video",
+   "title": "clideo.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAgRdyXiKIyelXMt-ooqzbEBLM5Kl-rq1IjVuY8A6s6yW8RGdVzsujn9NFU4ksnTuUNGaC5k251WMZg0aKQWLxjIr1tG6RuL3CXEp2qAg1lks0wYmTK2q8R_Si4f9qfOc_-1xPcnltWBPr7jhqoBd9ElfxSu0oJj8AOHzrp9vHfMjwyjvX4w==",
+   "resolved": "https://www.vividsnaps.com/the-rise-of-video-podcast-services-in-singapore/",
+   "title": "vividsnaps.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEywpcsdMTKdM-QOiULCoCrniT2dOjtKXc6edrYtRc4zegPHHm3xnLfj0cwpT2QOZQ3ufOYsCXE4F8Sk45iL7Q8Fk-01oZcDIdBhgXF28mLIFC09k9Qk52SwlA5sM3334tP3DCieQ==",
+   "resolved": "https://vertacollective.com/podcast-studio",
+   "title": "vertacollective.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaIq46qDNUpsP0e2ZnZcu1rHWIS7DJL7BAPMXu9GE8x_vfgBfwLjmLHnN3W7L3DnDJ_omOeCM0zhipFBWGWLBaLf9q-Fc0FmcTNijyetoGkYNvAGcTZ8t0OJvbSGEOeRjx1SzZn9Ee17mctvv0Y-lr8Ex6s4PGP4cT_Q==",
+   "resolved": "https://vicinity.studio/3-tips-for-video-podcasts-in-singapore/",
+   "title": "vicinity.studio"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa5RCGGtRAdEUENKuY2B5FY8rRkTSBEoaLXKh2Qm1m8r8RS78XoA5zdPFBqSAbsCdqOv77fXo6qEE8Uit_bm0Hnnh9ctZ5_tCIBpFfjR4B9IXGsm0SeD8U8ouIfg==",
+   "resolved": "https://www.alta.sg/podcaststudio",
+   "title": "alta.sg"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTU2jt27furM29d9HZcPu5oEhJBrMhnnIYNyyChaErPQlBqhlMwcoT6ePnijcJGjbVLw5dYyGH8GfZFLLm0KZFJwlLh-2rwbVbLUUOhh-UxIQWSmI96h5WigjDTe5pepuK7sJPknvRCwmCnpp5I4bj-tk2",
+   "resolved": "https://www.canva.com/features/audio-to-video-converter/",
+   "title": "canva.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhhcrlycUzNKrW4Srk4wm2bJ6ten8wWqEMVD6uqGU4fNBeuM8ZlxVsrO8DxGplfqB3y0C7GXqECyRpWmvdTSZpBs9VTbZbTu1fTInpIfU-BhZJlTAxRdnBlk9gM-tnEa4HsMqE65gGIttFvno=",
+   "resolved": "https://www.neuralframes.com/tools/audio-to-video",
+   "title": "neuralframes.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMck9YehjsSZFLpMI5Pd3mgevv-Ky6A5wUryWwpmIw302-q2uOCpLY__qqFsJKwzra9H2bzA2eBCB5vcBJDWVi8khq-j7f1Hyf_eG2VHBoBpzUVTszCVCn-xw_NWwOtDWscr-h7NOt",
+   "resolved": "https://recast.studio/tools/podcast-to-video",
+   "title": "recast.studio"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0GcK3Kvv3A0hAXHkf2fzqY6UAhs-YtrgQcUw2rcWYb23zRJ4KNnCuPF6o7zdjgo75r24uO50X3VyMULFmI1q2-4pKiKcRf9_KJfhDblTy3Xq80sqP-hjGx3iHOIp91a6j2e7S4HEG",
+   "resolved": "https://podsqueeze.com/waveform-video-maker/",
+   "title": "podsqueeze.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEawy3-1CWK2QRm8H_lM2yQZ-eDHmJfBJoqpHdTUkzwcXXQEINzcGoyVplSD_PqE1V-SJ0iGIKjgegG54hAa4scHFAyzQJNQNQbkd7WvWeJgh7ijkVK6SRSKwZoKPxk-MWK-dJd7efxP2ycrXz6",
+   "resolved": "https://www.kapwing.com/tools/add-effects/waveform",
+   "title": "kapwing.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9EsNv59PFI1-H8pDY-vQvNVe0coxlpMrkHOwwV68QizZR0vWiEmyOBKyyr_MTSV9u8PnhcXI-MxGXvxfjsIsZMQnOmKdNOeNZSf4WQgrWhnFrYqsI9QELvdgg-MsR0gBMgg==",
+   "resolved": "https://cleanvoice.ai/audio-visualizer/",
+   "title": "cleanvoice.ai"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk1wk8J49bL3oTsQbMHM2BdkVurxTWXxO1_O6XzyMdCYPsomKNvhEZMzWJIoqgiAe7NEfJd2OpqkjxxiDzjX-CYCeJTEetB6Xj8NW_GsCQKLzWZGztZDOGya5WchjgtdjPFYDFULFnXMUMAlmrzwEVJQ==",
+   "resolved": "https://www.chopcast.io/tools/convert-podcast-to-video",
+   "title": "chopcast.io"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErzsbRLtx88yFX3uojroCZudIy8U0Qy1paxRdERnNLasDxTqruVH40Cw_jTdBBXy9BZp34Qm7gi_mPfCYXgzE3ojEkeCRQu2NxD2Hu43ggcBpQ0tJIKJUgTyx9DWINQqloq76ViN45Rp2jWla7VFExhrHvgL_3BjMyvl4JYg==",
+   "resolved": "https://www.mootion.com/use-cases/en/transform-podcasts-into-video",
+   "title": "mootion.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzlhboAM6OQCjY48R2zrVUN61sh_2TqJg8s3vwikYOCbOw5Bn6rJG-nkgDybZzkQaF3KLoUaNKOUVlH3MGZmofwbpR86ZP5_PLQ7x4tgpFgX-E3LScRABXcL6PE2k=",
+   "resolved": "https://freebeat.ai/audio-to-video",
+   "title": "freebeat.ai"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgHnfVm4REEyeGJMoLfimCVC-mRryW_oJ0cw8Yex9aLAtc8049UymW4LuqPV8cWqPcgmgr9IOeB2Qn3J0IqOLVhWrRZUt_EmSLtbmoZ6gNBz2Rcnq69hEBvX5jAuDH57DcNuRJkrYPy7JdXA1orWyh1A==",
+   "resolved": "https://picsart.com/blog/how-to-turn-audio-into-video/",
+   "title": "picsart.com"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKsgW-LVMtoTQZO6kx0YtkQR7dOIA4JuiY6bkKvcUOzm3kB8UjUtGUXhS16NBd2_AHS1eaN-Fz2zi7ug4Bzxs5TIFuNFTWgZh1JKu26BsC6NNwrJYUl8l1o4YosXCWcozkOMSrYaQAt-RnNztHskL5",
+   "resolved": "https://podcastor.ai/tools/ai-video-podcast-generator",
+   "title": "podcastor.ai"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA5NjVD58cr-vT7Gt80Ix2iUW4Bd8S2RyQbKTrrIUKRNhcgNuBCl0jr29DYp3Km6MMW-z8FMSC0gA31lg6aXZMqrmO4NCb-PZtY3nZDAN9aQrhbttK6CRnqAgLqpHj64et51A=",
+   "resolved": "https://vizard.ai/tools/podcast-to-video",
+   "title": "vizard.ai"
+  },
+  {
+   "redirect": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE1A9KGyXF2Zsh4PXA1DPKy_aHXtVcLnjPgY55Mll7AQjFyShQK0YgvZrYiyjoj-MOMNn92jrAPERhy4ZVDWz0NV8pRXKh1qcXc0nHg3Kxbmc-6E_KUXAx0OIqe2hTlEJmARLn5P1tsQ==",
+   "resolved": "https://adoriai.com/audio-podcast-to-video-ai",
+   "title": "adoriai.com"
+  }
+ ],
+ "model": "gemini-2.5-flash",
+ "search_queries": [
+  "convert podcast to video tools",
+  "how to turn audio into video with static image",
+  "add waveform to podcast video",
+  "podcast to video with captions tools",
+  "AI tools podcast to video",
+  "podcast video tools Singapore"
+ ],
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Converting a podcast into a video can significantly boost its discoverability and engagement, especially on platforms like YouTube, TikTok, and Instagram, where visual content is dominant. For users in Singapore, the demand for video podcasts is growing, with many local studios and services emerging to support creators.\n\nHere are several ways to transform your podcast into a video, along with recommended tools:\n\n**1. Basic Conversion: Static Image with Audio**\nThe simplest method involves combining your podcast's audio with a static image, such as your podcast cover art, a logo, or a relevant photo. This creates a basic video file (typically MP4) that can be uploaded to video-sharing platforms.\n\n*   **Recommended Tools:**\n    *   **Clideo:** An online tool that allows you to upload an image or video clip and combine it with your MP3 audio to create a video.\n    *   **VLC Media Player:** This free, open-source media player offers basic conversion features, including adding a static image to an audio file to create a video. While functional, it offers limited customization.\n    *   **Canva:** A popular online design tool that allows you to start a video project, upload your audio, personalize it with designs, and then convert it to an MP4 video.\n    *   **Neural Frames:** Offers a free, no-signup converter where you can upload an audio file and choose a visual (an image or included background) to create a video.\n\n**2. Dynamic Visuals: Waveforms and Audiograms**\nTo make your video more engaging than a static image, you can add an animated waveform or create an audiogram. These visuals react to the audio, showing sound waves moving in sync with your speech or music. Many tools also allow you to add captions, progress bars, and branding.\n\n*   **Recommended Tools:**\n    *   **Recast Studio:** This tool allows you to convert podcast audio into captioned videos, offering options for waveform styles, captions, and brand styling, and exporting in various formats suitable for different channels.\n    *   **Podsqueeze:** An AI-powered tool that can turn your podcast audio into dynamic audiograms with animated waveforms that sync with your track. It also includes automatic subtitles and allows customization of colors, aspect ratio, fonts, and cover art.\n    *   **Kapwing:** Offers a sound wave generator that transforms audio files into engaging videos with customizable sound wave animations, synced to any image or video background. It provides various waveform styles and editing capabilities.\n    *   **Cleanvoice AI:** A free audiogram maker that enables you to add animated waveforms, background images, podcast cover art, and text to your audio clips.\n    *   **Chopcast:** Allows you to upload your podcast and choose to transform your audio into video, including options for a static image with a moving waveform.\n\n**3. AI-Powered Video Generation: Automated Visuals and Subtitles**\nFor a more advanced and automated approach, AI tools can analyze your podcast audio and generate dynamic visuals, subtitles, and even avatar scenes, making the video creation process highly efficient.\n\n*   **Recommended Tools:**\n    *   **Mootion:** Described as an easy AI tool to transform podcast audio into engaging videos. It automatically generates visuals, subtitles, and audiograms for platforms like YouTube and TikTok, and is noted for its speed.\n    *   **Chopcast:** Beyond waveforms, Chopcast can also convert podcasts into videos with automated visuals, making it a versatile option.\n    *   **Freebeat:** An AI audio to video converter that analyzes your audio's structure (beat, rhythm, energy) to generate dynamic, beat-synced visuals and animations, rather than just a static image.\n    *   **Picsart (Audio-to-Video AI):** This AI tool generates original visuals from your sound, with motion and pacing that respond to the audio itself, controlling character motion, camera movement, pacing, and transitions based on speech, beats, and energy shifts.\n    *   **PodcastorAI:** This platform allows you to turn your script and audio into a polished video podcast, offering flexible video formats (image + waveform, split-screen with AI host, or same-screen overlay), AI hosts, custom backgrounds, and automatic subtitles.\n    *   **Vizard.ai and Podeo.ai:** These are also AI-powered platforms designed to convert audio podcasts into captivating social media videos with automatic subtitles and full episodes with captions and chapters, respectively.\n\n**Tips for Singaporean Creators:**\n\n*   **Utilize Local Studios:** If you're looking for professional quality, consider using podcast studios in Singapore like Verta Collective, Vicinity Studio, or Alta Studio. These studios often offer professional equipment and can help with video production.\n*   **Focus on Discoverability:** Given Singapore's digital landscape, converting your podcast to video is crucial for reaching new audiences on platforms where video is king.\n*   **Consider Captions:** Many social media users watch videos on mute. Adding automatic captions generated by the tools above can significantly increase engagement and accessibility."
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "searchEntryPoint": {
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60sOlIHzX5V4iOFOP3e4ukcwP0plbdXcyyetMaW0d7PTl_oBo3HXhp-fbg_7nwwlcxXaVDvcRRV_YAyKB9VGrdMj_IUQyoVcFIMyeu24dMX4SRP2-H4LJh-WEHKTWjydR62xMclzBpvkv0EcDLWd30uECBcoZBsDVX8yvaq47relM1Ad32earWyNUZ-p3EPhMLrSZRjZWsVERVWVH8UD43elq4Ed-YA==\">podcast to video with captions tools</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOSR9-rjvculvLLwKzqyfNHxUohl2Ut3s8eUnyy__Mkve2yQrihcnIV21_iZ7YdvEQWG2ZQvzKwcDR5HSytMjZJFaG2OnN3FXqY4unYpZau7v4nJgrJWzvsoDIP91O7dy_eHH9A5qqC1RrNw9mjWwWcGfPNC0rlwlzPLc0VvEuFDTuS-gsGqe6pwzcU3YXeI0UYdJuOKt4mtjb37xyyaZn\">add waveform to podcast video</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqHxyPnD3QR0o60K1IMN1p4jOImoXyXXleSZBdS0XmJ5d3pnspq1B_XkhF_mWsdIaUl_zwFP8l_j2Y1_MshGjFFNchmHrSMnaW6duqva1x3IvKgx6cVALzV8tk19-dC0eVnt77iO7agGPQQ-igHkTIXu8YsgnQZvYrAUmPyiNsR-40tGs_3HQ_0y9QmJdKpwR9ga4bDuh2YO720UD4iLc40Q==\">convert podcast to video tools</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd3UE9vs9lRMb7aGA8RVHfdOk2TKIpnrsaejK7pBlsybUUHpOJrZac_lvyGZUtoxE3LWbFFYMcsLFfAFVDtCWMQ62oPaz-BXOMDDvgnrcMz94xHXIq7SGaLs4muz50ZxMFMPMif7Z5xWbSYoHa4ronJJWR2pjHySwnUPvODEYNA2_b4KEsOJfw2EmKw7QZ92xTXsABh2hKX1MuHyTxlsbFmV7wGKS79jfLhqkkLNnySKE=\">how to turn audio into video with static image</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf82Y4nT2qYKyQjn8kD7aMaYnZPSh_MODOh_w-1ugeKLU2lXp5zkvuaAL1C_XUBG9AwJTYOzzytZShlQITEuUvbaXFJWdV7RLlSEun0hTgwtn3QmoLJCelXqxzhZCHMf_kl59h0avTMRHY6I5UdLnCoDHHAC1J3Eqjh7YtCV9Nbo1hEkrEpBH1Vehb1-bsA25l5-NwOe_WZpOfu8I=\">AI tools podcast to video</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFueSP5QrlAo4bewPFlDETJkLPHN-osYf-B41zSh4gyAtLikpyYo7Ii5fVPuAcvck1UhGyBw6ssW3jUlzDNSVhgc9q_-PNWa10ePspuXIEmMoZppNW7s7mHE2YjbNSvD1i6MsaRzZTTqYhWQJRRawwZk3xV1Vvg5dV4yLiZsifbxmkwTM0EpywaikILayIy4lRMKlPIaj5Dq7CmL1JeFKzM\">podcast video tools Singapore</a>\n  </div>\n</div>\n"
+     },
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm3PF29zXnkP7MErOYiYUqLaoH5_hxDKrwE30DdWgQPLzjSUdeB-JWh25qAWEgKb8CLfbihvgAgzG0DnxT8TjJROph2aZqSzDcO_7-ZQ1SEsjezSs4zBE1Ui22btcbkCSdJq0vik3_Qqls",
+        "title": "podsqueeze.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj5pjN19hgb60SEDrFbmWoQFscuzxE_3d8rpfxVIQVuyisEy4JRybGihB5PWfIAjpe2iR0KX24DqUTDEmCVrJ5i52Kt-LStXFfzzNgNiZLThdicSnBYLELOzmUcSv-MFL6oHvg",
+        "title": "clideo.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAgRdyXiKIyelXMt-ooqzbEBLM5Kl-rq1IjVuY8A6s6yW8RGdVzsujn9NFU4ksnTuUNGaC5k251WMZg0aKQWLxjIr1tG6RuL3CXEp2qAg1lks0wYmTK2q8R_Si4f9qfOc_-1xPcnltWBPr7jhqoBd9ElfxSu0oJj8AOHzrp9vHfMjwyjvX4w==",
+        "title": "vividsnaps.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEywpcsdMTKdM-QOiULCoCrniT2dOjtKXc6edrYtRc4zegPHHm3xnLfj0cwpT2QOZQ3ufOYsCXE4F8Sk45iL7Q8Fk-01oZcDIdBhgXF28mLIFC09k9Qk52SwlA5sM3334tP3DCieQ==",
+        "title": "vertacollective.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaIq46qDNUpsP0e2ZnZcu1rHWIS7DJL7BAPMXu9GE8x_vfgBfwLjmLHnN3W7L3DnDJ_omOeCM0zhipFBWGWLBaLf9q-Fc0FmcTNijyetoGkYNvAGcTZ8t0OJvbSGEOeRjx1SzZn9Ee17mctvv0Y-lr8Ex6s4PGP4cT_Q==",
+        "title": "vicinity.studio"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa5RCGGtRAdEUENKuY2B5FY8rRkTSBEoaLXKh2Qm1m8r8RS78XoA5zdPFBqSAbsCdqOv77fXo6qEE8Uit_bm0Hnnh9ctZ5_tCIBpFfjR4B9IXGsm0SeD8U8ouIfg==",
+        "title": "alta.sg"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTU2jt27furM29d9HZcPu5oEhJBrMhnnIYNyyChaErPQlBqhlMwcoT6ePnijcJGjbVLw5dYyGH8GfZFLLm0KZFJwlLh-2rwbVbLUUOhh-UxIQWSmI96h5WigjDTe5pepuK7sJPknvRCwmCnpp5I4bj-tk2",
+        "title": "canva.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhhcrlycUzNKrW4Srk4wm2bJ6ten8wWqEMVD6uqGU4fNBeuM8ZlxVsrO8DxGplfqB3y0C7GXqECyRpWmvdTSZpBs9VTbZbTu1fTInpIfU-BhZJlTAxRdnBlk9gM-tnEa4HsMqE65gGIttFvno=",
+        "title": "neuralframes.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMck9YehjsSZFLpMI5Pd3mgevv-Ky6A5wUryWwpmIw302-q2uOCpLY__qqFsJKwzra9H2bzA2eBCB5vcBJDWVi8khq-j7f1Hyf_eG2VHBoBpzUVTszCVCn-xw_NWwOtDWscr-h7NOt",
+        "title": "recast.studio"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0GcK3Kvv3A0hAXHkf2fzqY6UAhs-YtrgQcUw2rcWYb23zRJ4KNnCuPF6o7zdjgo75r24uO50X3VyMULFmI1q2-4pKiKcRf9_KJfhDblTy3Xq80sqP-hjGx3iHOIp91a6j2e7S4HEG",
+        "title": "podsqueeze.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEawy3-1CWK2QRm8H_lM2yQZ-eDHmJfBJoqpHdTUkzwcXXQEINzcGoyVplSD_PqE1V-SJ0iGIKjgegG54hAa4scHFAyzQJNQNQbkd7WvWeJgh7ijkVK6SRSKwZoKPxk-MWK-dJd7efxP2ycrXz6",
+        "title": "kapwing.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9EsNv59PFI1-H8pDY-vQvNVe0coxlpMrkHOwwV68QizZR0vWiEmyOBKyyr_MTSV9u8PnhcXI-MxGXvxfjsIsZMQnOmKdNOeNZSf4WQgrWhnFrYqsI9QELvdgg-MsR0gBMgg==",
+        "title": "cleanvoice.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk1wk8J49bL3oTsQbMHM2BdkVurxTWXxO1_O6XzyMdCYPsomKNvhEZMzWJIoqgiAe7NEfJd2OpqkjxxiDzjX-CYCeJTEetB6Xj8NW_GsCQKLzWZGztZDOGya5WchjgtdjPFYDFULFnXMUMAlmrzwEVJQ==",
+        "title": "chopcast.io"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErzsbRLtx88yFX3uojroCZudIy8U0Qy1paxRdERnNLasDxTqruVH40Cw_jTdBBXy9BZp34Qm7gi_mPfCYXgzE3ojEkeCRQu2NxD2Hu43ggcBpQ0tJIKJUgTyx9DWINQqloq76ViN45Rp2jWla7VFExhrHvgL_3BjMyvl4JYg==",
+        "title": "mootion.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzlhboAM6OQCjY48R2zrVUN61sh_2TqJg8s3vwikYOCbOw5Bn6rJG-nkgDybZzkQaF3KLoUaNKOUVlH3MGZmofwbpR86ZP5_PLQ7x4tgpFgX-E3LScRABXcL6PE2k=",
+        "title": "freebeat.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgHnfVm4REEyeGJMoLfimCVC-mRryW_oJ0cw8Yex9aLAtc8049UymW4LuqPV8cWqPcgmgr9IOeB2Qn3J0IqOLVhWrRZUt_EmSLtbmoZ6gNBz2Rcnq69hEBvX5jAuDH57DcNuRJkrYPy7JdXA1orWyh1A==",
+        "title": "picsart.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKsgW-LVMtoTQZO6kx0YtkQR7dOIA4JuiY6bkKvcUOzm3kB8UjUtGUXhS16NBd2_AHS1eaN-Fz2zi7ug4Bzxs5TIFuNFTWgZh1JKu26BsC6NNwrJYUl8l1o4YosXCWcozkOMSrYaQAt-RnNztHskL5",
+        "title": "podcastor.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA5NjVD58cr-vT7Gt80Ix2iUW4Bd8S2RyQbKTrrIUKRNhcgNuBCl0jr29DYp3Km6MMW-z8FMSC0gA31lg6aXZMqrmO4NCb-PZtY3nZDAN9aQrhbttK6CRnqAgLqpHj64et51A=",
+        "title": "vizard.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE1A9KGyXF2Zsh4PXA1DPKy_aHXtVcLnjPgY55Mll7AQjFyShQK0YgvZrYiyjoj-MOMNn92jrAPERhy4ZVDWz0NV8pRXKh1qcXc0nHg3Kxbmc-6E_KUXAx0OIqe2hTlEJmARLn5P1tsQ==",
+        "title": "adoriai.com"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "endIndex": 187,
+        "text": "Converting a podcast into a video can significantly boost its discoverability and engagement, especially on platforms like YouTube, TikTok, and Instagram, where visual content is dominant"
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 189,
+        "endIndex": 320,
+        "text": "For users in Singapore, the demand for video podcasts is growing, with many local studios and services emerging to support creators"
+       },
+       "groundingChunkIndices": [
+        3,
+        4,
+        2,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 607,
+        "endIndex": 703,
+        "text": "This creates a basic video file (typically MP4) that can be uploaded to video-sharing platforms."
+       },
+       "groundingChunkIndices": [
+        1
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 705,
+        "endIndex": 869,
+        "text": "*   **Recommended Tools:**\n    *   **Clideo:** An online tool that allows you to upload an image or video clip and combine it with your MP3 audio to create a video."
+       },
+       "groundingChunkIndices": [
+        1
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1038,
+        "endIndex": 1088,
+        "text": "While functional, it offers limited customization."
+       },
+       "groundingChunkIndices": [
+        1
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1093,
+        "endIndex": 1263,
+        "text": "*   **Canva:** A popular online design tool that allows you to start a video project, upload your audio, personalize it with designs, and then convert it to an MP4 video."
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1268,
+        "endIndex": 1433,
+        "text": "*   **Neural Frames:** Offers a free, no-signup converter where you can upload an audio file and choose a visual (an image or included background) to create a video."
+       },
+       "groundingChunkIndices": [
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1764,
+        "endIndex": 2019,
+        "text": "*   **Recommended Tools:**\n    *   **Recast Studio:** This tool allows you to convert podcast audio into captioned videos, offering options for waveform styles, captions, and brand styling, and exporting in various formats suitable for different channels."
+       },
+       "groundingChunkIndices": [
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2171,
+        "endIndex": 2279,
+        "text": "It also includes automatic subtitles and allows customization of colors, aspect ratio, fonts, and cover art."
+       },
+       "groundingChunkIndices": [
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2462,
+        "endIndex": 2523,
+        "text": "It provides various waveform styles and editing capabilities."
+       },
+       "groundingChunkIndices": [
+        10
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2528,
+        "endIndex": 2685,
+        "text": "*   **Cleanvoice AI:** A free audiogram maker that enables you to add animated waveforms, background images, podcast cover art, and text to your audio clips."
+       },
+       "groundingChunkIndices": [
+        11
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2690,
+        "endIndex": 2849,
+        "text": "*   **Chopcast:** Allows you to upload your podcast and choose to transform your audio into video, including options for a static image with a moving waveform."
+       },
+       "groundingChunkIndices": [
+        12
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2856,
+        "endIndex": 3119,
+        "text": "AI-Powered Video Generation: Automated Visuals and Subtitles**\nFor a more advanced and automated approach, AI tools can analyze your podcast audio and generate dynamic visuals, subtitles, and even avatar scenes, making the video creation process highly efficient."
+       },
+       "groundingChunkIndices": [
+        13
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3247,
+        "endIndex": 3375,
+        "text": "It automatically generates visuals, subtitles, and audiograms for platforms like YouTube and TikTok, and is noted for its speed."
+       },
+       "groundingChunkIndices": [
+        13
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3380,
+        "endIndex": 3516,
+        "text": "*   **Chopcast:** Beyond waveforms, Chopcast can also convert podcasts into videos with automated visuals, making it a versatile option."
+       },
+       "groundingChunkIndices": [
+        12
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3521,
+        "endIndex": 3719,
+        "text": "*   **Freebeat:** An AI audio to video converter that analyzes your audio's structure (beat, rhythm, energy) to generate dynamic, beat-synced visuals and animations, rather than just a static image."
+       },
+       "groundingChunkIndices": [
+        14
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3724,
+        "endIndex": 3988,
+        "text": "*   **Picsart (Audio-to-Video AI):** This AI tool generates original visuals from your sound, with motion and pacing that respond to the audio itself, controlling character motion, camera movement, pacing, and transitions based on speech, beats, and energy shifts."
+       },
+       "groundingChunkIndices": [
+        15
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3993,
+        "endIndex": 4257,
+        "text": "*   **PodcastorAI:** This platform allows you to turn your script and audio into a polished video podcast, offering flexible video formats (image + waveform, split-screen with AI host, or same-screen overlay), AI hosts, custom backgrounds, and automatic subtitles."
+       },
+       "groundingChunkIndices": [
+        16
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4262,
+        "endIndex": 4486,
+        "text": "*   **Vizard.ai and Podeo.ai:** These are also AI-powered platforms designed to convert audio podcasts into captivating social media videos with automatic subtitles and full episodes with captions and chapters, respectively."
+       },
+       "groundingChunkIndices": [
+        17,
+        18
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4524,
+        "endIndex": 4664,
+        "text": "*   **Utilize Local Studios:** If you're looking for professional quality, consider using podcast studios in Singapore like Verta Collective"
+       },
+       "groundingChunkIndices": [
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4664,
+        "endIndex": 4681,
+        "text": ", Vicinity Studio"
+       },
+       "groundingChunkIndices": [
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4681,
+        "endIndex": 4697,
+        "text": ", or Alta Studio"
+       },
+       "groundingChunkIndices": [
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4784,
+        "endIndex": 4959,
+        "text": "*   **Focus on Discoverability:** Given Singapore's digital landscape, converting your podcast to video is crucial for reaching new audiences on platforms where video is king."
+       },
+       "groundingChunkIndices": [
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 5033,
+        "endIndex": 5144,
+        "text": "Adding automatic captions generated by the tools above can significantly increase engagement and accessibility."
+       },
+       "groundingChunkIndices": [
+        8,
+        9,
+        11
+       ]
+      }
+     ],
+     "webSearchQueries": [
+      "convert podcast to video tools",
+      "how to turn audio into video with static image",
+      "add waveform to podcast video",
+      "podcast to video with captions tools",
+      "AI tools podcast to video",
+      "podcast video tools Singapore"
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 31,
+   "candidatesTokenCount": 1116,
+   "totalTokenCount": 1942,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 31
+    }
+   ],
+   "toolUsePromptTokenCount": 249,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 249
+    }
+   ],
+   "thoughtsTokenCount": 546,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "CN_cavPILJ2M694P45LKsQM"
+ }
+}
