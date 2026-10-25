@@ -1,5 +1,4 @@
 {
-  "brand_name": "IncuBrix",
   "brand_terms": [
     "incubrix"
   ],
@@ -7,16 +6,40 @@
   "competitors": [
     "Opus Clip",
     "Descript",
-    "Riverside",
     "Vizard",
     "Repurpose.io",
     "CapCut",
-    "Buffer",
     "Hootsuite",
     "Veed",
     "Kapwing",
     "Submagic",
-    "Captions"
+    "Podsqueeze",
+    "Choppity",
+    "HeyGen",
+    "Wayin",
+    "Castmagic",
+    "Headliner",
+    "Podcastle",
+    {
+      "name": "Riverside",
+      "domain": "riverside\\.fm",
+      "ambiguous": true
+    },
+    {
+      "name": "Captions",
+      "domain": "captions\\.ai",
+      "ambiguous": true
+    },
+    {
+      "name": "Buffer",
+      "domain": "buffer\\.com",
+      "ambiguous": true
+    },
+    {
+      "name": "Montage",
+      "domain": "montage\\.app",
+      "ambiguous": true
+    }
   ],
   "markets": {
     "US": {
@@ -24,18 +47,33 @@
       "hl": "en",
       "location": "United States"
     },
-    "UK": {
-      "gl": "uk",
+    "GB": {
+      "gl": "gb",
       "hl": "en",
       "location": "United Kingdom"
+    },
+    "CA": {
+      "gl": "ca",
+      "hl": "en",
+      "location": "Canada"
+    },
+    "AU": {
+      "gl": "au",
+      "hl": "en",
+      "location": "Australia"
     },
     "SG": {
       "gl": "sg",
       "hl": "en",
       "location": "Singapore"
+    },
+    "IN": {
+      "gl": "in",
+      "hl": "en",
+      "location": "India"
     }
   },
-  "repeats": 2,
+  "repeats": 1,
   "providers": [
     "google",
     "perplexity",

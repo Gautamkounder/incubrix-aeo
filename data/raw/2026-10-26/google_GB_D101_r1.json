@@ -1,0 +1,136 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://support.google.com/youtube/answer/12836917?hl=en-LA&ref_topic=10343432",
+   "title": "Create YouTube Shorts from your videos"
+  },
+  {
+   "position": 2,
+   "link": "https://www.reddit.com/r/NewTubers/comments/zzz5d9/how_do_you_create_a_short_from_a_normal_video/",
+   "title": "How do you create a short from a normal video (within ..."
+  },
+  {
+   "position": 3,
+   "link": "https://www.youtube.com/watch?v=tZ3cKf6SQvI",
+   "title": "How To Turn Your YouTube Videos Into Shorts (2026 Update!)"
+  },
+  {
+   "position": 4,
+   "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+   "title": "Free Long Video to Short Video AI Converter"
+  },
+  {
+   "position": 5,
+   "link": "https://www.youtube.com/shorts/8xkEICotpOM",
+   "title": "How to Make a YouTube Short - Complete Beginner Guide"
+  },
+  {
+   "position": 6,
+   "link": "https://www.opus.pro/tools/create-shorts-from-youtube-video",
+   "title": "Create Shorts From YouTube Video - Free AI Tool"
+  },
+  {
+   "position": 7,
+   "link": "https://blog.youtube/creator-and-artist-stories/transitioning-your-long-form-content-to-youtube-shorts/",
+   "title": "Transitioning your long-form content to YouTube Shorts"
+  },
+  {
+   "position": 8,
+   "link": "https://openclip.app/use-cases/create-youtube-shorts",
+   "title": "Create YouTube Shorts from Long Videos"
+  },
+  {
+   "position": 9,
+   "link": "https://clipchamp.com/en/youtube-shorts-maker/",
+   "title": "YouTube Shorts maker | Free online video editor"
+  },
+  {
+   "position": 10,
+   "link": "https://wayin.ai/tools/long-video-to-short-video/",
+   "title": "Free Long to Short Video Converter"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "How To create YouTube Shorts from a long video?",
+   "gl": "gb",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Create YouTube Shorts from your videos",
+    "link": "https://support.google.com/youtube/answer/12836917?hl=en-LA&ref_topic=10343432",
+    "snippet": "Create Shorts from your long-form videos \u00b7 Go to the watch page of your video. \u00b7 Tap Remix and then Edit into a Short to open the Shorts creation experience.",
+    "position": 1
+   },
+   {
+    "title": "How do you create a short from a normal video (within ...",
+    "link": "https://www.reddit.com/r/NewTubers/comments/zzz5d9/how_do_you_create_a_short_from_a_normal_video/",
+    "snippet": "Until now, I've been uploading my shorts as completely separate videos, but I recently discovered you could make a short from a video directly within ...",
+    "date": "3 years ago",
+    "position": 2
+   },
+   {
+    "title": "How To Turn Your YouTube Videos Into Shorts (2026 Update!)",
+    "link": "https://www.youtube.com/watch?v=tZ3cKf6SQvI",
+    "snippet": "Save time when you learn how to turn your YouTube videos into Shorts in this 2026 update! Stop following YouTube advice for Influencers.",
+    "date": "1 year ago",
+    "position": 3
+   },
+   {
+    "title": "Free Long Video to Short Video AI Converter",
+    "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+    "snippet": "Upload your video on Vmaker AI. Select the long form to short form AI and click on Repurpose button. Choose the duration of the videos and keywords relevant to ...",
+    "rating": 4.7,
+    "ratingCount": 103,
+    "position": 4
+   },
+   {
+    "title": "How to Make a YouTube Short - Complete Beginner Guide",
+    "link": "https://www.youtube.com/shorts/8xkEICotpOM",
+    "snippet": "How to Make a YouTube Short - Complete Beginner Guide. How to Create a YouTube Shorts Channel for Beginners in 2026 (Step-by-Step).",
+    "date": "1 year ago",
+    "position": 5
+   },
+   {
+    "title": "Create Shorts From YouTube Video - Free AI Tool",
+    "link": "https://www.opus.pro/tools/create-shorts-from-youtube-video",
+    "snippet": "Easily convert YouTube videos into engaging clips with OpusClip's free AI tool. Quick, efficient, no credit card required.",
+    "position": 6
+   },
+   {
+    "title": "Transitioning your long-form content to YouTube Shorts",
+    "link": "https://blog.youtube/creator-and-artist-stories/transitioning-your-long-form-content-to-youtube-shorts/",
+    "snippet": "Clip and Crop: Use editing software to isolate the most engaging segments of your long-form videos. \u00b7 Add Captions and Text Overlays: Shorts are ...",
+    "date": "16 Apr 2025",
+    "position": 7
+   },
+   {
+    "title": "Create YouTube Shorts from Long Videos",
+    "link": "https://openclip.app/use-cases/create-youtube-shorts",
+    "snippet": "Use OpenClip's AI to automatically extract YouTube Shorts from long-form videos. Get vertical clips with captions ready to upload in minutes.",
+    "position": 8
+   },
+   {
+    "title": "YouTube Shorts maker | Free online video editor",
+    "link": "https://clipchamp.com/en/youtube-shorts-maker/",
+    "snippet": "Edit short videos for YouTube using your own clips, video templates, or using an AI YouTube clip maker in Clipchamp video editor. No downloads required.",
+    "position": 9
+   },
+   {
+    "title": "Free Long to Short Video Converter",
+    "link": "https://wayin.ai/tools/long-video-to-short-video/",
+    "snippet": "Paste a YouTube link or upload your video to WayinVideo. Our AI automatically turns long videos into multiple Shorts-ready clips in 30 seconds. Sign up to ...",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

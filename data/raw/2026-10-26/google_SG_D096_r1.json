@@ -1,0 +1,127 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://invideo.io/make/ai-blog-to-video/",
+   "title": "Convert Blog to Video for Free"
+  },
+  {
+   "position": 2,
+   "link": "https://blog2video.app/",
+   "title": "Text to Video AI: Turn Blogs, URLs, PDFs & Scripts Into Videos ..."
+  },
+  {
+   "position": 3,
+   "link": "https://www.reddit.com/r/content_marketing/comments/1os3nvx/how_to_turn_blog_posts_into_videos_notebooklms/",
+   "title": "How to turn blog posts into videos: NotebookLM's ..."
+  },
+  {
+   "position": 4,
+   "link": "https://www.synthesia.io/tools/blog-post-to-video",
+   "title": "Turn Blog to Video with AI Instantly"
+  },
+  {
+   "position": 5,
+   "link": "https://www.heygen.com/blog/blog-to-video",
+   "title": "Convert Blog to Video Easily"
+  },
+  {
+   "position": 6,
+   "link": "https://www.youtube.com/watch?v=LsrixJMno1Y",
+   "title": "How to Turn Blog Post into Videos (Using AI)"
+  },
+  {
+   "position": 7,
+   "link": "https://www.veed.io/tools/ai-video/blog-to-video",
+   "title": "Blog to Video - Convert Written Blog Posts to Video"
+  },
+  {
+   "position": 8,
+   "link": "https://videotoblog.ai/",
+   "title": "Turn videos into blog articles in seconds"
+  },
+  {
+   "position": 9,
+   "link": "https://videostew.com/en/blog-to-video",
+   "title": "Blog to Video Converter | Turn Blog Posts into Videos"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "How do I turn a blog post into a video?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Convert Blog to Video for Free",
+    "link": "https://invideo.io/make/ai-blog-to-video/",
+    "snippet": "Paste your article link, choose settings like video length, platform, subtitles, voiceover accent, etc, and get AI-generated video from your blog URL in no ...",
+    "rating": 4.7,
+    "ratingCount": 530,
+    "position": 1
+   },
+   {
+    "title": "Text to Video AI: Turn Blogs, URLs, PDFs & Scripts Into Videos ...",
+    "link": "https://blog2video.app/",
+    "snippet": "Turn text into narrated videos in minutes. Paste a blog URL, script, PDF, or PowerPoint and Blog2Video builds the scenes, voiceover, and captions.",
+    "position": 2
+   },
+   {
+    "title": "How to turn blog posts into videos: NotebookLM's ...",
+    "link": "https://www.reddit.com/r/content_marketing/comments/1os3nvx/how_to_turn_blog_posts_into_videos_notebooklms/",
+    "snippet": "So Google updated their NotebookLM video overview feature with their nano banana image model, and I think we just hit that threshold where the output ...",
+    "date": "11 months ago",
+    "position": 3
+   },
+   {
+    "title": "Turn Blog to Video with AI Instantly",
+    "link": "https://www.synthesia.io/tools/blog-post-to-video",
+    "snippet": "Easily convert blog articles into engaging videos in just a few clicks. Simply paste your blog link or upload a document to turn blog to video in 2 minutes.",
+    "rating": 4.7,
+    "ratingCount": 1069,
+    "position": 4
+   },
+   {
+    "title": "Convert Blog to Video Easily",
+    "link": "https://www.heygen.com/blog/blog-to-video",
+    "snippet": "Transform your blog into video content effortlessly with HeyGen. Master video SEO and explore video marketing automation with interactive video examples.",
+    "position": 5
+   },
+   {
+    "title": "How to Turn Blog Post into Videos (Using AI)",
+    "link": "https://www.youtube.com/watch?v=LsrixJMno1Y",
+    "snippet": "we're turning written content into scroll-stopping videos using Lumen5, a powerful AI tool that adds voiceover, visuals, transitions, subtitles,",
+    "date": "1 year ago",
+    "position": 6
+   },
+   {
+    "title": "Blog to Video - Convert Written Blog Posts to Video",
+    "link": "https://www.veed.io/tools/ai-video/blog-to-video",
+    "snippet": "Turn your blog posts into videos with VEED's text-to-video AI generator. Select a video type, paste your article, and customize details like voice and subtitles ...",
+    "rating": 4.6,
+    "ratingCount": 2139,
+    "position": 7
+   },
+   {
+    "title": "Turn videos into blog articles in seconds",
+    "link": "https://videotoblog.ai/",
+    "snippet": "1. Connect your YouTube channel. We'll watch for anytime a new video is released. \u00b7 2. Select a destination. Determine where you want your generated blog post to ...",
+    "position": 8
+   },
+   {
+    "title": "Blog to Video Converter | Turn Blog Posts into Videos",
+    "link": "https://videostew.com/en/blog-to-video",
+    "snippet": "Paste a blog URL and AI automatically creates your video. Convert Naver Blog, Tistory, or WordPress posts to video in under a minute.",
+    "position": 9
+   }
+  ],
+  "credits": 1
+ }
+}

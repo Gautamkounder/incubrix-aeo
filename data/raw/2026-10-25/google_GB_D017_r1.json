@@ -1,0 +1,133 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://support.google.com/youtube/answer/1270709?hl=en-GB",
+   "title": "Schedule video publish time - YouTube Help"
+  },
+  {
+   "position": 2,
+   "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/",
+   "title": "Is It Better To Schedule Videos? : r/NewTubers"
+  },
+  {
+   "position": 3,
+   "link": "https://www.youtube.com/watch?v=LPK03SAoXzo",
+   "title": "How to Schedule Community Posts on YouTube"
+  },
+  {
+   "position": 4,
+   "link": "https://www.youtube.com/shorts/wpj2nL25zmc?vl=en",
+   "title": "How to Schedule a YouTube Video"
+  },
+  {
+   "position": 5,
+   "link": "https://metricool.com/schedule-youtube-video/",
+   "title": "How to Schedule YouTube Videos (& Why You Should)"
+  },
+  {
+   "position": 6,
+   "link": "https://buffer.com/youtube",
+   "title": "Schedule YouTube Shorts with Buffer | Grow Your Channel"
+  },
+  {
+   "position": 7,
+   "link": "https://www.reddit.com/r/NewTubers/comments/1foe175/how_do_i_schedule_shorts/",
+   "title": "How do I schedule shorts?"
+  },
+  {
+   "position": 8,
+   "link": "https://www.quora.com/How-do-you-schedule-a-YouTube-video-to-upload",
+   "title": "How do you schedule a YouTube video to upload?"
+  },
+  {
+   "position": 9,
+   "link": "https://www.postplanner.com/social-networks/youtube",
+   "title": "YouTube: Schedule Shorts and Videos to your Channels"
+  },
+  {
+   "position": 10,
+   "link": "https://planable.io/blog/schedule-youtube-videos/",
+   "title": "How to schedule YouTube videos in just a few steps"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "Is there a way to schedule posts on YouTube?",
+   "gl": "gb",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Schedule video publish time - YouTube Help",
+    "link": "https://support.google.com/youtube/answer/1270709?hl=en-GB",
+    "snippet": "Select CREATE and then Upload videos . Click the Schedule card. Set the date, time and time zone that you want your video to be published. Select Schedule.",
+    "position": 1
+   },
+   {
+    "title": "Is It Better To Schedule Videos? : r/NewTubers",
+    "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/",
+    "snippet": "So I have this idea where instead of uploading videos for the next couple weeks I instead make multiple videos and just schedule them for the next month ...",
+    "date": "1 year ago",
+    "position": 2
+   },
+   {
+    "title": "How to Schedule Community Posts on YouTube",
+    "link": "https://www.youtube.com/watch?v=LPK03SAoXzo",
+    "snippet": "This tutorial will help make scheduling YouTube posts simple and efficient!",
+    "date": "12 months ago",
+    "position": 3
+   },
+   {
+    "title": "How to Schedule a YouTube Video",
+    "link": "https://www.youtube.com/shorts/wpj2nL25zmc?vl=en",
+    "snippet": "This short 10 second tutorial shows you exactly how to schedule videos on YouTube step-by-step from uploading your video, choosing your date ...",
+    "date": "12 months ago",
+    "position": 4
+   },
+   {
+    "title": "How to Schedule YouTube Videos (& Why You Should)",
+    "link": "https://metricool.com/schedule-youtube-video/",
+    "snippet": "Click on the camera icon at the top right corner of YouTube and select 'Upload video'. 'Visibility' section, you'll find the option to schedule ...",
+    "date": "20 Aug 2026",
+    "position": 5
+   },
+   {
+    "title": "Schedule YouTube Shorts with Buffer | Grow Your Channel",
+    "link": "https://buffer.com/youtube",
+    "snippet": "Plan, craft, and schedule your YouTube Shorts, and more, in one place with Buffer. Enjoy our powerful free plan or try Buffer's premium features free for 14 ...",
+    "position": 6
+   },
+   {
+    "title": "How do I schedule shorts?",
+    "link": "https://www.reddit.com/r/NewTubers/comments/1foe175/how_do_i_schedule_shorts/",
+    "position": 7
+   },
+   {
+    "title": "How do you schedule a YouTube video to upload?",
+    "link": "https://www.quora.com/How-do-you-schedule-a-YouTube-video-to-upload",
+    "position": 8
+   },
+   {
+    "title": "YouTube: Schedule Shorts and Videos to your Channels",
+    "link": "https://www.postplanner.com/social-networks/youtube",
+    "snippet": "Schedule YouTube Videos and Shorts to the largest social network on the planet. Try Post Planner free for 7 days.",
+    "position": 9
+   },
+   {
+    "title": "How to schedule YouTube videos in just a few steps",
+    "link": "https://planable.io/blog/schedule-youtube-videos/",
+    "snippet": "Discover how to easily schedule YouTube videos using these three popular methods to help you reach your audience at the perfect time.",
+    "date": "5 Nov 2025",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.reddit.com/r/podcasting/comments/1iw4wrw/looking_for_better_podcast_editing_software_any/",
+   "title": "Looking for Better Podcast Editing Software"
+  },
+  {
+   "position": 2,
+   "link": "https://www.thepodcasthost.com/editing-production/best-podcast-editing-software/",
+   "title": "Best Podcast Editing Software for Podcasters of All Levels"
+  },
+  {
+   "position": 3,
+   "link": "https://transistor.fm/best-podcast-editing-software/",
+   "title": "Best podcast editing software - free DAWs and online tools"
+  },
+  {
+   "position": 4,
+   "link": "https://www.reddit.com/r/podcasting/comments/1u9uw7n/what_software_are_you_using_for_podcast_editing/",
+   "title": "What software are you using for podcast editing?"
+  },
+  {
+   "position": 5,
+   "link": "https://www.quora.com/What-software-do-you-use-to-mix-and-edit-podcasts",
+   "title": "What software do you use to mix and edit podcasts?"
+  },
+  {
+   "position": 6,
+   "link": "https://www.youtube.com/watch?v=K2AKFuazIvw",
+   "title": "Podcast Editing Software - Best Options for Beginners"
+  },
+  {
+   "position": 7,
+   "link": "https://zapier.com/blog/best-audio-editor/",
+   "title": "The best audio editing software in 2026"
+  },
+  {
+   "position": 8,
+   "link": "https://riverside.com/blog/podcast-editing-software",
+   "title": "8 Best Podcast Editing Software in 2026 for Audio & Video"
+  },
+  {
+   "position": 9,
+   "link": "https://www.youtube.com/watch?v=DuPkbVKdzn0",
+   "title": "Best Podcast Editing Software for Beginners in 2025"
+  },
+  {
+   "position": 10,
+   "link": "https://async.com/products/audio-editor",
+   "title": "AI Audio Editor designed to save you hours"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "What is the best audio editor for podcasts?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Looking for Better Podcast Editing Software",
+    "link": "https://www.reddit.com/r/podcasting/comments/1iw4wrw/looking_for_better_podcast_editing_software_any/",
+    "snippet": "I'm searching for a better podcast editing software. Right now, I use Riverside, which works well for initial edits, but adding intro/outro music is a ...",
+    "date": "1 year ago",
+    "position": 1
+   },
+   {
+    "title": "Best Podcast Editing Software for Podcasters of All Levels",
+    "link": "https://www.thepodcasthost.com/editing-production/best-podcast-editing-software/",
+    "snippet": "Audacity: popular and free software that looks good for its age \u00b7 Hindenburg Pro: elegant interface designed for spoken-word audio \u00b7 Alitu: ...",
+    "date": "29 Mar 2026",
+    "position": 2
+   },
+   {
+    "title": "Best podcast editing software - free DAWs and online tools",
+    "link": "https://transistor.fm/best-podcast-editing-software/",
+    "snippet": "Audacity is a free, user-friendly software ideal for recording and editing podcasts. Compatible with Windows, macOS, and Linux, it's easy for ...",
+    "date": "12 Jul 2023",
+    "position": 3
+   },
+   {
+    "title": "What software are you using for podcast editing?",
+    "link": "https://www.reddit.com/r/podcasting/comments/1u9uw7n/what_software_are_you_using_for_podcast_editing/",
+    "position": 4
+   },
+   {
+    "title": "What software do you use to mix and edit podcasts?",
+    "link": "https://www.quora.com/What-software-do-you-use-to-mix-and-edit-podcasts",
+    "position": 5
+   },
+   {
+    "title": "Podcast Editing Software - Best Options for Beginners",
+    "link": "https://www.youtube.com/watch?v=K2AKFuazIvw",
+    "snippet": "In this video I am sharing my favourite 4 tools that are beginner friendly for when you are starting to make your own podcasts.",
+    "date": "7 months ago",
+    "position": 6
+   },
+   {
+    "title": "The best audio editing software in 2026",
+    "link": "https://zapier.com/blog/best-audio-editor/",
+    "snippet": "Adobe Audition for the most powerful audio editor. Audacity for the best free multitrack audio editor. ocenaudio for the best free ...",
+    "date": "25 May 2026",
+    "position": 7
+   },
+   {
+    "title": "8 Best Podcast Editing Software in 2026 for Audio & Video",
+    "link": "https://riverside.com/blog/podcast-editing-software",
+    "snippet": "The best free podcast editing software options are Audacity and GarageBand. The best software options for video podcast editing are Adobe ...",
+    "date": "2 Jul 2026",
+    "position": 8
+   },
+   {
+    "title": "Best Podcast Editing Software for Beginners in 2025",
+    "link": "https://www.youtube.com/watch?v=DuPkbVKdzn0",
+    "snippet": "Best Podcast Recording Software in 2026. Mike Russell \u00b7 8K views ; Best Video Editing Software in 2026 (Beginner to Pro). Think Media \u00b7 200K views.",
+    "date": "1 year ago",
+    "position": 9
+   },
+   {
+    "title": "AI Audio Editor designed to save you hours",
+    "link": "https://async.com/products/audio-editor",
+    "snippet": "Edit and polish audio in Async. Trim, split, enhance, remove noise, and export quickly with simple controls and AI-powered tools.",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

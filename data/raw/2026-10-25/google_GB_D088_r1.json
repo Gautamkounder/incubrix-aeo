@@ -1,0 +1,140 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.reddit.com/r/ChatGPTPro/comments/1hptwf1/looking_to_transcribe_my_favorite_podcast/",
+   "title": "Looking to Transcribe My Favorite Podcast Episodes Using ..."
+  },
+  {
+   "position": 2,
+   "link": "https://www.youtube.com/watch?v=LLdDXxLBOT4",
+   "title": "How To Transcribe Podcast With ChatGPT (Full Guide 2026)"
+  },
+  {
+   "position": 3,
+   "link": "https://rss.com/blog/rss-com-episode-transcriptions-and-chat-gpt/",
+   "title": "Podcast Episode Transcriptions and ChatGPT Magic"
+  },
+  {
+   "position": 4,
+   "link": "https://www.firecrawl.dev/articles/chatgpt/search-podcast-transcripts",
+   "title": "How to search podcast transcripts in ChatGPT"
+  },
+  {
+   "position": 5,
+   "link": "https://maestra.ai/blogs/can-chatgpt-transcribe-audio",
+   "title": "Can ChatGPT Transcribe Audio? (with Prompts and an ..."
+  },
+  {
+   "position": 6,
+   "link": "https://www.facebook.com/groups/descriptusers/posts/752397057046234/",
+   "title": "How to convert podcast transcripts into long-form articles ..."
+  },
+  {
+   "position": 7,
+   "link": "https://elevenlabs.io/blog/how-to-transcribe-a-podcast",
+   "title": "How to transcribe a podcast with AI: A step-by-step guide"
+  },
+  {
+   "position": 8,
+   "link": "https://www.youtube.com/watch?v=4UfVNvveCAs",
+   "title": "How to Transcribe a Podcast With ChatGPT (Step By Step) ..."
+  },
+  {
+   "position": 9,
+   "link": "https://chatgpt.com/plugins/plugin_asdk_app_6944c9ea44b081919da6f28d284380ce",
+   "title": "AccurateScribe.ai \u2013 Transcribe"
+  },
+  {
+   "position": 10,
+   "link": "https://speakai.co/chatgpt-for-podcast-episodes/",
+   "title": "ChatGPT for Podcast Episodes: Transcribe & Analyze"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "Can ChatGpt transcribe a podcast?",
+   "gl": "gb",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Looking to Transcribe My Favorite Podcast Episodes Using ...",
+    "link": "https://www.reddit.com/r/ChatGPTPro/comments/1hptwf1/looking_to_transcribe_my_favorite_podcast/",
+    "snippet": "I'm no Python expert but you can have ChatGPT talk you through each line or section of the code it outputs. Any errors you encounter, just feed ...",
+    "date": "1 year ago",
+    "position": 1
+   },
+   {
+    "title": "How To Transcribe Podcast With ChatGPT (Full Guide 2026)",
+    "link": "https://www.youtube.com/watch?v=LLdDXxLBOT4",
+    "snippet": "We use AI transcription tools to convert audio to text, making it easy to create blog posts or summaries from audio content.",
+    "date": "8 months ago",
+    "position": 2
+   },
+   {
+    "title": "Podcast Episode Transcriptions and ChatGPT Magic",
+    "link": "https://rss.com/blog/rss-com-episode-transcriptions-and-chat-gpt/",
+    "snippet": "I'll show you mind-blowing tips to create assets for your podcast's episodes in minutes using episode transcripts and ChatGPT.",
+    "date": "28 Sept 2026",
+    "position": 3
+   },
+   {
+    "title": "How to search podcast transcripts in ChatGPT",
+    "link": "https://www.firecrawl.dev/articles/chatgpt/search-podcast-transcripts",
+    "snippet": "ChatGPT can transcribe audio you upload, but only on paid plans and workspaces, with files up to 512 MB and no video files (OpenAI). That works ...",
+    "date": "12 Oct 2026",
+    "position": 4
+   },
+   {
+    "title": "Can ChatGPT Transcribe Audio? (with Prompts and an ...",
+    "link": "https://maestra.ai/blogs/can-chatgpt-transcribe-audio",
+    "snippet": "The short answer is: Yes, ChatGPT can transcribe audio, but with important limitations. If you're looking to transcribe 100 podcast episodes. ...",
+    "date": "23 Jun 2026",
+    "position": 5
+   },
+   {
+    "title": "How to convert podcast transcripts into long-form articles ...",
+    "link": "https://www.facebook.com/groups/descriptusers/posts/752397057046234/",
+    "snippet": "Podcast transcript to article?\n\nI'm looking for a good ChatGPT 4 prompt to take a transcript and turn it into a long-form article as opposed to a short ...",
+    "date": "2 years ago",
+    "position": 6
+   },
+   {
+    "title": "How to transcribe a podcast with AI: A step-by-step guide",
+    "link": "https://elevenlabs.io/blog/how-to-transcribe-a-podcast",
+    "snippet": "Can ChatGPT transcribe a podcast? text. One common workflow is to transcribe the audio with a dedicated speech-to-text model first, then paste ...",
+    "date": "5 days ago",
+    "position": 7
+   },
+   {
+    "title": "How to Transcribe a Podcast With ChatGPT (Step By Step) ...",
+    "link": "https://www.youtube.com/watch?v=4UfVNvveCAs",
+    "snippet": "In this video, you'll learn how to set up ChatGPT for transcription, format your transcript for clarity, and edit the output for accuracy.",
+    "date": "2 months ago",
+    "position": 8
+   },
+   {
+    "title": "AccurateScribe.ai \u2013 Transcribe",
+    "link": "https://chatgpt.com/plugins/plugin_asdk_app_6944c9ea44b081919da6f28d284380ce",
+    "snippet": "Transcribe meetings, podcasts, interviews, lectures, and other recordings\u2014including recorded Zoom meetings\u2014in minutes. Easily create meeting transcripts and ...",
+    "position": 9
+   },
+   {
+    "title": "ChatGPT for Podcast Episodes: Transcribe & Analyze",
+    "link": "https://speakai.co/chatgpt-for-podcast-episodes/",
+    "snippet": "Can ChatGPT make a transcript of a podcast? ChatGPT is a chat model and not a dedicated transcription tool, so the usual approach is to transcribe the audio ...",
+    "rating": 4.9,
+    "ratingCount": 28,
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

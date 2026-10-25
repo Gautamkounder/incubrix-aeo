@@ -1,0 +1,134 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.reddit.com/r/podcasting/comments/1ji89kb/new_to_podcasting_which_recording_editing_and/",
+   "title": "New to podcasting - which Recording, Editing, and Hosting ..."
+  },
+  {
+   "position": 2,
+   "link": "https://www.thepodcasthost.com/editing-production/best-podcast-editing-software/",
+   "title": "Best Podcast Editing Software for Podcasters of All Levels"
+  },
+  {
+   "position": 3,
+   "link": "https://www.reddit.com/r/podcasting/comments/1iw4wrw/looking_for_better_podcast_editing_software_any/",
+   "title": "Looking for Better Podcast Editing Software \u2013 Any Recommendations?"
+  },
+  {
+   "position": 4,
+   "link": "https://www.facebook.com/groups/13344770373/posts/10172764105250374/",
+   "title": "What is the best recording and editing software for podcasting?"
+  },
+  {
+   "position": 5,
+   "link": "https://www.facebook.com/groups/13344770373/posts/10171440575075374/",
+   "title": "What software do podcasters use to record and post?"
+  },
+  {
+   "position": 6,
+   "link": "https://alitu.com/creator/content-creation/best-podcast-recording-software/",
+   "title": "Best Podcast Recording Software in 2026?"
+  },
+  {
+   "position": 7,
+   "link": "https://www.youtube.com/watch?v=YqNU28nOINI",
+   "title": "Best Podcast Recording Software in 2026"
+  },
+  {
+   "position": 8,
+   "link": "https://www.studiobinder.com/blog/best-podcast-recording-software/",
+   "title": "16 Best Podcast Recording Software in 2026"
+  },
+  {
+   "position": 9,
+   "link": "https://www.podigee.com/blog/podcast-software-andtools/",
+   "title": "Podcast Software & Tools: What You Actually Need"
+  },
+  {
+   "position": 10,
+   "link": "https://www.youtube.com/watch?v=jrBl6gHbVuk",
+   "title": "Best Podcast Software in 2026: Record, Edit & Publish in One ..."
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "What software do most podcasters use?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "New to podcasting - which Recording, Editing, and Hosting ...",
+    "link": "https://www.reddit.com/r/podcasting/comments/1ji89kb/new_to_podcasting_which_recording_editing_and/",
+    "snippet": "And for editing, again, use Audacity or Ocenaudio. For hosting, use Spotify for Creators, which is absolutely free without any restrictions, ...",
+    "date": "1 year ago",
+    "position": 1
+   },
+   {
+    "title": "Best Podcast Editing Software for Podcasters of All Levels",
+    "link": "https://www.thepodcasthost.com/editing-production/best-podcast-editing-software/",
+    "snippet": "Most Popular Podcast Editing Software \u00b7 Audacity \u00b7 Hindenburg Pro \u00b7 Alitu \u00b7 More Podcast Editing Software Options. Adobe Audition \u00b7 Podcast Editing ...",
+    "date": "29 Mar 2026",
+    "position": 2
+   },
+   {
+    "title": "Looking for Better Podcast Editing Software \u2013 Any Recommendations?",
+    "link": "https://www.reddit.com/r/podcasting/comments/1iw4wrw/looking_for_better_podcast_editing_software_any/",
+    "position": 3
+   },
+   {
+    "title": "What is the best recording and editing software for podcasting?",
+    "link": "https://www.facebook.com/groups/13344770373/posts/10172764105250374/",
+    "position": 4
+   },
+   {
+    "title": "What software do podcasters use to record and post?",
+    "link": "https://www.facebook.com/groups/13344770373/posts/10171440575075374/",
+    "position": 5
+   },
+   {
+    "title": "Best Podcast Recording Software in 2026?",
+    "link": "https://alitu.com/creator/content-creation/best-podcast-recording-software/",
+    "snippet": "Audacity was a clear favourite here, with almost 17% of podcasters using it as their primary podcast recording platform. The second most common ...",
+    "date": "9 Mar 2026",
+    "position": 6
+   },
+   {
+    "title": "Best Podcast Recording Software in 2026",
+    "link": "https://www.youtube.com/watch?v=YqNU28nOINI",
+    "snippet": "In this video I am discussing some of the best options for podcast recording software available right now. Which is best?",
+    "date": "4 months ago",
+    "position": 7
+   },
+   {
+    "title": "16 Best Podcast Recording Software in 2026",
+    "link": "https://www.studiobinder.com/blog/best-podcast-recording-software/",
+    "snippet": "If you want a completely free way to record and edit your podcast, Audacity remains one of the most popular options available. Free and open- ...",
+    "date": "13 Apr 2026",
+    "position": 8
+   },
+   {
+    "title": "Podcast Software & Tools: What You Actually Need",
+    "link": "https://www.podigee.com/blog/podcast-software-andtools/",
+    "snippet": "With Audacity, Adobe Podcast (free tier), and Squadcast's free plan, you can produce a complete episode without spending anything. Add Podigee's ...",
+    "date": "27 May 2026",
+    "position": 9
+   },
+   {
+    "title": "Best Podcast Software in 2026: Record, Edit & Publish in One ...",
+    "link": "https://www.youtube.com/watch?v=jrBl6gHbVuk",
+    "snippet": "The best podcast recording software for beginners and creators is Riverside. In this complete tutorial, Veronica walks you through recording ...",
+    "date": "10 months ago",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

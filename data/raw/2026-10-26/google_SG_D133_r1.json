@@ -1,0 +1,135 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.opus.pro/pricing",
+   "title": "Pricing"
+  },
+  {
+   "position": 2,
+   "link": "https://quso.ai/blog/opus-clip-pricing",
+   "title": "Opus Clip Pricing 2026: Free, $15 & $29 Plans and Credits"
+  },
+  {
+   "position": 3,
+   "link": "https://www.opus.pro/",
+   "title": "OpusClip: #1 AI video clipping and editing tool"
+  },
+  {
+   "position": 4,
+   "link": "https://help.opus.pro/docs/article/plans-and-credits",
+   "title": "Plans - Opus Clip"
+  },
+  {
+   "position": 5,
+   "link": "https://bigvu.tv/blog/opus-clips-worth-the-hype/",
+   "title": "Is Opus Clips Worth It? An Honest 2026 Review"
+  },
+  {
+   "position": 6,
+   "link": "https://www.eesel.ai/blog/opusclip-pricing",
+   "title": "OpusClip pricing in 2026: what you actually pay"
+  },
+  {
+   "position": 7,
+   "link": "https://www.youtube.com/watch?v=LSMAg1HJn7o",
+   "title": "Opus Clip Pricing | Choosing a Plan That Suits Your Needs"
+  },
+  {
+   "position": 8,
+   "link": "https://www.opus.pro/agent/pricing",
+   "title": "Agent Opus Pricing: Free, Pro & Max Plans"
+  },
+  {
+   "position": 9,
+   "link": "https://frameos.studio/blog/opusclip-pricing",
+   "title": "OpusClip Pricing 2026: How the Credit System Actually ..."
+  },
+  {
+   "position": 10,
+   "link": "https://help.opus.pro/docs/article/how-are-credits-consumed",
+   "title": "How Do Credits Work?"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "How much is OpusClip per month?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Pricing",
+    "link": "https://www.opus.pro/pricing",
+    "snippet": "For individual creators $15 USD \u2026 professional creators, marketers, & teams $29 USD. Starter $15/mo 300 credits/mo",
+    "position": 1
+   },
+   {
+    "title": "Opus Clip Pricing 2026: Free, $15 & $29 Plans and Credits",
+    "link": "https://quso.ai/blog/opus-clip-pricing",
+    "snippet": "OpusClip Free is $0 for 60 credits a month, Starter is $15 a month for 150 credits (monthly billing only), Pro is $29 a month or $14.50 a month ...",
+    "date": "5 days ago",
+    "position": 2
+   },
+   {
+    "title": "OpusClip: #1 AI video clipping and editing tool",
+    "link": "https://www.opus.pro/",
+    "snippet": "save $2,700 monthly on editing cost Livestreamers Drive more traffic back to your livestreams through shorts \u2026 long videos into shorts,",
+    "position": 3
+   },
+   {
+    "title": "Plans - Opus Clip",
+    "link": "https://help.opus.pro/docs/article/plans-and-credits",
+    "snippet": "Our Free Plan is our basic plan but is free forever! 150 processing minutes per month. For more information, check out our pricing plans here.",
+    "position": 4
+   },
+   {
+    "title": "Is Opus Clips Worth It? An Honest 2026 Review",
+    "link": "https://bigvu.tv/blog/opus-clips-worth-the-hype/",
+    "snippet": "The Pro plan at $29 per month (or around $14.50 monthly when billed annually at $174 per year) is where the platform starts delivering its full ...",
+    "date": "12 Apr 2026",
+    "position": 5
+   },
+   {
+    "title": "OpusClip pricing in 2026: what you actually pay",
+    "link": "https://www.eesel.ai/blog/opusclip-pricing",
+    "snippet": "OpusClip pricing lands at $0 (Free), $15/mo (Starter), $29/mo (Pro), and custom (Business). The Free plan is real - 60 processing minutes per ...",
+    "date": "9 Jun 2026",
+    "position": 6
+   },
+   {
+    "title": "Opus Clip Pricing | Choosing a Plan That Suits Your Needs",
+    "link": "https://www.youtube.com/watch?v=LSMAg1HJn7o",
+    "snippet": "Opus Clip Pricing. In this video, I explain the Opus Clip features and plans. Try Opus Clip for FREE:",
+    "date": "2 years ago",
+    "position": 7
+   },
+   {
+    "title": "Agent Opus Pricing: Free, Pro & Max Plans",
+    "link": "https://www.opus.pro/agent/pricing",
+    "snippet": "60 credits per month = 2 videos (30s each) producers $29/month $348 billed annually. For teams and power users $129/month $ each)",
+    "position": 8
+   },
+   {
+    "title": "OpusClip Pricing 2026: How the Credit System Actually ...",
+    "link": "https://frameos.studio/blog/opusclip-pricing",
+    "snippet": "OpusClip Starter is $15/month and is sold monthly only. FrameOS Pro: $7/month, or $4.50/month billed yearly ($54/year), for 150 credits a month.",
+    "date": "2 Jul 2026",
+    "position": 9
+   },
+   {
+    "title": "How Do Credits Work?",
+    "link": "https://help.opus.pro/docs/article/how-are-credits-consumed",
+    "snippet": "Currently, processing clips will cost 1 credit per minute of the original video imported. ... 1500 credits per month per pack. Plan available only through Agent ...",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

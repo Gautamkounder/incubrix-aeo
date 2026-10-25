@@ -1,0 +1,135 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.reddit.com/r/podcasting/comments/1sia9yc/which_is_the_best_podcast_app_for_recording_and/",
+   "title": "Which is the best podcast app for recording and layout ..."
+  },
+  {
+   "position": 2,
+   "link": "https://www.thepodcasthost.com/editing-production/best-podcast-editing-software/",
+   "title": "Best Podcast Editing Software for Podcasters of All Levels"
+  },
+  {
+   "position": 3,
+   "link": "https://www.reddit.com/r/podcasting/comments/1iw4wrw/looking_for_better_podcast_editing_software_any/",
+   "title": "Looking for Better Podcast Editing Software \u2013 Any Recommendations?"
+  },
+  {
+   "position": 4,
+   "link": "https://www.facebook.com/groups/13344770373/posts/10173399048245374/",
+   "title": "What are the best apps for editing in-person podcast recordings ..."
+  },
+  {
+   "position": 5,
+   "link": "https://www.facebook.com/groups/13344770373/posts/10172764105250374/",
+   "title": "What is the best recording and editing software for podcasting?"
+  },
+  {
+   "position": 6,
+   "link": "https://play.google.com/store/apps/details?id=com.spreaker.android.studio&hl=en",
+   "title": "Podcast Studio - Apps on Google Play"
+  },
+  {
+   "position": 7,
+   "link": "https://transistor.fm/best-podcast-editing-software/",
+   "title": "Best podcast editing software - free DAWs and online tools"
+  },
+  {
+   "position": 8,
+   "link": "https://alitu.com/creator/content-creation/best-podcast-recording-software/",
+   "title": "Best Podcast Recording Software in 2026?"
+  },
+  {
+   "position": 9,
+   "link": "https://www.youtube.com/watch?v=DuPkbVKdzn0",
+   "title": "Best Podcast Editing Software for Beginners in 2025"
+  },
+  {
+   "position": 10,
+   "link": "https://riverside.com/blog/podcast-editing-software",
+   "title": "8 Best Podcast Editing Software in 2026 for Audio & Video"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "Which app is best for podcast editing?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Which is the best podcast app for recording and layout ...",
+    "link": "https://www.reddit.com/r/podcasting/comments/1sia9yc/which_is_the_best_podcast_app_for_recording_and/",
+    "snippet": "Hi everyone, starting a podcast soon-ish (next month) and want to find a good podcast app to use.\n\nRiverside \u2013 apparently its super bad after they did ...",
+    "date": "6 months ago",
+    "position": 1
+   },
+   {
+    "title": "Best Podcast Editing Software for Podcasters of All Levels",
+    "link": "https://www.thepodcasthost.com/editing-production/best-podcast-editing-software/",
+    "snippet": "Best Podcast Editing Software for Podcasters of All Levels \u00b7 Adobe Audition \u00b7 Adobe Podcast \u00b7 GarageBand \u00b7 Descript \u00b7 Reaper \u00b7 Riverside.",
+    "date": "29 Mar 2026",
+    "position": 2
+   },
+   {
+    "title": "Looking for Better Podcast Editing Software \u2013 Any Recommendations?",
+    "link": "https://www.reddit.com/r/podcasting/comments/1iw4wrw/looking_for_better_podcast_editing_software_any/",
+    "position": 3
+   },
+   {
+    "title": "What are the best apps for editing in-person podcast recordings ...",
+    "link": "https://www.facebook.com/groups/13344770373/posts/10173399048245374/",
+    "position": 4
+   },
+   {
+    "title": "What is the best recording and editing software for podcasting?",
+    "link": "https://www.facebook.com/groups/13344770373/posts/10172764105250374/",
+    "position": 5
+   },
+   {
+    "title": "Podcast Studio - Apps on Google Play",
+    "link": "https://play.google.com/store/apps/details?id=com.spreaker.android.studio&hl=en",
+    "snippet": "Podcast Studio App lets you record, publish, distribute and analyze your podcast, EDIT - Trim or crop your audio straight from the app to get it sounding super ...",
+    "rating": 4.4,
+    "ratingCount": 61462,
+    "position": 6
+   },
+   {
+    "title": "Best podcast editing software - free DAWs and online tools",
+    "link": "https://transistor.fm/best-podcast-editing-software/",
+    "snippet": "Audacity is a free, user-friendly software ideal for recording and editing podcasts. Compatible with Windows, macOS, and Linux, it's easy for ...",
+    "date": "12 Jul 2023",
+    "position": 7
+   },
+   {
+    "title": "Best Podcast Recording Software in 2026?",
+    "link": "https://alitu.com/creator/content-creation/best-podcast-recording-software/",
+    "snippet": "There are loads of solid podcast editing software options out there. 1 in 4 use Audacity, but Audition, Descript, and Alitu all have their ...",
+    "date": "9 Mar 2026",
+    "position": 8
+   },
+   {
+    "title": "Best Podcast Editing Software for Beginners in 2025",
+    "link": "https://www.youtube.com/watch?v=DuPkbVKdzn0",
+    "snippet": "Best Podcast Editing Software for Beginners in 2025. Mike Russell Podcast Editing Software - Best Options for Beginners",
+    "date": "1 year ago",
+    "position": 9
+   },
+   {
+    "title": "8 Best Podcast Editing Software in 2026 for Audio & Video",
+    "link": "https://riverside.com/blog/podcast-editing-software",
+    "snippet": "The best overall podcast editing software options are Riverside and Descript. The best free podcast editing software options are Audacity and ...",
+    "date": "2 Jul 2026",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

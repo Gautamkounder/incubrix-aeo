@@ -1,143 +1,138 @@
-"""Builds reports/visibility.csv (one row per question) + weekly_report.md + citation_targets.csv from data/checks.csv.
+"""Builds, from data/checks.csv:
+  reports/visibility.csv        OFFICIAL layout = columns A-T of workbook tab 02_QUESTIONS (paste straight in)
+  reports/citation_targets.csv  workbook tab 02c layout (+ counts)
+  reports/scores.csv            internal 0-100 visibility score per question
+  reports/weekly_report.md
 python -m engine.report"""
-import argparse, csv, re
+import argparse, csv, os, re
 from collections import defaultdict
 from pathlib import Path
-from engine.common import ROOT, brand_name, domain_of, load_questions, load_settings
+from engine.common import ROOT, domain_of, load_questions, load_settings
+
+OFFICIAL = ["question_id", "question", "intent", "source_type", "source_url", "market", "google_position",
+            "answer_box_or_ai_overview", "quoted_source_url", "chatgpt", "gemini", "perplexity", "claude_or_copilot",
+            "competitors_named", "check_date_day1", "check_date_day2", "changed_on_day2", "raw_answers_url",
+            "priority", "notes"]
+ASSISTANT_COL = {"chatgpt": "chatgpt", "openai": "chatgpt", "gemini": "gemini", "perplexity": "perplexity",
+                 "claude": "claude_or_copilot", "anthropic": "claude_or_copilot", "copilot": "claude_or_copilot"}
+INTENTS = ["Informational", "Comparison", "Transactional", "Navigational"]
 
 def _b(v): return str(v).lower() == "true"
 
+def norm_market(m):
+    m = (m or "US").strip().upper()
+    return "GB" if m == "UK" else m
+
+def norm_intent(value, question):
+    for i in INTENTS:
+        if (value or "").strip().lower() == i.lower(): return i
+    q = (question or "").lower()
+    if re.search(r"\bvs\b|versus|alternative|best |top \d|compare|comparison", q): return "Comparison"
+    if re.search(r"price|pricing|cost|free|buy|discount|plan", q): return "Transactional"
+    return "Informational"
+
+def _status(rows):
+    if not rows: return ""
+    if any(_b(r["brand_cited"]) for r in rows): return "Cited"
+    if any(_b(r["brand_mentioned"]) for r in rows): return "Mentioned"
+    return "Not mentioned"
+
+def _best_pos(g):
+    pos = [int(r["google_position"]) for r in g if r["google_position"]]
+    return min(pos) if pos else None
+
+def _surface(g):
+    ab = any(_b(r["answer_box_present"]) for r in g); ai = any(_b(r["ai_overview_present"]) for r in g)
+    return "Both" if ab and ai else "Answer box" if ab else "AI Overview" if ai else "None"
+
+def _assistant_statuses(rows):
+    by = defaultdict(list)
+    for r in rows:
+        col = ASSISTANT_COL.get(r["provider"])
+        if col: by[col].append(r)
+    return {c: _status(by.get(c, [])) for c in ("chatgpt", "gemini", "perplexity", "claude_or_copilot")}
+
 def score_question(rows, w):
-    g = [r for r in rows if r["provider"] == "google" and r["status"] == "ok"]
-    ai = [r for r in rows if r["provider"] != "google" and r["status"] == "ok"]
-    pos = [int(r["google_position"]) for r in g if str(r["google_position"]).isdigit()]
-    g_score = max((11 - p) / 10 for p in pos) if pos else 0.0   # position 1 -> 1.0, 10 -> 0.1, none -> 0
+    g = [r for r in rows if r["provider"] == "google"]
+    ai = [r for r in rows if r["provider"] in ASSISTANT_COL]
+    p = _best_pos(g)
+    g_score = (11 - p) / 10 if p else 0.0
     surf = any(_b(r["brand_in_surface"]) for r in g)
     ai_rate = (sum(_b(r["brand_mentioned"]) or _b(r["brand_cited"]) for r in ai) / len(ai)) if ai else 0.0
     return round(100 * (w["google"] * g_score + w["answer_surface"] * (1.0 if surf else 0.0) + w["ai_mention"] * ai_rate), 1), ai_rate
 
-# ---- citation targets: what kind of page is it and how could the brand earn a mention (draft, review by hand) ----
-TYPE_RULES = [
-    ("community", ("reddit.com", "quora.com", "facebook.com", "news.ycombinator.com", "discord.com", "stackexchange.com", "medium.com/@")),
-    ("video", ("youtube.com", "youtu.be", "vimeo.com", "tiktok.com")),
-    ("review_directory", ("g2.com", "capterra.com", "trustpilot.com", "producthunt.com", "getapp.com", "softwareadvice.com",
-                          "alternativeto.net", "sourceforge.net", "toolify.ai", "futurepedia.io", "theresanaiforthat.com")),
-    ("reference", ("wikipedia.org", "support.google.com", "developers.google.com")),
-]
-ANGLES = {
-    "community": "Do not post during the assessment. Later: a disclosed IncuBrix team member answers the thread helpfully, only where the community rules allow it.",
-    "video": "Publish a better how-to video on the same query and embed it in the matching guide page; earn mentions through the guide, not comments.",
-    "review_directory": "Submit or claim an IncuBrix listing with accurate, product-verified details (pricing, platforms, features).",
-    "reference": "Not a placement target. Use it as a source to cite in the guide and match its terminology.",
-    "competitor_site": "Not a placement target. Study its page structure and publish a better answer-first page for the same question.",
-    "article_blog": "After the assessment, IncuBrix pitches the author a data point, template or comparison row the article lacks.",
-}
-
-def classify_domain(domain, competitors=()):
-    d = (domain or "").lower()
-    for kind, needles in TYPE_RULES:
-        if any(d == n or d.endswith("." + n) or d.endswith(n) for n in needles):
-            return kind
-    slug = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
-    if any(slug(c) and slug(c) in slug(d) for c in competitors):
-        return "competitor_site"
-    return "article_blog"
-
-# ---- share of voice: how often each name appears in assistant answers ----
-def share_of_voice(rows, brand, competitors):
-    ai = [r for r in rows if r["provider"] != "google" and r["status"] == "ok"]
-    names = defaultdict(int)
-    for r in ai:
-        if _b(r["brand_mentioned"]): names[brand] += 1
-        for c in (r.get("competitors") or "").split("|"):
-            if c: names[c] += 1
-    total = sum(names.values())
-    return [(n, k, (k / total if total else 0.0)) for n, k in sorted(names.items(), key=lambda x: -x[1])], len(ai)
-
-def scores_by_day(rows, w):
-    days = defaultdict(list)
-    for r in rows: days[r["day"]].append(r)
-    res = {}
-    for d, rs in sorted(days.items()):
-        by_q = defaultdict(list)
-        for r in rs: by_q[r["question_id"]].append(r)
-        sc = [score_question(x, w)[0] for x in by_q.values()]
-        res[d] = (sum(sc) / len(sc), len(sc))
-    return res
+def official_row(qid, rs, q):
+    days = sorted({r["day"] for r in rs}); d1 = days[0]; d2 = days[1] if len(days) > 1 else ""
+    by_day = {d: [r for r in rs if r["day"] == d] for d in days}
+    def sig(d):
+        g = [r for r in by_day[d] if r["provider"] == "google"]
+        return (_best_pos(g), _surface(g), tuple(sorted(_assistant_statuses(by_day[d]).items())))
+    g1 = [r for r in by_day[d1] if r["provider"] == "google"]
+    pos = _best_pos(g1); st = _assistant_statuses(by_day[d1])
+    comps = sorted({c for r in rs if r["provider"] != "google" for c in r["competitors"].split("|") if c})
+    quoted = next((r["answer_box_url"] for r in g1 if r.get("answer_box_url")), "") or "n/a"
+    question = q.get("question") or rs[0]["question"]
+    intent = norm_intent(q.get("intent"), question)
+    strong = (pos is not None and pos <= 3) or "Cited" in st.values()
+    absent = pos is None and all(v in ("", "Not mentioned") for v in st.values())
+    priority = "Low" if strong else "High" if absent and (comps or intent == "Comparison") else "Medium"
+    base = os.environ.get("RAW_ANSWERS_BASE_URL", "").rstrip("/")
+    raw = (f"{base}/{d1}/" if base else f"data/raw/{d1}/") + f" (files *_{qid}_r*.json)"
+    doms = [d for d in (g1[0]["cited_domains"].split("|") if g1 else []) if d][:3]
+    notes = ("Top Google domains day 1: " + ", ".join(doms)) if doms else ""
+    return {"question_id": qid, "question": question, "intent": intent, "source_type": q.get("source_type", ""),
+            "source_url": q.get("source_url", ""), "market": norm_market(q.get("market") or rs[0]["market"]),
+            "google_position": pos if pos is not None else "Not in top 10", "answer_box_or_ai_overview": _surface(g1),
+            "quoted_source_url": quoted, "chatgpt": st["chatgpt"], "gemini": st["gemini"], "perplexity": st["perplexity"],
+            "claude_or_copilot": st["claude_or_copilot"], "competitors_named": "|".join(comps), "check_date_day1": d1,
+            "check_date_day2": d2, "changed_on_day2": ("Yes" if sig(d1) != sig(d2) else "No") if d2 else "",
+            "raw_answers_url": raw, "priority": priority, "notes": notes}
 
 def build(checks_csv, questions_csv, out_dir, settings):
-    rows = list(csv.DictReader(open(checks_csv, encoding="utf-8-sig")))
-    for r in rows:
-        for k in ("brand_in_surface", "brand_mentioned", "brand_cited", "competitors", "cited_urls", "google_position",
-                  "answer_box_present", "ai_overview_present", "status"):
-            if r.get(k) is None: r[k] = ""
-    brand = brand_name(settings)
+    rows = [r for r in csv.DictReader(open(checks_csv, encoding="utf-8")) if r["status"] == "ok"]
     qmeta = {q["id"]: q for q in load_questions(questions_csv)}
     by_q = defaultdict(list)
     for r in rows: by_q[r["question_id"]].append(r)
-    out, comp_count = [], defaultdict(int)
-    for qid, rs in by_q.items():
-        sc, ai_rate = score_question(rs, settings["weights"])
-        g = [r for r in rs if r["provider"] == "google" and r["status"] == "ok"]
-        pos = [int(r["google_position"]) for r in g if str(r["google_position"]).isdigit()]
-        comps = sorted({c for r in rs for c in r["competitors"].split("|") if c})
-        for c in comps: comp_count[c] += 1
-        out.append({"question_id": qid, "question": rs[0]["question"], "topic": qmeta.get(qid, {}).get("topic", ""),
-                    "days_measured": len({r["day"] for r in rs}), "google_best_position": min(pos) if pos else "",
-                    "answer_box": any(_b(r["answer_box_present"]) for r in g), "ai_overview": any(_b(r["ai_overview_present"]) for r in g),
-                    "assistants_mentioning": len({r["provider"] for r in rs if r["provider"] != "google" and (_b(r["brand_mentioned"]) or _b(r["brand_cited"]))}),
-                    "ai_mention_rate": round(ai_rate, 2), "competitors_named": "|".join(comps), "visibility_score": sc})
     out_dir = Path(out_dir); out_dir.mkdir(parents=True, exist_ok=True)
-    if out:
-        with open(out_dir / "visibility.csv", "w", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=list(out[0])); w.writeheader(); w.writerows(out)
-    # Citation targets: third-party URLs that Google and the assistants already show for these questions.
-    cites = defaultdict(lambda: {"count": 0, "providers": set(), "questions": set(), "comps": set()})
-    bd = settings["brand_domain"]
+    official, scores, comp_count = [], [], defaultdict(int)
+    for qid, rs in by_q.items():
+        o = official_row(qid, rs, qmeta.get(qid, {})); official.append(o)
+        sc, ai_rate = score_question(rs, settings["weights"])
+        for c in o["competitors_named"].split("|"):
+            if c: comp_count[c] += 1
+        scores.append({"question_id": qid, "question": o["question"], "google_best_position": o["google_position"],
+                       "assistants_mentioning": sum(1 for k in ("chatgpt", "gemini", "perplexity", "claude_or_copilot") if o[k] in ("Cited", "Mentioned")),
+                       "ai_mention_rate": round(ai_rate, 2), "competitors_named": o["competitors_named"], "priority": o["priority"],
+                       "visibility_score": sc})
+    with open(out_dir / "visibility.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=OFFICIAL); w.writeheader(); w.writerows(official)
+    with open(out_dir / "scores.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=["question_id", "question", "google_best_position", "assistants_mentioning", "ai_mention_rate", "competitors_named", "priority", "visibility_score"])
+        w.writeheader(); w.writerows(scores)
+    # citation targets: third-party URLs Google and the assistants already show for these questions
+    brand = settings["brand_domain"]; cites = {}
     for r in rows:
-        if r["status"] != "ok": continue
         for u in filter(None, r.get("cited_urls", "").split("|")):
             d = domain_of(u)
-            if d == bd or d.endswith("." + bd): continue
-            c = cites[u]; c["count"] += 1; c["providers"].add(r["provider"]); c["questions"].add(r["question_id"])
-            c["comps"].update(x for x in r["competitors"].split("|") if x)
-    ranked = sorted(cites.items(), key=lambda kv: (-len(kv[1]["questions"]), -kv[1]["count"]))[:80]
+            if not u.startswith("http") or "vertexaisearch" in d or d == brand or d.endswith("." + brand): continue
+            c = cites.setdefault(u, {"n": 0, "who": set(), "q": set(), "raw": r["raw_path"]}); c["n"] += 1; c["who"].add(r["provider"]); c["q"].add(r["question_id"])
+    ranked = sorted(cites.items(), key=lambda kv: (-len(kv[1]["q"]), -kv[1]["n"], kv[0]))[:60]
     with open(out_dir / "citation_targets.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["url", "domain", "questions_covered", "times_cited", "sources", "example_question_ids",
-                    "page_type", "placement_target", "reason", "suggested_angle_draft"])
-        for u, c in ranked:
-            kind = classify_domain(domain_of(u), settings["competitors"])
-            placement = kind not in ("competitor_site", "reference")
-            reason = (f"Shown for {len(c['questions'])} question(s), {c['count']} time(s), by {', '.join(sorted(c['providers']))}."
-                      + (f" Competitors named alongside: {', '.join(sorted(c['comps'])[:5])}." if c["comps"] else ""))
-            w.writerow([u, domain_of(u), len(c["questions"]), c["count"], "|".join(sorted(c["providers"])),
-                        "|".join(sorted(c["questions"])[:5]), kind, placement, reason, ANGLES[kind]])
-    # Weekly report
-    n = len(out) or 1
-    avg = sum(o["visibility_score"] for o in out) / n
-    top = sorted(comp_count.items(), key=lambda x: -x[1])[:5]
-    worst = sorted(out, key=lambda o: o["visibility_score"])[:10]
-    sov, n_ai = share_of_voice(rows, brand, settings["competitors"])
-    ai_ok = [r for r in rows if r["provider"] != "google" and r["status"] == "ok"]
-    mention_rate = (sum(_b(r["brand_mentioned"]) or _b(r["brand_cited"]) for r in ai_ok) / len(ai_ok)) if ai_ok else 0.0
-    by_prov = defaultdict(list)
-    for r in ai_ok: by_prov[r["provider"]].append(_b(r["brand_mentioned"]) or _b(r["brand_cited"]))
-    days = scores_by_day(rows, settings["weights"])
-    errs = sum(1 for r in rows if r["status"] != "ok")
-    md = ["# Weekly visibility report", f"- Questions measured: {len(out)}", f"- Average visibility score: {avg:.1f}/100",
-          f"- Questions where {brand} is in Google top 10: {sum(1 for o in out if o['google_best_position'] != '')}",
-          f"- Questions mentioned by 1+ assistant: {sum(1 for o in out if o['assistants_mentioning'] > 0)}",
-          f"- AI mention rate (assistant answers that mention or cite {brand}): {mention_rate:.0%} of {len(ai_ok)} answers",
-          f"- Failed checks logged: {errs}", "", "## Score by day"] + \
-         [f"- {d}: {s:.1f}/100 over {k} questions" for d, (s, k) in days.items()] + \
-         ["", "## AI mention rate by assistant"] + [f"- {p}: {sum(v)}/{len(v)} answers ({sum(v) / len(v):.0%})" for p, v in sorted(by_prov.items())] + \
-         ["", f"## Share of voice in assistant answers ({n_ai} answers)"] + \
-         [f"- {nm}: {k} mentions ({sh:.0%} of all named tools)" for nm, k, sh in sov[:10]] + \
-         ["", "## Competitors named most often"] + [f"- {c}: {k} questions" for c, k in top] + \
-         ["", "## 10 lowest-scoring questions (write pages for these)"] + [f"- {o['question']} (score {o['visibility_score']})" for o in worst]
+        w.writerow(["item_id", "type", "target_question_ids", "title_or_page_url", "draft_or_evidence_url", "why_it_matters", "angle_or_schema", "sources_cited", "status", "times_cited", "domain"])
+        for i, (u, c) in enumerate(ranked, 1):
+            w.writerow([f"C{i:03d}", "Citation target", "|".join(sorted(c["q"])[:8]), u, c["raw"],
+                        f"Shown for {len(c['q'])} of our questions by {', '.join(sorted(c['who']))}", "", "", "Draft", c["n"], domain_of(u)])
+    n = len(official) or 1
+    avg = sum(s["visibility_score"] for s in scores) / n
+    md = ["# Weekly visibility report", f"- Questions measured: {len(official)}", f"- Average visibility score: {avg:.1f}/100",
+          f"- In Google top 10: {sum(1 for o in official if o['google_position'] != 'Not in top 10')}",
+          f"- Mentioned or cited by 1+ assistant: {sum(1 for s in scores if s['assistants_mentioning'] > 0)}",
+          f"- High-priority gaps: {sum(1 for o in official if o['priority'] == 'High')}", "", "## Competitors named most often"] + \
+         [f"- {c}: {k} questions" for c, k in sorted(comp_count.items(), key=lambda x: -x[1])[:8]] + \
+         ["", "## 10 lowest-scoring questions (write pages for these)"] + [f"- {s['question']} ({s['visibility_score']})" for s in sorted(scores, key=lambda s: s["visibility_score"])[:10]]
     (out_dir / "weekly_report.md").write_text("\n".join(md), encoding="utf-8")
-    return out
+    return official
 
 def main():
     ap = argparse.ArgumentParser()

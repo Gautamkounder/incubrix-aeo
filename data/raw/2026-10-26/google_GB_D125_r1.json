@@ -1,0 +1,140 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.reddit.com/r/podcasting/comments/1iw4wrw/looking_for_better_podcast_editing_software_any/",
+   "title": "Looking for Better Podcast Editing Software"
+  },
+  {
+   "position": 2,
+   "link": "https://www.thepodcasthost.com/editing-production/best-podcast-editing-software/",
+   "title": "Best Podcast Editing Software for Podcasters of All Levels"
+  },
+  {
+   "position": 3,
+   "link": "https://www.facebook.com/groups/BuzzsproutCommunity/posts/26382891901303941/",
+   "title": "Video editing software for podcasting?"
+  },
+  {
+   "position": 4,
+   "link": "https://www.youtube.com/watch?v=K2AKFuazIvw",
+   "title": "Podcast Editing Software - Best Options for Beginners"
+  },
+  {
+   "position": 5,
+   "link": "https://podsqueeze.com/blog/video-editing-tools-for-podcasters/",
+   "title": "The 28 Best Video Podcast Editing Tools (2026)"
+  },
+  {
+   "position": 6,
+   "link": "https://lowerstreet.co/blog/video-podcast-software",
+   "title": "Video Podcasting Software: The Best Editing Tools"
+  },
+  {
+   "position": 7,
+   "link": "https://www.youtube.com/watch?v=dw7Uu8-kVTY",
+   "title": "Record and Edit Podcasts in 2026 like a Pro!"
+  },
+  {
+   "position": 8,
+   "link": "https://riverside.com/blog/podcast-editing-software",
+   "title": "8 Best Podcast Editing Software in 2026 for Audio & Video"
+  },
+  {
+   "position": 9,
+   "link": "https://www.youtube.com/watch?v=st67XGXLNSQ",
+   "title": "Complete Beginner's Guide to Editing a Podcast Episode"
+  },
+  {
+   "position": 10,
+   "link": "https://alitu.com/creator/content-creation/best-podcast-recording-software/",
+   "title": "Best Podcast Recording Software in 2026?"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "What do podcasters use to edit videos?",
+   "gl": "gb",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Looking for Better Podcast Editing Software",
+    "link": "https://www.reddit.com/r/podcasting/comments/1iw4wrw/looking_for_better_podcast_editing_software_any/",
+    "snippet": "I'm searching for a better podcast editing software. Right now, I use Riverside, which works well for initial edits, but adding intro/outro music is a ...",
+    "date": "1 year ago",
+    "position": 1
+   },
+   {
+    "title": "Best Podcast Editing Software for Podcasters of All Levels",
+    "link": "https://www.thepodcasthost.com/editing-production/best-podcast-editing-software/",
+    "snippet": "Best Podcast Editing Software for Podcasters of All Levels \u00b7 Adobe Audition \u00b7 Adobe Podcast \u00b7 GarageBand \u00b7 Descript \u00b7 Reaper \u00b7 Riverside.",
+    "date": "29 Mar 2026",
+    "position": 2
+   },
+   {
+    "title": "Video editing software for podcasting?",
+    "link": "https://www.facebook.com/groups/BuzzsproutCommunity/posts/26382891901303941/",
+    "snippet": "For anyone who has been doing video podcasting, what software do you use to edit your clips separate from your audio? I\u2019m leaning towards CapCut but ...",
+    "date": "8 months ago",
+    "position": 3
+   },
+   {
+    "title": "Podcast Editing Software - Best Options for Beginners",
+    "link": "https://www.youtube.com/watch?v=K2AKFuazIvw",
+    "snippet": "In this video I am sharing my favourite 4 tools that are beginner friendly for when you are starting to make your own podcasts.",
+    "date": "7 months ago",
+    "position": 4
+   },
+   {
+    "title": "The 28 Best Video Podcast Editing Tools (2026)",
+    "link": "https://podsqueeze.com/blog/video-editing-tools-for-podcasters/",
+    "snippet": "With Pixiko, podcasters can start editing videos directly in their web browser without the need for software downloads or installations. online- ...",
+    "date": "2 Oct 2026",
+    "position": 5
+   },
+   {
+    "title": "Video Podcasting Software: The Best Editing Tools",
+    "link": "https://lowerstreet.co/blog/video-podcast-software",
+    "snippet": "Adobe Premiere Pro: This industry-standard software offers advanced features for both video and audio editing. It's perfect for content creators ...",
+    "date": "25 Mar 2026",
+    "position": 6
+   },
+   {
+    "title": "Record and Edit Podcasts in 2026 like a Pro!",
+    "link": "https://www.youtube.com/watch?v=dw7Uu8-kVTY",
+    "snippet": "PRO PODCAST SETUP Use your Mirrorless Camera as a webcam I use ... This video shows you how to edit your podcasts with style in Premiere Pro: ...",
+    "date": "9 months ago",
+    "position": 7
+   },
+   {
+    "title": "8 Best Podcast Editing Software in 2026 for Audio & Video",
+    "link": "https://riverside.com/blog/podcast-editing-software",
+    "snippet": "The tools that professional podcasters use to edit include Riverside, Descript, Adobe Audition, and Reaper.",
+    "date": "2 Jul 2026",
+    "position": 8
+   },
+   {
+    "title": "Complete Beginner's Guide to Editing a Podcast Episode",
+    "link": "https://www.youtube.com/watch?v=st67XGXLNSQ",
+    "snippet": "Editing your first podcast episode is not hard. It has just never been explained to you in the right order. In this complete beginner's ...",
+    "date": "2 months ago",
+    "position": 9
+   },
+   {
+    "title": "Best Podcast Recording Software in 2026?",
+    "link": "https://alitu.com/creator/content-creation/best-podcast-recording-software/",
+    "snippet": "24% of podcasters also use Audacity as their podcast editor of choice.",
+    "date": "9 Mar 2026",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

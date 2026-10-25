@@ -1,0 +1,131 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.socialync.io/",
+   "title": "Socialync: Post to All Social Media at Once"
+  },
+  {
+   "position": 2,
+   "link": "https://www.reddit.com/r/socialmedia/comments/1gsa25o/how_do_you_manage_crossplatform_social_media/",
+   "title": "How Do You Manage Cross-Platform Social Media Content ..."
+  },
+  {
+   "position": 3,
+   "link": "https://help.socialbee.com/hc/en-us/articles/40043067283351-How-to-post-to-all-social-media-at-once-cross-posting-guide",
+   "title": "How to post to all social media at once (cross-posting guide)"
+  },
+  {
+   "position": 4,
+   "link": "https://www.reddit.com/r/socialmedia/comments/1rhns48/there_is_any_tools_for_automation_for_social/",
+   "title": "There is any tools for automation for social media postings with together ..."
+  },
+  {
+   "position": 5,
+   "link": "https://www.facebook.com/groups/2815042615255352/posts/25446598238339801/",
+   "title": "Tool for cross-platform social media posting?"
+  },
+  {
+   "position": 6,
+   "link": "https://www.facebook.com/groups/globalneurodivergentcommunity/posts/1535164454360661/",
+   "title": "What service is best for cross-posting to multiple social media platforms?"
+  },
+  {
+   "position": 7,
+   "link": "https://buffer.com/social-media-terms/cross-posting",
+   "title": "What is Cross Posting?"
+  },
+  {
+   "position": 8,
+   "link": "https://posteverywhere.ai/blog/best-cross-posting-tools",
+   "title": "Post to All Social Media at Once: 12 Best Tools (2026)"
+  },
+  {
+   "position": 9,
+   "link": "https://www.youtube.com/watch?v=yc0o0lpN7CY",
+   "title": "How to Post on All Platforms at Once"
+  },
+  {
+   "position": 10,
+   "link": "https://www.facebook.com/groups/180837768789806/posts/3390562917817259/",
+   "title": "How to post across multiple social media platforms?"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "How can I post across all social media platforms at once?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Socialync: Post to All Social Media at Once",
+    "link": "https://www.socialync.io/",
+    "snippet": "Post to Instagram, TikTok, YouTube, Facebook, X, LinkedIn, Threads, Bluesky, and Pinterest at once. One upload, every platform. Free plan, no credit card.",
+    "position": 1
+   },
+   {
+    "title": "How Do You Manage Cross-Platform Social Media Content ...",
+    "link": "https://www.reddit.com/r/socialmedia/comments/1gsa25o/how_do_you_manage_crossplatform_social_media/",
+    "snippet": "Hello community!\n\nI am very new to social media and community management, personally I find a little tedious to post the same content on Instagram, Facebook, ...",
+    "date": "1 year ago",
+    "position": 2
+   },
+   {
+    "title": "How to post to all social media at once (cross-posting guide)",
+    "link": "https://help.socialbee.com/hc/en-us/articles/40043067283351-How-to-post-to-all-social-media-at-once-cross-posting-guide",
+    "snippet": "With a social media management platform like SocialBee, you can create one post, select all your social accounts, and publish or schedule them at the same time.",
+    "position": 3
+   },
+   {
+    "title": "There is any tools for automation for social media postings with together ...",
+    "link": "https://www.reddit.com/r/socialmedia/comments/1rhns48/there_is_any_tools_for_automation_for_social/",
+    "position": 4
+   },
+   {
+    "title": "Tool for cross-platform social media posting?",
+    "link": "https://www.facebook.com/groups/2815042615255352/posts/25446598238339801/",
+    "position": 5
+   },
+   {
+    "title": "What service is best for cross-posting to multiple social media platforms?",
+    "link": "https://www.facebook.com/groups/globalneurodivergentcommunity/posts/1535164454360661/",
+    "position": 6
+   },
+   {
+    "title": "What is Cross Posting?",
+    "link": "https://buffer.com/social-media-terms/cross-posting",
+    "snippet": "Cross posting is the practice of sharing the same content across multiple social media platforms, making it one of the easiest ways to expand the reach of a ...",
+    "position": 7
+   },
+   {
+    "title": "Post to All Social Media at Once: 12 Best Tools (2026)",
+    "link": "https://posteverywhere.ai/blog/best-cross-posting-tools",
+    "snippet": "What is a cross-posting tool? A cross-posting tool lets you write one post and publish it to multiple social media platforms at once.",
+    "date": "21 Mar 2026",
+    "position": 8
+   },
+   {
+    "title": "How to Post on All Platforms at Once",
+    "link": "https://www.youtube.com/watch?v=yc0o0lpN7CY",
+    "snippet": "How to Post on All Platforms at Once Free Community https ... Best Social Media Management Tools 2026? Metricool vs Buffer vs ...",
+    "date": "10 months ago",
+    "position": 9
+   },
+   {
+    "title": "How to post across multiple social media platforms?",
+    "link": "https://www.facebook.com/groups/180837768789806/posts/3390562917817259/",
+    "snippet": "For cross-posting specifically, you'll want a social media scheduler like Metricool, Later, or Meta Business Suite, Go High Level That's what ...",
+    "date": "9 months ago",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

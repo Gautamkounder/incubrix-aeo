@@ -1,0 +1,190 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.canva.com/features/add-subtitles-to-video/",
+   "title": "Add Subtitles to Video Online for Free"
+  },
+  {
+   "position": 2,
+   "link": "https://www.adobe.com/express/feature/video/add-caption",
+   "title": "Add Captions to Videos Online for Free | Adobe Express"
+  },
+  {
+   "position": 3,
+   "link": "https://www.reddit.com/r/NewTubers/comments/1939mz2/how_to_automatically_add_captions_to_a_specific/",
+   "title": "How to automatically add captions to a specific video?"
+  },
+  {
+   "position": 4,
+   "link": "https://www.kapwing.com/subtitles",
+   "title": "Auto-Subtitle Generator \u2014 99% Accurate (Free)"
+  },
+  {
+   "position": 5,
+   "link": "https://vimeo.com/features/auto-caption",
+   "title": "Auto Caption Generator for Video"
+  },
+  {
+   "position": 6,
+   "link": "https://www.canva.com/features/auto-caption/",
+   "title": "Generate auto captions with AI"
+  },
+  {
+   "position": 7,
+   "link": "https://www.youtube.com/watch?v=LxRw-F1mxAk",
+   "title": "How to Add FREE Automatic Captions or Subtitles To Video ..."
+  },
+  {
+   "position": 8,
+   "link": "https://www.veed.io/tools/auto-subtitle-generator-online",
+   "title": "Auto Subtitle Generator - Free to Start, 99.9% Accurate"
+  },
+  {
+   "position": 9,
+   "link": "https://clipchamp.com/en/subtitle-generator/",
+   "title": "Auto subtitle generator online | Free in over 100 languages"
+  },
+  {
+   "position": 10,
+   "link": "https://www.youtube.com/watch?v=uzqWc_RUnwA",
+   "title": "How To Add Subtitles To Video - Captions Made EASY"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [
+  {
+   "question": "How do I add subtitles to a video automatically?"
+  },
+  {
+   "question": "Can ChatGpt add subtitles to video?"
+  },
+  {
+   "question": "How do I turn on automatic captions?"
+  },
+  {
+   "question": "Which app can automatically create captions for videos?"
+  }
+ ],
+ "raw": {
+  "searchParameters": {
+   "q": "Is there a way to automatically add captions to a video?",
+   "gl": "us",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Add Subtitles to Video Online for Free",
+    "link": "https://www.canva.com/features/add-subtitles-to-video/",
+    "snippet": "Select Text on the editor side panel, then under Dynamic text, choose Captions. Select a style, then click Generate captions to create subtitles from your ...",
+    "position": 1
+   },
+   {
+    "title": "Add Captions to Videos Online for Free | Adobe Express",
+    "link": "https://www.adobe.com/express/feature/video/add-caption",
+    "snippet": "Add captions to videos quickly and easily using the Adobe Express subtitle generator. No experience required.",
+    "position": 2
+   },
+   {
+    "title": "How to automatically add captions to a specific video?",
+    "link": "https://www.reddit.com/r/NewTubers/comments/1939mz2/how_to_automatically_add_captions_to_a_specific/",
+    "snippet": "Is there a way so that one of your videos automatically has subtitles? I am not sure how to set this up. Thanks.",
+    "date": "2 years ago",
+    "position": 3
+   },
+   {
+    "title": "Auto-Subtitle Generator \u2014 99% Accurate (Free)",
+    "link": "https://www.kapwing.com/subtitles",
+    "snippet": "Open the Subtitles tool and select Auto Subtitles. Kapwing generates captions automatically, then lets you edit the transcript, fix timing, and customize the ...",
+    "rating": 4.9,
+    "ratingCount": 5231,
+    "position": 4
+   },
+   {
+    "title": "Auto Caption Generator for Video",
+    "link": "https://vimeo.com/features/auto-caption",
+    "snippet": "Generate captions in 99 languages. Help your videos reach larger audiences with subtitles and accessible auto captioning.",
+    "position": 5
+   },
+   {
+    "title": "Generate auto captions with AI",
+    "link": "https://www.canva.com/features/auto-caption/",
+    "snippet": "Auto-caption video Select \u201cText\u201d on the editor side panel. Under the section Dynamic Text, choose \u201cCaptions.\u201d Click \u201cGenerate text.\u201d",
+    "position": 6
+   },
+   {
+    "title": "How to Add FREE Automatic Captions or Subtitles To Video ...",
+    "link": "https://www.youtube.com/watch?v=LxRw-F1mxAk",
+    "snippet": "In this Canva Tutorial, I'll show you How to Add FREE Automatic Captions To Video Using Canva (Beginner Friendly). Generate and edit captions ...",
+    "date": "1 year ago",
+    "position": 7
+   },
+   {
+    "title": "Auto Subtitle Generator - Free to Start, 99.9% Accurate",
+    "link": "https://www.veed.io/tools/auto-subtitle-generator-online",
+    "snippet": "Upload your video to the editor and click on Subtitles in the left menu. Select \u201cAuto Subtitle,\u201d choose a language, and the AI will auto-generate the subtitles.",
+    "rating": 4.6,
+    "ratingCount": 2139,
+    "position": 8
+   },
+   {
+    "title": "Auto subtitle generator online | Free in over 100 languages",
+    "link": "https://clipchamp.com/en/subtitle-generator/",
+    "snippet": "Yes, create your voiceover and add it to the editing timeline. Next, enable the autocaptions feature and see your subtitles being created in real-time. Learn ...",
+    "position": 9
+   },
+   {
+    "title": "How To Add Subtitles To Video - Captions Made EASY",
+    "link": "https://www.youtube.com/watch?v=uzqWc_RUnwA",
+    "snippet": "How to add captions to your videos? And when should you avoid it - this and my favourite way to add stylised captions to my content.",
+    "date": "8 months ago",
+    "position": 10
+   }
+  ],
+  "peopleAlsoAsk": [
+   {
+    "question": "How do I add subtitles to a video automatically?"
+   },
+   {
+    "question": "Can ChatGpt add subtitles to video?"
+   },
+   {
+    "question": "How do I turn on automatic captions?"
+   },
+   {
+    "question": "Which app can automatically create captions for videos?"
+   }
+  ],
+  "relatedSearches": [
+   {
+    "query": "Automatically add subtitles to video online free"
+   },
+   {
+    "query": "How to add subtitles to a video free"
+   },
+   {
+    "query": "Free automatic subtitle generator"
+   },
+   {
+    "query": "Caption generator from video"
+   },
+   {
+    "query": "Best app to add subtitles to video free"
+   },
+   {
+    "query": "Auto caption"
+   },
+   {
+    "query": "Auto caption generator"
+   },
+   {
+    "query": "Auto caption video"
+   }
+  ],
+  "credits": 1
+ }
+}

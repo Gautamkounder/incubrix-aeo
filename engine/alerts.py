@@ -1,82 +1,60 @@
-"""Visibility alerts: compares the two most recent measurement days and reports what moved.
-Writes reports/alerts.md; if ALERT_WEBHOOK_URL is set (Slack/Teams/Discord-style JSON webhook) it posts a short summary.
-Exit code 2 = something crossed a threshold (lets a scheduler or CI job notify you), 0 = stable, 1 = not enough data.
-python -m engine.alerts [--from 2026-10-24 --to 2026-10-31]"""
-import argparse, csv, os
-from collections import defaultdict
-import httpx
-from engine.common import ROOT, brand_name, load_env, load_settings, log
-from engine.report import _b, score_question
+"""Alerts module: compares latest scores against the previous snapshot and
+notifies if visibility has shifted. Exit code 2 = something changed.
+Set ALERT_WEBHOOK_URL in .env to get a webhook POST (Slack-compatible).
+python -m engine.alerts"""
+import csv, json, os, sys
+from pathlib import Path
+from engine.common import ROOT, load_env, setup_logging, log
 
-def _by_question(rows, day):
-    d = defaultdict(list)
-    for r in rows:
-        if r["day"] == day and r["status"] == "ok": d[r["question_id"]].append(r)
-    return d
+THRESHOLD = 5.0   # points change that counts as "significant"
+SNAPSHOT   = ROOT / "reports" / "scores_prev.json"
+SCORES     = ROOT / "reports" / "scores.csv"
 
-def _provider_rate(rows, day):
-    d = defaultdict(list)
-    for r in rows:
-        if r["day"] == day and r["status"] == "ok" and r["provider"] != "google":
-            d[r["provider"]].append(_b(r["brand_mentioned"]) or _b(r["brand_cited"]))
-    return {p: sum(v) / len(v) for p, v in d.items() if v}
 
-def _best_pos(rs):
-    pos = [int(r["google_position"]) for r in rs if r["provider"] == "google" and str(r["google_position"]).isdigit()]
-    return min(pos) if pos else None
+def load_scores(path):
+    if not path.exists():
+        return {}
+    return {r["question_id"]: float(r["visibility_score"])
+            for r in csv.DictReader(open(path, encoding="utf-8"))}
 
-def compare(rows, settings, day_from=None, day_to=None):
-    days = sorted({r["day"] for r in rows if r["status"] == "ok"})
-    if len(days) < 2 and not (day_from and day_to):
-        return None
-    day_from, day_to = day_from or days[-2], day_to or days[-1]
-    a, b = _by_question(rows, day_from), _by_question(rows, day_to)
-    th = settings["alerts"]; w = settings["weights"]
-    moves, pos_moves = [], []
-    for qid in sorted(set(a) & set(b), key=lambda x: (len(x), x)):
-        sa, sb = score_question(a[qid], w)[0], score_question(b[qid], w)[0]
-        if abs(sb - sa) >= th["question_score_change"]:
-            moves.append((qid, a[qid][0]["question"], sa, sb))
-        pa, pb = _best_pos(a[qid]), _best_pos(b[qid])
-        if pa != pb: pos_moves.append((a[qid][0]["question"], pa, pb))
-    avg = lambda d: (sum(score_question(v, w)[0] for v in d.values()) / len(d)) if d else 0.0
-    ra, rb = _provider_rate(rows, day_from), _provider_rate(rows, day_to)
-    return {"from": day_from, "to": day_to, "avg_from": avg(a), "avg_to": avg(b), "moves": moves, "pos_moves": pos_moves,
-            "rate_from": ra, "rate_to": rb, "compared": len(set(a) & set(b)),
-            "triggered": bool(moves) or abs(avg(b) - avg(a)) >= th["average_score_change"]}
-
-def render(c, brand):
-    lines = [f"# Visibility alert: {c['from']} -> {c['to']}", "",
-             f"- Average score: {c['avg_from']:.1f} -> {c['avg_to']:.1f} ({c['avg_to'] - c['avg_from']:+.1f}) over {c['compared']} questions", "",
-             f"## AI mention rate for {brand} by assistant"]
-    for p in sorted(set(c["rate_from"]) | set(c["rate_to"])):
-        lines.append(f"- {p}: {c['rate_from'].get(p, 0):.0%} -> {c['rate_to'].get(p, 0):.0%}")
-    lines += ["", "## Questions whose score moved past the threshold"]
-    lines += [f"- {q} ({a:.0f} -> {b:.0f}, {b - a:+.0f})" for _, q, a, b in sorted(c["moves"], key=lambda m: m[3] - m[2])] or ["- none"]
-    lines += ["", "## Google position changes (best position, None = not in top 10)"]
-    lines += [f"- {q}: {pa} -> {pb}" for q, pa, pb in c["pos_moves"][:25]] or ["- none"]
-    return "\n".join(lines)
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--checks", default=str(ROOT / "data" / "checks.csv"))
-    ap.add_argument("--from", dest="day_from"); ap.add_argument("--to", dest="day_to")
-    a = ap.parse_args(); load_env(); s = load_settings()
-    rows = list(csv.DictReader(open(a.checks, encoding="utf-8-sig")))
-    c = compare(rows, s, a.day_from, a.day_to)
-    if not c:
-        print("need at least two measured days to compare"); raise SystemExit(1)
-    md = render(c, brand_name(s))
-    (ROOT / "reports").mkdir(exist_ok=True)
-    (ROOT / "reports" / "alerts.md").write_text(md, encoding="utf-8")
-    print(md)
-    hook = os.environ.get("ALERT_WEBHOOK_URL", "").strip()
-    if hook and c["triggered"]:
+    setup_logging(); load_env()
+    cur = load_scores(SCORES)
+    if not cur:
+        log.warning("alerts: no scores.csv found, nothing to compare")
+        sys.exit(0)
+
+    prev = json.loads(SNAPSHOT.read_text()) if SNAPSHOT.exists() else {}
+
+    moved = []
+    for qid, score in cur.items():
+        old = prev.get(qid)
+        if old is not None and abs(score - old) >= THRESHOLD:
+            moved.append({"question_id": qid, "old": old, "new": score, "delta": round(score - old, 1)})
+
+    # Save current as next prev
+    SNAPSHOT.write_text(json.dumps(cur, indent=1))
+
+    if not moved:
+        log.info("alerts: no significant visibility changes (threshold %.1f pts)", THRESHOLD)
+        sys.exit(0)
+
+    summary = "\n".join(f"  {m['question_id']}: {m['old']:.1f} -> {m['new']:.1f} ({m['delta']:+.1f})" for m in moved)
+    msg = f"IncuBrix visibility change detected ({len(moved)} questions moved >={THRESHOLD} pts):\n{summary}"
+    log.info("alerts: %s", msg)
+
+    webhook = os.environ.get("ALERT_WEBHOOK_URL", "").strip()
+    if webhook:
         try:
-            httpx.post(hook, json={"text": md[:3500]}, timeout=20).raise_for_status()
+            import httpx
+            httpx.post(webhook, json={"text": msg}, timeout=10)
+            log.info("alerts: webhook posted")
         except Exception as e:
-            log.error("webhook failed: %s", e)
-    raise SystemExit(2 if c["triggered"] else 0)
+            log.error("alerts: webhook failed: %s", e)
+
+    sys.exit(2)  # exit 2 = caller knows something moved
+
 
 if __name__ == "__main__":
     main()

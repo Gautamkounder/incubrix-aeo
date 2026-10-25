@@ -1,0 +1,189 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.canva.com/features/ai-voice-generator/",
+   "title": "AI Voice Generator: Text to Speech Online"
+  },
+  {
+   "position": 2,
+   "link": "https://www.voicebooking.com/en/free-voice-over-generator",
+   "title": "Free AI Voice Over Generator"
+  },
+  {
+   "position": 3,
+   "link": "https://www.adobe.com/products/firefly/features/ai-voice-generator.html",
+   "title": "Free AI Voice Generator: Create realistic voices"
+  },
+  {
+   "position": 4,
+   "link": "https://clipchamp.com/en/features/ai-voice-over-generator/",
+   "title": "AI voiceover generator | Text to speech for video"
+  },
+  {
+   "position": 5,
+   "link": "https://www.reddit.com/r/NewTubers/comments/1fyib1o/how_to_use_ai_for_voice_over/",
+   "title": "How to use Ai for voice over : r/NewTubers"
+  },
+  {
+   "position": 6,
+   "link": "https://speechify.com/ai-voice-generator/?srsltid=AYCX9vKTEm930n_zc_fQ1bWvRJQd1RTv_w1PskqyIrQ0VD7DpzRR6rc8",
+   "title": "Free AI Voice Generator! AI voiceovers, no sign-up required."
+  },
+  {
+   "position": 7,
+   "link": "https://elevenlabs.io/voiceover-studio",
+   "title": "Free AI Voice Over Generator | Professional Voiceovers"
+  },
+  {
+   "position": 8,
+   "link": "https://www.naturalreaders.com/commercial/",
+   "title": "AI Voice Generator | Create Voiceovers with Ultra-Realistic ..."
+  },
+  {
+   "position": 9,
+   "link": "https://www.youtube.com/watch?v=KhQTKG3Xtbs&vl=en",
+   "title": "How I Actually Make AI Voice Sound Real"
+  },
+  {
+   "position": 10,
+   "link": "https://aistudio.google.com/learn/text-to-speech",
+   "title": "Text to Speech AI Voice Generator"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [
+  {
+   "question": "Can AI create a voice over?"
+  },
+  {
+   "question": "Can ChatGPT generate voice overs?"
+  },
+  {
+   "question": "Is there a free AI voiceover generator available?"
+  },
+  {
+   "question": "Which AI voice over generator is the best?"
+  }
+ ],
+ "raw": {
+  "searchParameters": {
+   "q": "How can I generate a voiceover using AI?",
+   "gl": "us",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "AI Voice Generator: Text to Speech Online",
+    "link": "https://www.canva.com/features/ai-voice-generator/",
+    "snippet": "Enter your text. Type or paste the text you want to turn into a voiceover, then choose an AI voice. \u00b7 Generate your voiceover. Canva automatically converts your ...",
+    "position": 1
+   },
+   {
+    "title": "Free AI Voice Over Generator",
+    "link": "https://www.voicebooking.com/en/free-voice-over-generator",
+    "snippet": "Want to test your voice over script? Use our free voice generator. Paste your script, choose your timing and impact and download your test sample.",
+    "position": 2
+   },
+   {
+    "title": "Free AI Voice Generator: Create realistic voices",
+    "link": "https://www.adobe.com/products/firefly/features/ai-voice-generator.html",
+    "snippet": "Create AI voiceovers fast with the free Adobe Firefly AI voice generator. Perfect for natural speech, custom tone, pacing, and emotions in multiple ...",
+    "position": 3
+   },
+   {
+    "title": "AI voiceover generator | Text to speech for video",
+    "link": "https://clipchamp.com/en/features/ai-voice-over-generator/",
+    "snippet": "Generate realistic video voiceovers in minutes just by typing a script into the textbox. Choose from 400 engaging voices and adjust the pitch or emotion to ...",
+    "position": 4
+   },
+   {
+    "title": "How to use Ai for voice over : r/NewTubers",
+    "link": "https://www.reddit.com/r/NewTubers/comments/1fyib1o/how_to_use_ai_for_voice_over/",
+    "snippet": "I\u2019ve been wanting to make a youtube video of manhwa\u2019s for a while. What ai tools should i use for voice over and video to create a long 2 hour content.",
+    "date": "2 years ago",
+    "position": 5
+   },
+   {
+    "title": "Free AI Voice Generator! AI voiceovers, no sign-up required.",
+    "link": "https://speechify.com/ai-voice-generator/?srsltid=AYCX9vKTEm930n_zc_fQ1bWvRJQd1RTv_w1PskqyIrQ0VD7DpzRR6rc8",
+    "snippet": "To use an AI voice generator like Speechify AI Voice Generator, simply upload your text, choose your preferred voice and language, and the platform will ...",
+    "rating": 4.9,
+    "ratingCount": 276000,
+    "position": 6
+   },
+   {
+    "title": "Free AI Voice Over Generator | Professional Voiceovers",
+    "link": "https://elevenlabs.io/voiceover-studio",
+    "snippet": "Use our free AI voice over generator to create realistic voiceovers for videos, podcasts, ads, and more. Fast, professional, and effortless.",
+    "rating": 4.7,
+    "ratingCount": 260723,
+    "position": 7
+   },
+   {
+    "title": "AI Voice Generator | Create Voiceovers with Ultra-Realistic ...",
+    "link": "https://www.naturalreaders.com/commercial/",
+    "snippet": "Use 200+ AI voices to create voiceover for training, eLearning, youtube and other videos. It takes written text as input and converts it into synthesized ...",
+    "position": 8
+   },
+   {
+    "title": "How I Actually Make AI Voice Sound Real",
+    "link": "https://www.youtube.com/watch?v=KhQTKG3Xtbs&vl=en",
+    "snippet": "Most AI voiceovers sound robotic. But the voice your hearing in this video? It's 100% AI, yet it's kinda realistic. In this video, I'm ...",
+    "date": "9 months ago",
+    "position": 9
+   },
+   {
+    "title": "Text to Speech AI Voice Generator",
+    "link": "https://aistudio.google.com/learn/text-to-speech",
+    "snippet": "Generate text to speech with Google AI Studio. Create expressive voiceovers with 2000+ voices in 130 languages, powered by the Gemini API.",
+    "position": 10
+   }
+  ],
+  "peopleAlsoAsk": [
+   {
+    "question": "Can AI create a voice over?"
+   },
+   {
+    "question": "Can ChatGPT generate voice overs?"
+   },
+   {
+    "question": "Is there a free AI voiceover generator available?"
+   },
+   {
+    "question": "Which AI voice over generator is the best?"
+   }
+  ],
+  "relatedSearches": [
+   {
+    "query": "How can i generate a voiceover using ai free"
+   },
+   {
+    "query": "How can i generate a voiceover using ai online"
+   },
+   {
+    "query": "Free AI voice over generator"
+   },
+   {
+    "query": "How can i generate a voiceover using ai android"
+   },
+   {
+    "query": "AI voice over video generator free"
+   },
+   {
+    "query": "Voice over generator free"
+   },
+   {
+    "query": "AI voice generator"
+   },
+   {
+    "query": "Hindi AI voice generator free"
+   }
+  ],
+  "credits": 1
+ }
+}

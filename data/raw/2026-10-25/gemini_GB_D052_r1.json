@@ -1,0 +1,321 @@
+{
+ "answer": "Managing multiple social media accounts effectively requires a robust tool that can streamline scheduling, content creation, analytics, and engagement. For users in the United Kingdom, several excellent platforms cater to various needs and budgets.\n\nHere are some of the best tools to consider for managing multiple social media accounts:\n\n*   **Buffer**: Often recommended for its simplicity and user-friendliness, Buffer is ideal for solo creators and small businesses. It offers a clean interface for planning and publishing posts across various platforms, including Instagram, Facebook, LinkedIn, TikTok, and X (formerly Twitter). Buffer also provides a genuinely useful free plan for up to three channels with ten scheduled posts per channel, and its paid \"Essentials\" plan starts around \u00a35/month per channel, offering unlimited posts, analytics, and engagement tools. It integrates with design tools like Canva and offers a hashtag manager and AI caption assistant.\n\n*   **Hootsuite**: A long-established and comprehensive platform, Hootsuite is well-suited for larger teams requiring advanced workflows, permissions, and deep reporting. It offers all-in-one features like publishing, scheduling, analytics, and engagement, along with social listening and a unified inbox. While powerful, its pricing, starting from \u00a374/month, makes it more appropriate for businesses where social media is a core marketing channel.\n\n*   **Sprout Social**: Considered a premium option, Sprout Social excels in customer care, social monitoring, unified inboxes, and detailed analytics. It's particularly strong for in-depth reporting and is often recommended for larger teams and businesses with a more substantial budget.\n\n*   **Sendible**: This award-winning tool is often recommended for client-facing businesses and agencies due to features like a separate client dashboard for managing multiple brands. It allows for easy team collaboration with assigned roles and a holistic view of campaigns. Sendible is also noted for its ability to schedule Google Business Profile posts alongside other social media content.\n\n*   **SocialBee**: This all-in-one scheduler is praised for content planning, AI content creation, scheduling, intuitive analytics, team collaboration, and a unified inbox. It's considered a strong all-around tool, with plans starting at $29/month.\n\n*   **Later**: If visual content is a primary focus, especially for platforms like Instagram and TikTok, Later is a strong contender. It offers best-in-class visual planning, an Instagram grid preview, an excellent media library, and a powerful built-in \"Linkin.bio\" tool. Later is often recommended for image-heavy businesses such as restaurants, salons, and retailers.\n\n*   **Agorapulse**: An excellent all-rounder, Agorapulse is well-regarded for listening, planning, scheduling, posting, engaging, and reporting. It's particularly strong for engagement management, helping users track advocates and monitor brand mentions. Agorapulse is suitable for teams or individuals with a more sizable budget, with plans starting at $79 per month per user.\n\nWhen choosing a tool, consider factors such as your team size, budget, the specific social media platforms you use, and your need for features like advanced analytics, social listening, or client approval workflows. Many social media managers often use a core scheduling tool alongside design tools like Canva or Figma for content creation.",
+ "citations": [
+  "https://socialbee.com/blog/best-social-media-management-tools/",
+  "https://www.dontpaniclondon.com/blog/best-social-media-management-tools/",
+  "https://whito.co.uk/tools/best-social-media-management-tools-uk/",
+  "https://buffer.com/resources/best-social-media-management-tools/",
+  "https://www.qualitycompanyformations.co.uk/blog/4-best-social-media-management-tools-for-smes/",
+  "https://zapier.com/blog/best-social-media-management-tools/",
+  "https://www.sociallysorted.com.au/social-media-management-tools/",
+  "https://www.techradar.com/best/best-social-media-management-tools",
+  "https://saascompared.io/blog/best-social-media-management-tools/"
+ ],
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "Managing multiple social media accounts effectively requires a robust tool that can streamline scheduling, content creation, analytics, and engagement. For users in the United Kingdom, several excellent platforms cater to various needs and budgets.\n\nHere are some of the best tools to consider for managing multiple social media accounts:\n\n*   **Buffer**: Often recommended for its simplicity and user-friendliness, Buffer is ideal for solo creators and small businesses. It offers a clean interface for planning and publishing posts across various platforms, including Instagram, Facebook, LinkedIn, TikTok, and X (formerly Twitter). Buffer also provides a genuinely useful free plan for up to three channels with ten scheduled posts per channel, and its paid \"Essentials\" plan starts around \u00a35/month per channel, offering unlimited posts, analytics, and engagement tools. It integrates with design tools like Canva and offers a hashtag manager and AI caption assistant.\n\n*   **Hootsuite**: A long-established and comprehensive platform, Hootsuite is well-suited for larger teams requiring advanced workflows, permissions, and deep reporting. It offers all-in-one features like publishing, scheduling, analytics, and engagement, along with social listening and a unified inbox. While powerful, its pricing, starting from \u00a374/month, makes it more appropriate for businesses where social media is a core marketing channel.\n\n*   **Sprout Social**: Considered a premium option, Sprout Social excels in customer care, social monitoring, unified inboxes, and detailed analytics. It's particularly strong for in-depth reporting and is often recommended for larger teams and businesses with a more substantial budget.\n\n*   **Sendible**: This award-winning tool is often recommended for client-facing businesses and agencies due to features like a separate client dashboard for managing multiple brands. It allows for easy team collaboration with assigned roles and a holistic view of campaigns. Sendible is also noted for its ability to schedule Google Business Profile posts alongside other social media content.\n\n*   **SocialBee**: This all-in-one scheduler is praised for content planning, AI content creation, scheduling, intuitive analytics, team collaboration, and a unified inbox. It's considered a strong all-around tool, with plans starting at $29/month.\n\n*   **Later**: If visual content is a primary focus, especially for platforms like Instagram and TikTok, Later is a strong contender. It offers best-in-class visual planning, an Instagram grid preview, an excellent media library, and a powerful built-in \"Linkin.bio\" tool. Later is often recommended for image-heavy businesses such as restaurants, salons, and retailers.\n\n*   **Agorapulse**: An excellent all-rounder, Agorapulse is well-regarded for listening, planning, scheduling, posting, engaging, and reporting. It's particularly strong for engagement management, helping users track advocates and monitor brand mentions. Agorapulse is suitable for teams or individuals with a more sizable budget, with plans starting at $79 per month per user.\n\nWhen choosing a tool, consider factors such as your team size, budget, the specific social media platforms you use, and your need for features like advanced analytics, social listening, or client approval workflows. Many social media managers often use a core scheduling tool alongside design tools like Canva or Figma for content creation."
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "searchEntryPoint": {
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH764xuY-2e6Yorzq56139Kb2iZw_TDLhThC4LwktdTBreom3TF9kmOJAPpBXLCR0OnrHF2sQrGtdcSHfMRKxcsqQZXxOmvc2tuAdZRd2xuH1hPXwfKCOUWQkNM6alMzPkNm5KAzIhETrWS8zITgl6aGFy5tSvLt1VYXJgsWOPphMvIHkPkIkA-ufTDYRzbMMFAq-Oa6rP5OKbtuA5DdZbP4PB5FpjIvwOW5w=\">popular social media management platforms</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXApfFrNCApNU8-uZx0R6T00uyQk33-9y1LAHA59lfnu__uTPlbPL0ilEsW0FTmmANGct9N-2w2KfLUQb46inGICyXkraaqaINK3kdskRoXF74FgxLXcb6FYaTqVG7GXjdaEBy2-M2xFWxV-geoUc2_N7VDBrz7ydqRIQnW09F1D6LdKglOECCyl0KkB-d8MEkHyfkLQP07WTH8oh2Ejtd9lnNbH3a0w==\">best social media management tools UK</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPdgID0Z3tr-EvSSgEubZkdf3VvtF4GyrAF7jGlNTnuXlmRp0T0HDAOlC7ARhQHed_5bRfkFTHGOdi6XSJep_aV26MlhpfzOBVoRUhEPptDGwVYAULnsCOvbTWmKgzqDajXkLf_7syA1WamaekYPXkFVlIOFFzNRQjpAwCiCg50xkSHFtzyOGUAfdIowJGWBm7Xn6ubZlSXL619j8L_0Xr7n0-1ztXdA==\">social media management tools compare</a>\n  </div>\n</div>\n"
+     },
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF63w89q32HcXYSN9KJx_vk1Ej4DunWUDuUZTs55_wo7ncEjUL_oZfW7FHrtmEa0y4fRyVEtvXXCbtIUpuJqMJqp6_KY3ghAI28HftrVUXWcrY0Hgs_VKVsW1qfin1gJpoYW0ydHsqtzFclCJoMSKQLsiDqqhGgAQg=",
+        "title": "socialbee.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEom9ELVkZk-brFuBspHgovltf6przfQiPa0SaeoHNj8XQLB_0hMKf8mLhdPnRJHQuYRCaVtno_6X14G13N6MNbDmQAjVRH9jUphLsOJqlbt6RIw5azQeAaCfs3rXz02zfBKtiT7MUxWrZ87HlysGuCGgp5sGFPqHaBb2NHcWYP3OiB",
+        "title": "dontpaniclondon.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-XzCHRv4AHMVf8u22P6Dv85AZE9Ct3Cz_2R6Jr4Imw2SsvUfd6-5attx5v5fyGIh5do9lUma9ReTkLBngYj7vBeJ_Tlc1NcBBQnkHKvlaImEzrldlBRz9b8jCJo72TJmQ-mvL6pH1m9tmKQY7FDzP3UAxCpYP4vcxcA==",
+        "title": "whito.co.uk"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESPdrMQGnmhfgIaLRvb81sQafdEpYU4X6SHs8Vpu81m1WMYQwsx8lgdyiCtjKtxNoKmQzp1xITtFFYHa_V8Zi4t4F6rp4tXzpLfwkMrAy7lbasTiuCk2b-deGjuIYPi-Sdf9CFbJCt2UQiapd4hdEEYG2clLcOVDX2sw==",
+        "title": "buffer.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWUxALAhdfHDGbLuDE7_MyD2S_y489TafH8ilhy3gu2pDZcqZzPhfHcXzCN8sYs5MW9McOo6IERM0pIZDaXxRyL-NTeP2dwXDMYidlUAHrKoqZakAufoPs90uCgx4O5j5J6dmH0B4bIwiIB2idhyAlBfHndsqSjY5JVa5rPpRU57mls1BCsgTpMTD-uDtYmaFrW8e74eDzCA==",
+        "title": "qualitycompanyformations.co.uk"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyvKlkoeybarzthoGsRIgWd6SMr92K2HZc9Xewyx6QqMNadIZfJmUEC_S6W8Lb9rUa-jPy02mhAUQklolK7Sk4qZVCpTa9d1JS5YkKYWHhwPkE62bi2DEKWuH8UcaAvpksTSCpSHEHXwQIVUoQ_4orNnB1aUg=",
+        "title": "zapier.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJUN0jeJ73gvK9q3zSWCEMxdPCgqjoZDjAeoUbXDJmqRE5Tjc9PK6mLb5T8KrQhMwzYZtvv6tkaQIKAZ3EPYvbZqOIShC3m4p1Pn40WHzn62t6QRa3te1PLO7QEF_JDkEMYnjedcYknSuHYet_c-t0wlvvNxSes_9rpA==",
+        "title": "sociallysorted.com.au"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErpLOhkBssaEwpEk-qfEG9mR9Lj3arR550EOrZBs5QlbqF2khhYb07xajGzTAgTsu6J5SOC9_e6gxN0pMMqzhjaFjU45Sm2DFLEjjiikgNmlT6EG7jREp87GVvxdCKfl7bn1fwwCmjP0hgl_V9ZHOAgqaLFlRnfieawvk=",
+        "title": "techradar.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp0EYMWW9zbElwPXFj-f4ofASGD95DzADLt7-T9f_dR6lsYB1fGc8OJUe27Owqu22yOpxRzupzInTPt3fU8Nip_8BuV2SOGxfhmnSXjKioYa5zGcFwtmjw03q9T1WrY02AK2z1Cv7ckE-64Ap6GqyYD1izyk9q3TOCqQ==",
+        "title": "saascompared.io"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 635,
+        "endIndex": 874,
+        "text": "Buffer also provides a genuinely useful free plan for up to three channels with ten scheduled posts per channel, and its paid \"Essentials\" plan starts around \u00a35/month per channel, offering unlimited posts, analytics, and engagement tools."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2,
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 875,
+        "endIndex": 972,
+        "text": "It integrates with design tools like Canva and offers a hashtag manager and AI caption assistant."
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 974,
+        "endIndex": 1144,
+        "text": "*   **Hootsuite**: A long-established and comprehensive platform, Hootsuite is well-suited for larger teams requiring advanced workflows, permissions, and deep reporting."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1145,
+        "endIndex": 1279,
+        "text": "It offers all-in-one features like publishing, scheduling, analytics, and engagement, along with social listening and a unified inbox."
+       },
+       "groundingChunkIndices": [
+        1,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1280,
+        "endIndex": 1423,
+        "text": "While powerful, its pricing, starting from \u00a374/month, makes it more appropriate for businesses where social media is a core marketing channel."
+       },
+       "groundingChunkIndices": [
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1425,
+        "endIndex": 1575,
+        "text": "*   **Sprout Social**: Considered a premium option, Sprout Social excels in customer care, social monitoring, unified inboxes, and detailed analytics."
+       },
+       "groundingChunkIndices": [
+        0,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1576,
+        "endIndex": 1712,
+        "text": "It's particularly strong for in-depth reporting and is often recommended for larger teams and businesses with a more substantial budget."
+       },
+       "groundingChunkIndices": [
+        1,
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1714,
+        "endIndex": 1897,
+        "text": "*   **Sendible**: This award-winning tool is often recommended for client-facing businesses and agencies due to features like a separate client dashboard for managing multiple brands."
+       },
+       "groundingChunkIndices": [
+        5,
+        4,
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1898,
+        "endIndex": 1989,
+        "text": "It allows for easy team collaboration with assigned roles and a holistic view of campaigns."
+       },
+       "groundingChunkIndices": [
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1990,
+        "endIndex": 2108,
+        "text": "Sendible is also noted for its ability to schedule Google Business Profile posts alongside other social media content."
+       },
+       "groundingChunkIndices": [
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2110,
+        "endIndex": 2282,
+        "text": "*   **SocialBee**: This all-in-one scheduler is praised for content planning, AI content creation, scheduling, intuitive analytics, team collaboration, and a unified inbox."
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2283,
+        "endIndex": 2358,
+        "text": "It's considered a strong all-around tool, with plans starting at $29/month."
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2360,
+        "endIndex": 2493,
+        "text": "*   **Later**: If visual content is a primary focus, especially for platforms like Instagram and TikTok, Later is a strong contender."
+       },
+       "groundingChunkIndices": [
+        2,
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2622,
+        "endIndex": 2632,
+        "text": "bio\" tool."
+       },
+       "groundingChunkIndices": [
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2633,
+        "endIndex": 2730,
+        "text": "Later is often recommended for image-heavy businesses such as restaurants, salons, and retailers."
+       },
+       "groundingChunkIndices": [
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2732,
+        "endIndex": 2876,
+        "text": "*   **Agorapulse**: An excellent all-rounder, Agorapulse is well-regarded for listening, planning, scheduling, posting, engaging, and reporting."
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2877,
+        "endIndex": 2986,
+        "text": "It's particularly strong for engagement management, helping users track advocates and monitor brand mentions."
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2987,
+        "endIndex": 3109,
+        "text": "Agorapulse is suitable for teams or individuals with a more sizable budget, with plans starting at $79 per month per user."
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3327,
+        "endIndex": 3451,
+        "text": "Many social media managers often use a core scheduling tool alongside design tools like Canva or Figma for content creation."
+       },
+       "groundingChunkIndices": [
+        1
+       ]
+      }
+     ],
+     "webSearchQueries": [
+      "best social media management tools UK",
+      "social media management tools compare",
+      "popular social media management platforms"
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 34,
+   "candidatesTokenCount": 710,
+   "totalTokenCount": 1025,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 34
+    }
+   ],
+   "toolUsePromptTokenCount": 135,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 135
+    }
+   ],
+   "thoughtsTokenCount": 146,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "NPfdaoLWI4_I3LUPrN2YgQU"
+ }
+}

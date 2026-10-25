@@ -1,0 +1,192 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.youtube.com/watch?v=mcZsvxJIjRE",
+   "title": "How to Edit YouTube Videos AFTER Upload (Fix Mistakes & ..."
+  },
+  {
+   "position": 2,
+   "link": "https://www.reddit.com/r/NewTubers/comments/1gcjv92/edit_already_uploaded_video/",
+   "title": "Edit already uploaded Video? : r/NewTubers"
+  },
+  {
+   "position": 3,
+   "link": "https://community.adobe.com/questions-729/can-i-edit-an-already-existing-video-imported-in-adobe-1338856",
+   "title": "Can I edit an already existing video imported in adobe?"
+  },
+  {
+   "position": 4,
+   "link": "https://vidpros.com/how-to-edit-an-already-edited-video/",
+   "title": "How to Edit an Already-Edited Video"
+  },
+  {
+   "position": 5,
+   "link": "https://www.facebook.com/groups/FCPXUsers/posts/6822068064571306/",
+   "title": "How to move edited portions of a YouTube video ..."
+  },
+  {
+   "position": 6,
+   "link": "https://www.youtube.com/watch?v=8CtF680YTLk",
+   "title": "How to Edit YouTube Videos After Upload"
+  },
+  {
+   "position": 7,
+   "link": "https://nch.invisionzone.com/topic/86864-editing-text-in-a-pre-existing-video/",
+   "title": "Editing Text in a Pre-existing video - VideoPad - Forums"
+  },
+  {
+   "position": 8,
+   "link": "https://www.howtocanvas.com/studio/edit-existing-videos",
+   "title": "How to edit existing videos in Canvas Studio"
+  },
+  {
+   "position": 9,
+   "link": "https://www.quora.com/How-do-I-edit-an-existing-video",
+   "title": "How do I edit an existing video?"
+  },
+  {
+   "position": 10,
+   "link": "https://support.google.com/youtube/answer/57404?hl=en&co=GENIE.Platform%3DAndroid",
+   "title": "Edit video settings - Android phone & tablet - YouTube Help"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [
+  {
+   "question": "How do I edit a pre-existing video?"
+  },
+  {
+   "question": "Can you edit an already uploaded video?"
+  },
+  {
+   "question": "Can I edit a video without downloading it?"
+  },
+  {
+   "question": "How do I edit a video from my phone?"
+  }
+ ],
+ "raw": {
+  "searchParameters": {
+   "q": "How do I edit an already existing video?",
+   "gl": "us",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "How to Edit YouTube Videos AFTER Upload (Fix Mistakes & ...",
+    "link": "https://www.youtube.com/watch?v=mcZsvxJIjRE",
+    "snippet": "How to edit YouTube videos AFTER upload! If you need to fix mistakes, trim footage, or remove copyright claims without losing your views, ...",
+    "date": "10 months ago",
+    "position": 1
+   },
+   {
+    "title": "Edit already uploaded Video? : r/NewTubers",
+    "link": "https://www.reddit.com/r/NewTubers/comments/1gcjv92/edit_already_uploaded_video/",
+    "snippet": "Hi,\n\nI have uploaded a video as per my schedule (which I am following) but I noticed I did a mistake while editing, Now is there a way I can edit the ...",
+    "date": "1 year ago",
+    "position": 2
+   },
+   {
+    "title": "Can I edit an already existing video imported in adobe?",
+    "link": "https://community.adobe.com/questions-729/can-i-edit-an-already-existing-video-imported-in-adobe-1338856",
+    "snippet": "Hello,I'm new to editing and I'm wondering can I edit an already existing video I import into Adobe? I would like to polish up a short film I wrote that ...",
+    "date": "Mar 14, 2018",
+    "position": 3
+   },
+   {
+    "title": "How to Edit an Already-Edited Video",
+    "link": "https://vidpros.com/how-to-edit-an-already-edited-video/",
+    "snippet": "Steps and Suggestions for Re-Editing a Video \u00b7 Find the Footage \u00b7 Create Any New Footage Needed \u00b7 Eliminate What You Don't Want.",
+    "date": "Dec 22, 2023",
+    "position": 4
+   },
+   {
+    "title": "How to move edited portions of a YouTube video ...",
+    "link": "https://www.facebook.com/groups/FCPXUsers/posts/6822068064571306/",
+    "snippet": "Hello! I'm creating a YouTube video and now after editing, I'd like to remove a section of it to a different video. How do I do that? I'd like to ...",
+    "date": "2 years ago",
+    "position": 5
+   },
+   {
+    "title": "How to Edit YouTube Videos After Upload",
+    "link": "https://www.youtube.com/watch?v=8CtF680YTLk",
+    "snippet": "I show how to edit a video that's already live on YouTube using YouTube Studio. You'll see how to trim parts out, cut mistakes, blur out faces ...",
+    "date": "1 year ago",
+    "position": 6
+   },
+   {
+    "title": "Editing Text in a Pre-existing video - VideoPad - Forums",
+    "link": "https://nch.invisionzone.com/topic/86864-editing-text-in-a-pre-existing-video/",
+    "snippet": "If trying to edit existing text, double-click the text clip. That will launch the text editor. Double-click the clip to open the text composer. ...",
+    "date": "Feb 9, 2025",
+    "position": 7
+   },
+   {
+    "title": "How to edit existing videos in Canvas Studio",
+    "link": "https://www.howtocanvas.com/studio/edit-existing-videos",
+    "snippet": "#1 - Download your published video (1:02 ) #2 - Start a new recording (1:14 ) #3 - Edit the new recording (1:40 ) #4 - Insert your downloaded ( ...",
+    "date": "Jan 7, 2026",
+    "position": 8
+   },
+   {
+    "title": "How do I edit an existing video?",
+    "link": "https://www.quora.com/How-do-I-edit-an-existing-video",
+    "snippet": "How do I edit an existing video?",
+    "date": "6 years ago",
+    "position": 9
+   },
+   {
+    "title": "Edit video settings - Android phone & tablet - YouTube Help",
+    "link": "https://support.google.com/youtube/answer/57404?hl=en&co=GENIE.Platform%3DAndroid",
+    "snippet": "Open the YouTube Studio app . \u00b7 From the bottom Menu, tap Content . \u00b7 Select the video you want to edit. \u00b7 Tap Edit Edit icon . \u00b7 Edit the video settings and tap ...",
+    "position": 10
+   }
+  ],
+  "peopleAlsoAsk": [
+   {
+    "question": "How do I edit a pre-existing video?"
+   },
+   {
+    "question": "Can you edit an already uploaded video?"
+   },
+   {
+    "question": "Can I edit a video without downloading it?"
+   },
+   {
+    "question": "How do I edit a video from my phone?"
+   }
+  ],
+  "relatedSearches": [
+   {
+    "query": "How do i edit an already existing video on iphone"
+   },
+   {
+    "query": "How do i edit an already existing video on youtube"
+   },
+   {
+    "query": "How do i edit an already existing video on android"
+   },
+   {
+    "query": "How to edit uploaded YouTube video on mobile"
+   },
+   {
+    "query": "Can you edit a YouTube video already posted"
+   },
+   {
+    "query": "How to edit a YouTube video that is not yours"
+   },
+   {
+    "query": "Can you edit a video on YouTube before publishing"
+   },
+   {
+    "query": "How to edit on YouTube Studio"
+   }
+  ],
+  "credits": 1
+ }
+}

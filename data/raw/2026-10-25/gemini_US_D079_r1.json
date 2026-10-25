@@ -1,0 +1,421 @@
+{
+ "answer": "The \"best AI for clipping\" depends on whether you are referring to image clipping (removing backgrounds from photos) or video clipping (creating short highlight reels from longer videos). Both categories have excellent AI-powered tools available.\n\nHere are some of the top AI tools for each type of clipping:\n\n**For Image Clipping (Background Removal):**\nThis involves automatically isolating a subject from its background in a picture, useful for e-commerce, graphic design, and general photo editing.\n\n*   **Aiarty Image Matting:** Considered one of the best for high-precision, offline AI-powered background removal, especially for complex edges and transparency, and handles large volumes of images. It's available for Windows and macOS.\n*   **Remove.bg:** Widely recognized as a leading one-click, web-based tool for fast and consistent background removal, particularly good for portraits and products.\n*   **PhotoRoom:** Excellent for mobile-first product photography and offers AI-powered cutouts with a simple drag-and-drop interface.\n*   **CapCut:** Offers an AI-driven background remover that precisely isolates subjects, ideal for creating promotional visuals. It also allows batch processing and can generate new backdrops using text prompts.\n*   **Adobe Photoshop:** Recommended for users already in the Adobe ecosystem, offering advanced manual adjustment tools for fine-tuning edges and masks after AI removal.\n*   **Canva:** Integrates background removal within its design and template workflow, making it suitable for creating social media graphics.\n*   **Let's Enhance:** Offers a comprehensive workflow that combines cutout, enhancement, and new image generation.\n*   **Clipdrop:** Bundles background removal with other features like cleanup, relighting, and upscaling.\n*   **Pixelcut:** Targets mobile-first sellers with its straightforward remove-and-export functionality.\n*   **Adobe Express:** Provides a free AI clip maker for images that quickly removes backgrounds with a single click.\n*   **Evoto:** Excels at cutting out subjects at original resolution, including RAW files, and supports batch processing.\n\n**For Video Clipping (Short-Form Content Generation):**\nThese tools help content creators automatically extract highlights and create short, shareable clips from longer videos for platforms like TikTok, Reels, and YouTube Shorts.\n\n*   **OpusClip:** A highly recognized AI clip generator that automatically cuts long videos into multiple short clips, identifying highlights, adding captions, and reframing for vertical formats. It provides a \"Virality Score\" for each clip.\n*   **Ssemble:** Considered an excellent overall clipping software for creators, combining AI clip detection, B-roll, captions, sound effects, transitions, and scheduling. It offers per-video pricing and robust editing features.\n*   **Choppity:** Praised for its intelligent clip suggestions and high-quality output, as its AI understands narrative structure and emotional peaks in content, rather than just basic speech patterns.\n*   **Klap:** Offers a simple and direct flow to turn long videos into short, social-ready clips, and provides one free video without a watermark.\n*   **Vizard:** An AI clipping tool designed to turn long videos into social-ready clips at scale, with an in-browser editor for adjustments.\n*   **Riverside Magic Clips:** Built into the Riverside recording platform, it automatically scans transcripts to find highlight moments and generates short clips with captions and platform-ready formatting.\n*   **Descript:** A powerful text-based video editor where you can edit video by deleting or rearranging words in the transcript, also offering AI features for generative effects and background removal.\n*   **Adobe Premiere Pro with AI Enhancements:** The professional-grade video editor now includes AI features like Scene Edit Detection, Enhance Speech, Speech to Text (for captions), and Auto Reframe for different aspect ratios.\n*   **Pictory:** An intuitive AI-powered tool that repurposes long-form content into shorter clips and highlights, using AI-powered highlights creation and automatic scene recognition.\n*   **CapCut:** While primarily known for image background removal, it's also a strong free option for manual video clipping with no watermark and offers AI auto-captions, though it requires manual clip selection for video highlights.\n\nWhen choosing an AI clipping tool, consider your specific needs, such as the volume of work, required precision, integration with other software, whether you need desktop or online access, and your budget (many offer free tiers with limitations or paid subscriptions).",
+ "citations": [
+  "https://www.aiarty.com/ai-image-matting/best-image-background-remover.htm",
+  "https://letsenhance.io/blog/all/ai-background-removals/",
+  "https://morphed.app/blog/best-ai-background-removers",
+  "https://www.tooljunction.io/blog/best-ai-clipping-tools",
+  "https://www.capcut.com/tools/cut-out-image",
+  "https://www.recraft.ai/blog/best-ai-background-removers",
+  "https://alloypress.com/blogs/best-ai-background-remover-tools",
+  "https://www.adobe.com/express/create/ai/video/clip",
+  "https://www.evoto.ai/features/cutout-image",
+  "https://www.airpost.ai/blog/best-ai-clipping-tools",
+  "https://www.ssemble.com/blog/best-clipping-software-2026",
+  "https://www.youtube.com/watch?v=fiDYiNhmvdM",
+  "https://www.ssemble.com/blog/best-free-ai-clipping-tools-2026",
+  "https://www.choppity.com/blog/how-to-clip-videos-fast-best-ai-tools/",
+  "https://www.upar.io/en/best-ai-clipping-tools/",
+  "https://www.dacast.com/blog/ai-clip-makers/",
+  "https://www.reddit.com/r/artificial/comments/1ntrxj5/out_of_all_the_ai_video_editing_tools_out_there/"
+ ],
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "The \"best AI for clipping\" depends on whether you are referring to image clipping (removing backgrounds from photos) or video clipping (creating short highlight reels from longer videos). Both categories have excellent AI-powered tools available.\n\nHere are some of the top AI tools for each type of clipping:\n\n**For Image Clipping (Background Removal):**\nThis involves automatically isolating a subject from its background in a picture, useful for e-commerce, graphic design, and general photo editing.\n\n*   **Aiarty Image Matting:** Considered one of the best for high-precision, offline AI-powered background removal, especially for complex edges and transparency, and handles large volumes of images. It's available for Windows and macOS.\n*   **Remove.bg:** Widely recognized as a leading one-click, web-based tool for fast and consistent background removal, particularly good for portraits and products.\n*   **PhotoRoom:** Excellent for mobile-first product photography and offers AI-powered cutouts with a simple drag-and-drop interface.\n*   **CapCut:** Offers an AI-driven background remover that precisely isolates subjects, ideal for creating promotional visuals. It also allows batch processing and can generate new backdrops using text prompts.\n*   **Adobe Photoshop:** Recommended for users already in the Adobe ecosystem, offering advanced manual adjustment tools for fine-tuning edges and masks after AI removal.\n*   **Canva:** Integrates background removal within its design and template workflow, making it suitable for creating social media graphics.\n*   **Let's Enhance:** Offers a comprehensive workflow that combines cutout, enhancement, and new image generation.\n*   **Clipdrop:** Bundles background removal with other features like cleanup, relighting, and upscaling.\n*   **Pixelcut:** Targets mobile-first sellers with its straightforward remove-and-export functionality.\n*   **Adobe Express:** Provides a free AI clip maker for images that quickly removes backgrounds with a single click.\n*   **Evoto:** Excels at cutting out subjects at original resolution, including RAW files, and supports batch processing.\n\n**For Video Clipping (Short-Form Content Generation):**\nThese tools help content creators automatically extract highlights and create short, shareable clips from longer videos for platforms like TikTok, Reels, and YouTube Shorts.\n\n*   **OpusClip:** A highly recognized AI clip generator that automatically cuts long videos into multiple short clips, identifying highlights, adding captions, and reframing for vertical formats. It provides a \"Virality Score\" for each clip.\n*   **Ssemble:** Considered an excellent overall clipping software for creators, combining AI clip detection, B-roll, captions, sound effects, transitions, and scheduling. It offers per-video pricing and robust editing features.\n*   **Choppity:** Praised for its intelligent clip suggestions and high-quality output, as its AI understands narrative structure and emotional peaks in content, rather than just basic speech patterns.\n*   **Klap:** Offers a simple and direct flow to turn long videos into short, social-ready clips, and provides one free video without a watermark.\n*   **Vizard:** An AI clipping tool designed to turn long videos into social-ready clips at scale, with an in-browser editor for adjustments.\n*   **Riverside Magic Clips:** Built into the Riverside recording platform, it automatically scans transcripts to find highlight moments and generates short clips with captions and platform-ready formatting.\n*   **Descript:** A powerful text-based video editor where you can edit video by deleting or rearranging words in the transcript, also offering AI features for generative effects and background removal.\n*   **Adobe Premiere Pro with AI Enhancements:** The professional-grade video editor now includes AI features like Scene Edit Detection, Enhance Speech, Speech to Text (for captions), and Auto Reframe for different aspect ratios.\n*   **Pictory:** An intuitive AI-powered tool that repurposes long-form content into shorter clips and highlights, using AI-powered highlights creation and automatic scene recognition.\n*   **CapCut:** While primarily known for image background removal, it's also a strong free option for manual video clipping with no watermark and offers AI auto-captions, though it requires manual clip selection for video highlights.\n\nWhen choosing an AI clipping tool, consider your specific needs, such as the volume of work, required precision, integration with other software, whether you need desktop or online access, and your budget (many offer free tiers with limitations or paid subscriptions)."
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "searchEntryPoint": {
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxN4Of2E-QO6uuP6t4N4I4kB5PSu_3zEwcvY6i8Qy-6ftm5nkPxqw1dW_pf2zskLjPjcCl5GSdr5LjKpkjFJfXdRQfWlWFzulg33esBrzvYJlYjeMXIUUw0RmGFDwETDlC-7ugS_ZGydxuTSAEEiZdwLCtYdHYNxvH8MOL4vDF6q_hoKK9smMKDRlA5BiHPsAgF7_EiSKnN1vYpjcb\">AI tools for image cut out</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFACcn6hnbmB--bDFm-wMjVxIj0Kz0EvJLAMB00CMy49PYTvfckJXr-mh_wHa08B7PPHs-xSk14ndiHEeSbJLeybBIt8paDSR-CJqELqlBiImiUk4K1syZFtZs-rL3V6D0X74NB4wOwRnOhOdGGz1vRY_vUYAPoRve2xOyk2IlKMpGp1ZxxkcgWephEtZ8vs5NOXt6gTCdZL5Hq1w15\">best AI for video clipping</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUQbDRBpCGdwH_c2p_AC9vbLK11kg4AFHuHTPz9z4uh8DTo02UZ46chzAecERolyAnLVW8tpbOGX8zFIbRZ3LxMx5p3fqxFOCDjM20WxYGk5dP3BEyA1K-NHIcz8XGrkqDHTTWoCnI_HnBAFJN-MkD4duA8DFia1V5_zmGs4X9bLo67tBl5-SeOSB_7fd2L7OVOMOkIWMM1uVQj5kf\">best AI for image clipping</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlvYa-4cRC88Vekm46e5ity3wnM9Y_YHqK1Ql-l4M529i82JO26zNWnWMvVA7gWvfmNE8CvUV2UhdJjhN8wkoSK4T0DAkKE1tsQhXbHNJp8vRsgKmWisi3zeRYiMItwF9H0F7ZX7i_Yk1KcWcXiW8iFYFS-LjjLqxWS0TeggTr_QTHRng5gTfNvGIXSoQRKe_yqU4RKnPRVhziR5muHZo1MA==\">best AI for background removal</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFerTSCBmYrRTKCiGCL88dl3-wr4ZJNLpMBX5n8ejoPNL5-Ho_Ef6zIe1sFbbv8-hHEfUFIaJvR9fgbrb1ze-Dc5YYjCT5Nd1ss4R9WhyR_bTTGipP0ksbgcmX0EWiQL-PT_QKsjrkcDVUXZotbdyPAY_wrDhnqA0lFh0x7DgE5rzTVyZd6KiuPhrtOo5oUO2qiaHpyNPT6TkAWLkQP\">AI tools for video cut out</a>\n  </div>\n</div>\n"
+     },
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx3f7Sikd-Y3-r9BlEhN2Ir-NuxO2u_YcSj8nzLK7EqcflsvIqgLyKQ6q-XvcYIkSz5vCZXZC0uGHDoyun41-8EMtN1nFBUm2yvI-zAwMWo9E4tZGKJZOP16ICAIMPBHn3O71Ush7_IiFBKcNjhqh2LntOQCebZxKFtlYxR29BBBrHFh0=",
+        "title": "aiarty.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0l3ktO5qtywIW89NsXwYlTmkreCfUxmbBXQVnqGSqao4dSS7xUpBC7JEeKia5pE6XuLT9uSKX5wnJJYiCworZoDdgRebLDqHqmnBqeh0cwlDR54hPObA0_NrehCl8IkXB2Zn5C2RYaFamUwFzV_Kd9Pk=",
+        "title": "letsenhance.io"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW6a3jv51ZCCfEIE2P-3dCnt7jq2URKSxvUs7EfzYRy2EAUoK1Nejxkl3eIHOOqwjht4e-IZ_Ry3XCmB8CsMPW9wjTpROlXnbuATT0_274uDOKGSdWi9bKA_uTd63cHPx1PUggReRuqLn99qglKZU=",
+        "title": "morphed.app"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3DZzo88blwPYNeiAojj85jDZXTLdZGmvfZWL9RxTxq0teTHek2bLJ2hGhKnt4gmqb5zwOHWDzlQpwXQK-PJ3dwEOPcG3Nu1vYnrDxj9zm-odYmWTpYaEOqJTHuxI_jl10FJgJjiEnCad6swxc7ODNjsk=",
+        "title": "tooljunction.io"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhsFkPiI_nW-wCtCMrgiXRMtj4DfVSR5K85eIZgIcVa0QgCUQLP4wdrNWFsOoBo7RPsSosUDO1GikNb1CsZmW66tTpR75x3cGEqdckCZJm1chbQ-PFViCeK_tT6PjMhTeEqAAgSg==",
+        "title": "capcut.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGf1LihBfdqblg15IfHkxBgxZk6Mh9GJV18gEdMRGOxgZCLDV1EExMEH2cGS9By2l050YVms8i5XCENjpVNeIQ6rkjRT84skwnuieYINmbi2lOUGWK8oRW1O47Vv8W-lbo90wthybkN1SslT9pxRwBIh4=",
+        "title": "recraft.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlkQLwSucah1n8T13vbriU3cwt3368cIpMjYlrcsZ3uKPhzbnjEsdYP-jMiGw4rYxpE4MWvEweaj8dSNT4plGHCQn4NCDDbowoxjLC635Dd2VuXb1V9nJDSXbSe59BRqWshtxW7s9oPPzxUUdeZ0lIJuE4Mjca3L0=",
+        "title": "alloypress.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu5csY9KiqdI9HdkzGyN2mHQUeFLOKS2b_r2I11w5bdRM2lSq4u8of-SutVxnG-lbmyqAq-VvANh-fV5HpaEO1DY046IjjYF4s1e2_wvjR4qyK4P2E0ZsGyANxIoy4_YYx5f6_6sc_NJ-nlbok",
+        "title": "adobe.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsegD8G6WddoMGfAMlL_5l6BHqzeBApEalgxrAx_qe2N2uRwqD67KAHgY9kNTdx1Mzc9Lji-sNLA3mC3dzOVkrI5oox_aWN1AoTR9KKzQlVPye284WcPvsohWjezoIvG156u3FNg==",
+        "title": "evoto.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcosm1e7dVHf6ASL-ufrehoJO4fPVsSB9Ffk4XMAD4cGaYxp26YQ-Vze5nIT29_YUWH9ZTApavVTCXQJYV7Dio3LxDeZOpoEs8r_X7BeuLeZZEryIuM8S7F1RjGiKxLMbCK45-FsW0xMi-O2CZ",
+        "title": "airpost.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd_CDWZiH67CA0BJpK2wRZhD2jpWYvZXZD1aRMrPK86RUalmgxyvPfu611VBodoJQRbdDfeORu5mogXYtrAIuWvS3EdZjSrJ_vgoHkXHBQKrZfRtkL37iTHixvQJLXrhtPbaJgRftnSJXndpp5_1bLVPcm",
+        "title": "ssemble.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED1VX3iGttB1hrw0zI-F9bTc_QMyTyL6vwSfmn99jvbW-liVtC2uHu1_k67lsDn6iXENU7X9sd3TpyXLSph_8pQBU90SVTdoDYdmFX1atIqnceEtTopC1ig2q2s3ilDCQnMpU_5fY=",
+        "title": "youtube.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYWCCPNvzUa0SuuHNDkxsI-q1bQR96GrI6zr9j9HRqHYInqvamAFupqEnEvNeRiGLByENrwriM78N_KEiluP3CEgG0Tuh2-mje5Vln1SsWfCZ6i3y1jrIuL-YAKrOE17BwXepAUWq25V7f6twALld_T3ETI-1hAPA=",
+        "title": "ssemble.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Duo3DIuMu-P-y2j8W1j1uC5wtRmOdNqFsDYxQV4pZ3Z0esaqLspi4gx4zeeq_3SLcSuZYLLtaXoauWFKSFe64v1P3nrecRf9bUQ9oiJA7Z84Y5FRe9WUsYBYiLmbhLq-1_mIzxhFE7P495qG1whoCgg75ItvDW6JCwcKMJsU",
+        "title": "choppity.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFNpys82gdFQx8U_3KHcBZpJJ4yYYw9SjmrxjOp1ipgheXgWjOVhUaeuG1IWy8QtMSFzqcLt8764hhsRcg6vOdrLxp-yC6ipPZoW6Vtab6ptf8xTWsAp3kUCkC1X31eh4_bJ3wuSkuLV0=",
+        "title": "upar.io"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzJEAVCIsrigStnUALGZYBObwKvOb9iEFglEG9NHk8aapMUSQ9e1CZgYaYO0R57hHwOSMVzgeG78re4MyFcLUUXbH1zpYFMYvA9WzYXAm-sb6loxfxw2H1yrC0d4GnV3YlLbSqb5o=",
+        "title": "dacast.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRzruK2ZzKp_KRdghfTPLi3AwO7ymuKfdGGjoZKWnHg3buXuCuPnwKEzVzjMbmVDFuyYzzRXSMOBKWpI85YIbCR4cukrqgzE_hQJIf9Y_LjHKpF_8pgOsZNWNdEI0wMaYjKSjB5PVY_jUux5gpfZ28P7K8FaE_932Kmffw3IE6voBMLIC1G5J9mxQHwWtkhQlEczOBolNzZ8BW69LFyK8t",
+        "title": "reddit.com"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 704,
+        "endIndex": 741,
+        "text": "It's available for Windows and macOS."
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 742,
+        "endIndex": 907,
+        "text": "*   **Remove.bg:** Widely recognized as a leading one-click, web-based tool for fast and consistent background removal, particularly good for portraits and products."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2,
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 908,
+        "endIndex": 1042,
+        "text": "*   **PhotoRoom:** Excellent for mobile-first product photography and offers AI-powered cutouts with a simple drag-and-drop interface."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1172,
+        "endIndex": 1254,
+        "text": "It also allows batch processing and can generate new backdrops using text prompts."
+       },
+       "groundingChunkIndices": [
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1255,
+        "endIndex": 1425,
+        "text": "*   **Adobe Photoshop:** Recommended for users already in the Adobe ecosystem, offering advanced manual adjustment tools for fine-tuning edges and masks after AI removal."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1426,
+        "endIndex": 1566,
+        "text": "*   **Canva:** Integrates background removal within its design and template workflow, making it suitable for creating social media graphics."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1567,
+        "endIndex": 1682,
+        "text": "*   **Let's Enhance:** Offers a comprehensive workflow that combines cutout, enhancement, and new image generation."
+       },
+       "groundingChunkIndices": [
+        1
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1683,
+        "endIndex": 1788,
+        "text": "*   **Clipdrop:** Bundles background removal with other features like cleanup, relighting, and upscaling."
+       },
+       "groundingChunkIndices": [
+        1
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1789,
+        "endIndex": 1893,
+        "text": "*   **Pixelcut:** Targets mobile-first sellers with its straightforward remove-and-export functionality."
+       },
+       "groundingChunkIndices": [
+        1,
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1894,
+        "endIndex": 2011,
+        "text": "*   **Adobe Express:** Provides a free AI clip maker for images that quickly removes backgrounds with a single click."
+       },
+       "groundingChunkIndices": [
+        6,
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2012,
+        "endIndex": 2133,
+        "text": "*   **Evoto:** Excels at cutting out subjects at original resolution, including RAW files, and supports batch processing."
+       },
+       "groundingChunkIndices": [
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2562,
+        "endIndex": 2607,
+        "text": "It provides a \"Virality Score\" for each clip."
+       },
+       "groundingChunkIndices": [
+        9,
+        10,
+        11
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2780,
+        "endIndex": 2836,
+        "text": "It offers per-video pricing and robust editing features."
+       },
+       "groundingChunkIndices": [
+        10,
+        12
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2837,
+        "endIndex": 3038,
+        "text": "*   **Choppity:** Praised for its intelligent clip suggestions and high-quality output, as its AI understands narrative structure and emotional peaks in content, rather than just basic speech patterns."
+       },
+       "groundingChunkIndices": [
+        13
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3039,
+        "endIndex": 3185,
+        "text": "*   **Klap:** Offers a simple and direct flow to turn long videos into short, social-ready clips, and provides one free video without a watermark."
+       },
+       "groundingChunkIndices": [
+        11,
+        12,
+        14
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3186,
+        "endIndex": 3327,
+        "text": "*   **Vizard:** An AI clipping tool designed to turn long videos into social-ready clips at scale, with an in-browser editor for adjustments."
+       },
+       "groundingChunkIndices": [
+        9,
+        14
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3328,
+        "endIndex": 3535,
+        "text": "*   **Riverside Magic Clips:** Built into the Riverside recording platform, it automatically scans transcripts to find highlight moments and generates short clips with captions and platform-ready formatting."
+       },
+       "groundingChunkIndices": [
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3536,
+        "endIndex": 3738,
+        "text": "*   **Descript:** A powerful text-based video editor where you can edit video by deleting or rearranging words in the transcript, also offering AI features for generative effects and background removal."
+       },
+       "groundingChunkIndices": [
+        15,
+        16
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3739,
+        "endIndex": 3968,
+        "text": "*   **Adobe Premiere Pro with AI Enhancements:** The professional-grade video editor now includes AI features like Scene Edit Detection, Enhance Speech, Speech to Text (for captions), and Auto Reframe for different aspect ratios."
+       },
+       "groundingChunkIndices": [
+        15
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3969,
+        "endIndex": 4153,
+        "text": "*   **Pictory:** An intuitive AI-powered tool that repurposes long-form content into shorter clips and highlights, using AI-powered highlights creation and automatic scene recognition."
+       },
+       "groundingChunkIndices": [
+        15
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4154,
+        "endIndex": 4388,
+        "text": "*   **CapCut:** While primarily known for image background removal, it's also a strong free option for manual video clipping with no watermark and offers AI auto-captions, though it requires manual clip selection for video highlights."
+       },
+       "groundingChunkIndices": [
+        10,
+        12
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4390,
+        "endIndex": 4657,
+        "text": "When choosing an AI clipping tool, consider your specific needs, such as the volume of work, required precision, integration with other software, whether you need desktop or online access, and your budget (many offer free tiers with limitations or paid subscriptions)"
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        5,
+        3,
+        12
+       ]
+      }
+     ],
+     "webSearchQueries": [
+      "best AI for image clipping",
+      "best AI for background removal",
+      "best AI for video clipping",
+      "AI tools for image cut out",
+      "AI tools for video cut out"
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 31,
+   "candidatesTokenCount": 981,
+   "totalTokenCount": 1915,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 31
+    }
+   ],
+   "toolUsePromptTokenCount": 343,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 343
+    }
+   ],
+   "thoughtsTokenCount": 560,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "iffdaom6LIu5694PoP-imQc"
+ }
+}

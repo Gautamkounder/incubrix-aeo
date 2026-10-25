@@ -1,0 +1,453 @@
+{
+ "answer": "The best video editor for podcasts depends on your specific needs, including your recording setup, editing skill level, budget, and the type of video content you aim to produce. Many tools are globally available, so options for users in Singapore are generally the same as elsewhere. Here are some top recommendations, catering to different podcasting workflows:\n\n**For AI-Powered, Text-Based Editing & Efficiency:**\n\n*   **Descript** is frequently recommended for its AI-powered, text-based editing, which makes editing audio and video as straightforward as editing a document. It automatically transcribes your podcast, allowing you to cut, trim, and rearrange sections by simply editing the text. Descript also offers features like filler word removal, noise reduction, and the ability to create audiograms and video clips for social media. It's ideal for solo podcasters seeking speed and ease of use.\n*   **Podsqueeze AI** offers AI-powered tools to effortlessly edit podcast videos, trim, cut, and enhance them by editing text. It also helps create professional-looking clips and audiograms with customizable templates and automated subtitles.\n*   **Streamlabs Podcast Editor** provides fast, text-based podcast editing, transcribing your video with AI and allowing you to remove filler words or pauses easily. It also supports adding images and subtitles and optimizing clips for various platforms.\n\n**For Remote Recording and Integrated Editing:**\n\n*   **Riverside.fm** and **Zencastr** are excellent choices if your podcast involves remote guests. These platforms record high-quality audio and video tracks separately for each participant, which greatly simplifies the editing process. They also offer integrated editing features, making them suitable for publishing full-length episodes, especially for shows with a consistent interview format.\n\n**For Professional-Grade Video Editing:**\n\n*   **Adobe Premiere Pro**, **DaVinci Resolve**, and **Final Cut Pro** (for Mac users) are powerful, professional-grade video editing software. These tools offer extensive control over every aspect of your video and audio, making them suitable for polished, branded full episodes and complex productions. However, they require a higher level of editing skill and can be more time-consuming.\n    *   **DaVinci Resolve** is particularly notable as it offers a robust free version that includes many professional features.\n    *   **Adobe Premiere Pro** also benefits from plugins like AutoPod, which automates multi-camera editing, social clip creation, and jump cuts, making it more efficient for video podcasts.\n\n**For Creating Short-Form Clips and Audiograms:**\n\n*   **CapCut** is praised for its ease of use and effectiveness in creating short-form video clips and audiograms, especially for social media. It offers automated tools to generate shorts from longer videos and can be used for editing full episodes as well.\n*   **OpusClip** is designed specifically for repurposing long recordings into short, AI-generated highlight clips with captions and reframing for social media. While excellent for short-form content, it's not a full-length editor.\n*   **VEED.io** is another browser-based tool that is user-friendly for creating and repurposing video content, including adding captions and visual elements.\n*   **SoundMadeSeen** is an AI-powered audiogram maker that automatically creates audiograms and can convert long videos into clips for platforms like Instagram, TikTok, and YouTube Shorts. It also offers transcript and subtitle generation.\n\n**Key Features to Look For:**\n\nWhen choosing a video editor for your podcast, consider these essential features:\n\n*   **High-quality video and audio recording:** Ensures your audience has a good experience.\n*   **Ease of Use:** A user-friendly interface is crucial, especially if you're new to video editing.\n*   **Audio Editing Capabilities:** Look for tools with noise reduction, sound leveling, and editing suggestions.\n*   **Automatic Transcription and Captioning:** Saves significant time and improves accessibility and discoverability.\n*   **Multi-camera Recording Support:** Essential for interviews with multiple guests.\n*   **Content Repurposing:** The ability to easily create short clips, audiograms (visualizations of sound waves with subtitles), and different aspect ratios for various social media platforms is vital for discoverability.\n*   **Budget:** Free options exist, but many advanced features come with paid subscriptions.\n\nThe shift towards video podcasts is significant, with many preferring video content. YouTube, for example, is a preferred platform for a substantial portion of podcast users. Therefore, incorporating video editing into your podcast workflow can greatly enhance discoverability and audience engagement.",
+ "citations": [
+  "https://www.podmuse.com/post/podcast-video-editing-software",
+  "https://www.descript.com/",
+  "https://increditors.com/best-podcast-video-editing-services/",
+  "https://podsqueeze.com/podcast-video-editing/",
+  "https://streamlabs.com/podcast-editor",
+  "https://lowerstreet.co/blog/video-podcast-software",
+  "https://www.switcherstudio.com/blog/video-podcast-recording-software",
+  "https://riverside.com/blog/podcast-editing-software",
+  "https://www.autopod.fm/",
+  "https://www.reddit.com/r/podcasting/comments/1fhpajj/what_platforms_do_you_use_to_create_shortform/",
+  "https://soundmadeseen.com/blog/6-best-audiogram-makers",
+  "https://podsqueeze.com/blog/video-editing-tools-for-podcasters/",
+  "https://www.goldcast.io/blog-post/podcast-editing-software",
+  "https://travelislife.org/convert-audio-podcasts-into-visual-videos/"
+ ],
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "The best video editor for podcasts depends on your specific needs, including your recording setup, editing skill level, budget, and the type of video content you aim to produce. Many tools are globally available, so options for users in Singapore are generally the same as elsewhere. Here are some top recommendations, catering to different podcasting workflows:\n\n**For AI-Powered, Text-Based Editing & Efficiency:**\n\n*   **Descript** is frequently recommended for its AI-powered, text-based editing, which makes editing audio and video as straightforward as editing a document. It automatically transcribes your podcast, allowing you to cut, trim, and rearrange sections by simply editing the text. Descript also offers features like filler word removal, noise reduction, and the ability to create audiograms and video clips for social media. It's ideal for solo podcasters seeking speed and ease of use.\n*   **Podsqueeze AI** offers AI-powered tools to effortlessly edit podcast videos, trim, cut, and enhance them by editing text. It also helps create professional-looking clips and audiograms with customizable templates and automated subtitles.\n*   **Streamlabs Podcast Editor** provides fast, text-based podcast editing, transcribing your video with AI and allowing you to remove filler words or pauses easily. It also supports adding images and subtitles and optimizing clips for various platforms.\n\n**For Remote Recording and Integrated Editing:**\n\n*   **Riverside.fm** and **Zencastr** are excellent choices if your podcast involves remote guests. These platforms record high-quality audio and video tracks separately for each participant, which greatly simplifies the editing process. They also offer integrated editing features, making them suitable for publishing full-length episodes, especially for shows with a consistent interview format.\n\n**For Professional-Grade Video Editing:**\n\n*   **Adobe Premiere Pro**, **DaVinci Resolve**, and **Final Cut Pro** (for Mac users) are powerful, professional-grade video editing software. These tools offer extensive control over every aspect of your video and audio, making them suitable for polished, branded full episodes and complex productions. However, they require a higher level of editing skill and can be more time-consuming.\n    *   **DaVinci Resolve** is particularly notable as it offers a robust free version that includes many professional features.\n    *   **Adobe Premiere Pro** also benefits from plugins like AutoPod, which automates multi-camera editing, social clip creation, and jump cuts, making it more efficient for video podcasts.\n\n**For Creating Short-Form Clips and Audiograms:**\n\n*   **CapCut** is praised for its ease of use and effectiveness in creating short-form video clips and audiograms, especially for social media. It offers automated tools to generate shorts from longer videos and can be used for editing full episodes as well.\n*   **OpusClip** is designed specifically for repurposing long recordings into short, AI-generated highlight clips with captions and reframing for social media. While excellent for short-form content, it's not a full-length editor.\n*   **VEED.io** is another browser-based tool that is user-friendly for creating and repurposing video content, including adding captions and visual elements.\n*   **SoundMadeSeen** is an AI-powered audiogram maker that automatically creates audiograms and can convert long videos into clips for platforms like Instagram, TikTok, and YouTube Shorts. It also offers transcript and subtitle generation.\n\n**Key Features to Look For:**\n\nWhen choosing a video editor for your podcast, consider these essential features:\n\n*   **High-quality video and audio recording:** Ensures your audience has a good experience.\n*   **Ease of Use:** A user-friendly interface is crucial, especially if you're new to video editing.\n*   **Audio Editing Capabilities:** Look for tools with noise reduction, sound leveling, and editing suggestions.\n*   **Automatic Transcription and Captioning:** Saves significant time and improves accessibility and discoverability.\n*   **Multi-camera Recording Support:** Essential for interviews with multiple guests.\n*   **Content Repurposing:** The ability to easily create short clips, audiograms (visualizations of sound waves with subtitles), and different aspect ratios for various social media platforms is vital for discoverability.\n*   **Budget:** Free options exist, but many advanced features come with paid subscriptions.\n\nThe shift towards video podcasts is significant, with many preferring video content. YouTube, for example, is a preferred platform for a substantial portion of podcast users. Therefore, incorporating video editing into your podcast workflow can greatly enhance discoverability and audience engagement."
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "searchEntryPoint": {
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt_lDjrLdEhYPujCnPhmcrhuI7pSjflz3Y3M03PJyrsVNNqpfHam0NfU1iToxVW5ohW-18MWq4mFQYRihe-AyVAksp-gxj1DVBrFiDctE4WQhvePllNC26PJhqpf4mRSRJtsXnqOs7ElrFgpYT87kRo1ZdWuJhtHIQCCr_KkBJERPDEpknUIXRXySKbGHD5uHeMExWo0dZQf1ITudXmqdenrHIbPRWeyAL_HdA31bg\">video editing software for podcasts Singapore</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfeQvF5KbIU8VNaCkRbDBrm5aYGhBMSshNbowBe59YcLdxi4q__YiTFlLTjXGzzi-0EviTMWwYRciAbhuI1g29CLk2V8gSN30b2prTOQvuY5G9te_1z8XIreBVQh3Z_sagpC64DHJf-FVpgq0YjMFpBhllUMCRJwGPcXaDDaOZWLiUqmrj2QAeziWpwATieiRrCo_dI_JT2CDfk2sEc87rarF3gEol2D6F\">podcast video editing software features</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgMXDK8QJK6aU16V4ab0J0uahnSMlCYYZoZYDhD8FDk6ZoiD3FdQvQia3EU9F14xmUxsl2hQZLHd33cYlNR13DTpXGps3ye-qpLQG5OIKQMEQ5Y7mc4u4imLqEER0rcYGWHsP0Zso6BWvyLUZXRUFzptKbGmfG49xxMm8B7aajnNdjO26nwtO6JCWBCjxnOSFcbUsvlTX0gF3iHcP0Ar9UidOi1eA=\">best video editor for podcasts 2024</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvRLkvpWAT1TxsSrSB90zVqh0TJpuR0rbbmye6z1__m4A81ennbEbR4a3Pj-BRTBF_Jaf8DgJUVagJTsmD2-Qfa6l_EQjb1dvfXpFJpfiemlxFDybICNKHQ3js3s5M9D3Lm76l9qj9ABFKns9kXk1a_4eLbzrO3GtLBuYtvuLLzCmY7o8DBWsZntjB9zfvEWN-uPUWV-L1Tlbs3L5SvYp_LnhbjSGIZ6zgOg==\">easy video editor for podcast audiograms</a>\n  </div>\n</div>\n"
+     },
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE04iAbM9TQrAg3mGfuNAwQXP3EdTtYmZ0R6k60t6gEMLKpNynnh_DZLV37DQsha3MfLh7cycF1mai_BXsbJfmmlAOPRfxv_7Fx3zImh-3uThcagQaqOjYediQLdwaZrrzU_t4YrxwFWMigHhj1gF8ybxRqao=",
+        "title": "podmuse.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBDjraYKMVc9ZkvS8JqNnOTFIkkN4U_zD4FBeYN3eUiz2HzNY1WsCV3DTXUueollBFsa4cesevuOSqASRm0fi8fU7kySazOsR3ReQhZkc_Xarbeg==",
+        "title": "descript.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU_AkmTaTIsSA17z399FkTE3J9On_c1TuXrid-Jq_5mxfOh88owPG8R9LgvVImTqDzNTwQ2tAXoWKyuGZjdRd1iT9KhRJx0GWgWJ48GLNH4sO284XPAVgmsgkG02T4G9yY2JW6bcHZGpJGqfDZCHwHOD6PD5Df",
+        "title": "increditors.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzzllhsgGvAo7rHV9f0bV5r1D5ZmQ5EKNhZ0hCMKHuWgRQELgXNdgENQdHlv8PKl6rylQY5sDs6ooT-whGIOKBPOrxKNvaVRf9ASKxYsyT1E6tdKO211ImEikXCfCkM12BdfYxbW-q",
+        "title": "podsqueeze.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcgIBnzAyZJ_t20hbG69Gxg6hXbsDN6zJsTgWHx54tuBrXVfFlJsDTqFJIeXCxcLR9gGb3WryUw1yMxEPVBkYKeISCeExsZ9imUCwZH8LUfyUTduvtoXDztXbq4LJqcw==",
+        "title": "streamlabs.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOaHtIdRECa0_3AAwkcG2hlMxZGc4A_e2wN6H1C6DpJ70h2gfajPQkX0xcT7YjSu7dUmjRQ2adS787lPAWkwGwhxE27pbVONwQlId6f6JgfXpFXyVjskI5oymaNDjJtCtAYcLWMMNId83orDU=",
+        "title": "lowerstreet.co"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBMU5T4uHVSV6sH2W5ppgFSA-oUHiLXOisIBDyvT4MsBXGOQxiG8lx39ADnm3nGMiYB0RZ4JfWd3h2zUjkv6YBbR_pAus5kHyNTaco-TtAsHJBp22IdzzMli4YkcmWHFBO-VnhhVpzg4qE6sWUPnDS_mx7u2XQ0La7RgKfUOE=",
+        "title": "switcherstudio.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcU5dimvEC7LoU7UcmLnsA_Qdz6OonoF_aDOZE9c-SYgd1woojwtwLtE7IoXkriPjD0NNH4aYuHMmShP7pbB72m5c4CgKgnawqAAiCvistsq5eFnT5GWRjl5tEi5NylT3B4hL56Ha-qtT1mQmk",
+        "title": "riverside.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzHop980-5bT4qiH9AuDbXpDC5_tRspG18YRyuPvyZ5tedLRDFx0z-Nwc-RKd-cBXT0Bgo_f-gHXeexV3xe6ruZPPimcry4G91idm88xGTYEI=",
+        "title": "autopod.fm"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG5eNpQlJIEsZfWOcUNRHKzf41hX1onIToemlLicni-WgbG6828WKlRMBS2bVx_HJr9QTt_x0Fup1ZheISRfieMjnEFPLcoX6-OYjWqZcK-087p-ggtPgpWy63B_t-yoe8r900NFNErcxfKyGkUHDECzcWuAOg1tljaB0OcxPKEr3AlhNAIAMELv_iZmPsxmuyQ5sG8m02d2fk6NFp",
+        "title": "reddit.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGDRRgrLEvQAaHTUQiBthqWQV0uPU0mH_ZzPmouYsdE2yZS2a8pNZHrP-A5M1i51cmyTYwW7VB2n6LHss_scn_kPq9Ygxqi6Aud7IMDdT_QOG6Aq9KqdCHfir-g-zPP2iI_4UxVniVPz1_vHXnilpp",
+        "title": "soundmadeseen.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFudwrg1RHNu3n_evFDr3lWJvccyWSm_Wixpdou8dkJLswRs-lt7oBmje07RbRv4au_evu-aSJq-FBGOeqotQT36GSGYyacfTpNxyN5gHV692tbo3xHQLVOijQlrgJzL_95cAh02JMJHMORcuUyzuucu3A12IWTIYxd",
+        "title": "podsqueeze.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQCMCLpkRPYKpnGsneQgy1TBNyNOn3XJk85HKxcU6SET5l1N9UkbcDNPdkFumMAG4wyXk1dcIQfszO5m00CI10eX1_KicW7aehtK_L7b9mlZLuDZVT6Y08ufpxopD8I2cotXGGF6JTUhVQRHOZclj-9-C_Hg==",
+        "title": "goldcast.io"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6jXm-CNacBUm0aeIUa_wppFntf2uySH-4SUx65kuQ-_U3hnUYlzGMSUk1Bfdm0kxQe7oIgTcPfqNCB_AAfcUGck-p27M24NOqiX29LOUju8yGZSj4x5QQoOrGlQSYlEX0fML3rnrfCcmdhheIIdfga8QozfMJWSdJ1Zxp4A==",
+        "title": "travelislife.org"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 418,
+        "endIndex": 577,
+        "text": "*   **Descript** is frequently recommended for its AI-powered, text-based editing, which makes editing audio and video as straightforward as editing a document"
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 579,
+        "endIndex": 698,
+        "text": "It automatically transcribes your podcast, allowing you to cut, trim, and rearrange sections by simply editing the text"
+       },
+       "groundingChunkIndices": [
+        3,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 700,
+        "endIndex": 842,
+        "text": "Descript also offers features like filler word removal, noise reduction, and the ability to create audiograms and video clips for social media"
+       },
+       "groundingChunkIndices": [
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 844,
+        "endIndex": 904,
+        "text": "It's ideal for solo podcasters seeking speed and ease of use"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1034,
+        "endIndex": 1148,
+        "text": "It also helps create professional-looking clips and audiograms with customizable templates and automated subtitles"
+       },
+       "groundingChunkIndices": [
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1317,
+        "endIndex": 1404,
+        "text": "It also supports adding images and subtitles and optimizing clips for various platforms"
+       },
+       "groundingChunkIndices": [
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1457,
+        "endIndex": 1555,
+        "text": "*   **Riverside.fm** and **Zencastr** are excellent choices if your podcast involves remote guests"
+       },
+       "groundingChunkIndices": [
+        0,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1557,
+        "endIndex": 1693,
+        "text": "These platforms record high-quality audio and video tracks separately for each participant, which greatly simplifies the editing process"
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1695,
+        "endIndex": 1853,
+        "text": "They also offer integrated editing features, making them suitable for publishing full-length episodes, especially for shows with a consistent interview format"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1899,
+        "endIndex": 2041,
+        "text": "*   **Adobe Premiere Pro**, **DaVinci Resolve**, and **Final Cut Pro** (for Mac users) are powerful, professional-grade video editing software"
+       },
+       "groundingChunkIndices": [
+        0,
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2204,
+        "endIndex": 2288,
+        "text": "However, they require a higher level of editing skill and can be more time-consuming"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2294,
+        "endIndex": 2417,
+        "text": "*   **DaVinci Resolve** is particularly notable as it offers a robust free version that includes many professional features"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2423,
+        "endIndex": 2609,
+        "text": "*   **Adobe Premiere Pro** also benefits from plugins like AutoPod, which automates multi-camera editing, social clip creation, and jump cuts, making it more efficient for video podcasts"
+       },
+       "groundingChunkIndices": [
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2663,
+        "endIndex": 2805,
+        "text": "*   **CapCut** is praised for its ease of use and effectiveness in creating short-form video clips and audiograms, especially for social media"
+       },
+       "groundingChunkIndices": [
+        0,
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2807,
+        "endIndex": 2920,
+        "text": "It offers automated tools to generate shorts from longer videos and can be used for editing full episodes as well"
+       },
+       "groundingChunkIndices": [
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3083,
+        "endIndex": 3152,
+        "text": "While excellent for short-form content, it's not a full-length editor"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3154,
+        "endIndex": 3311,
+        "text": "*   **VEED.io** is another browser-based tool that is user-friendly for creating and repurposing video content, including adding captions and visual elements"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3503,
+        "endIndex": 3552,
+        "text": "It also offers transcript and subtitle generation"
+       },
+       "groundingChunkIndices": [
+        10
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3586,
+        "endIndex": 3666,
+        "text": "When choosing a video editor for your podcast, consider these essential features"
+       },
+       "groundingChunkIndices": [
+        6,
+        11,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3669,
+        "endIndex": 3760,
+        "text": "*   **High-quality video and audio recording:** Ensures your audience has a good experience"
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3762,
+        "endIndex": 3862,
+        "text": "*   **Ease of Use:** A user-friendly interface is crucial, especially if you're new to video editing"
+       },
+       "groundingChunkIndices": [
+        11,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3864,
+        "endIndex": 3976,
+        "text": "*   **Audio Editing Capabilities:** Look for tools with noise reduction, sound leveling, and editing suggestions"
+       },
+       "groundingChunkIndices": [
+        12
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3978,
+        "endIndex": 4095,
+        "text": "*   **Automatic Transcription and Captioning:** Saves significant time and improves accessibility and discoverability"
+       },
+       "groundingChunkIndices": [
+        3,
+        0,
+        4,
+        10
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4097,
+        "endIndex": 4182,
+        "text": "*   **Multi-camera Recording Support:** Essential for interviews with multiple guests"
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4184,
+        "endIndex": 4311,
+        "text": "*   **Content Repurposing:** The ability to easily create short clips, audiograms (visualizations of sound waves with subtitles"
+       },
+       "groundingChunkIndices": [
+        10,
+        13
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4311,
+        "endIndex": 4405,
+        "text": "), and different aspect ratios for various social media platforms is vital for discoverability"
+       },
+       "groundingChunkIndices": [
+        0,
+        12,
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4407,
+        "endIndex": 4498,
+        "text": "*   **Budget:** Free options exist, but many advanced features come with paid subscriptions"
+       },
+       "groundingChunkIndices": [
+        0,
+        11,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4586,
+        "endIndex": 4674,
+        "text": "YouTube, for example, is a preferred platform for a substantial portion of podcast users"
+       },
+       "groundingChunkIndices": [
+        0
+       ]
+      }
+     ],
+     "webSearchQueries": [
+      "best video editor for podcasts 2024",
+      "podcast video editing software features",
+      "easy video editor for podcast audiograms",
+      "video editing software for podcasts Singapore"
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 30,
+   "candidatesTokenCount": 998,
+   "totalTokenCount": 2035,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 30
+    }
+   ],
+   "toolUsePromptTokenCount": 383,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 383
+    }
+   ],
+   "thoughtsTokenCount": 624,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "RvfdatH_BfXB694P1syfmQ4"
+ }
+}

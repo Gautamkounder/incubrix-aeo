@@ -1,0 +1,129 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.linkedin.com/help/linkedin/answer/a1347212",
+   "title": "Schedule posts | LinkedIn Help"
+  },
+  {
+   "position": 2,
+   "link": "https://buffer.com/linkedin",
+   "title": "Schedule Your LinkedIn Posts with Buffer"
+  },
+  {
+   "position": 3,
+   "link": "https://www.quora.com/How-do-I-schedule-LinkedIn-posts-in-advance",
+   "title": "How do I schedule LinkedIn posts in advance?"
+  },
+  {
+   "position": 4,
+   "link": "https://www.reddit.com/r/linkedin/comments/100lxry/how_to_schedule_posts_on_linkedin/",
+   "title": "How to schedule posts on LinkedIn"
+  },
+  {
+   "position": 5,
+   "link": "https://www.quora.com/Can-we-schedule-a-post-on-LinkedIn",
+   "title": "Can we schedule a post on LinkedIn?"
+  },
+  {
+   "position": 6,
+   "link": "https://www.youtube.com/watch?v=aepXod3rI0M",
+   "title": "How to Schedule LinkedIn Posts"
+  },
+  {
+   "position": 7,
+   "link": "https://planable.io/blog/schedule-linkedin-posts/",
+   "title": "How to schedule LinkedIn posts for free to save time"
+  },
+  {
+   "position": 8,
+   "link": "https://www.linkedin.com/help/linkedin/answer/a1419179",
+   "title": "Schedule a LinkedIn Page post | LinkedIn Help"
+  },
+  {
+   "position": 9,
+   "link": "https://taplio.com/linkedin-post-scheduler",
+   "title": "LinkedIn Post Scheduler: Plan Posts in Advance"
+  },
+  {
+   "position": 10,
+   "link": "https://sproutsocial.com/insights/schedule-linkedin-posts/",
+   "title": "How to schedule LinkedIn posts for Profiles and Pages"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "Is it possible to schedule LinkedIn posts?",
+   "gl": "sg",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Schedule posts | LinkedIn Help",
+    "link": "https://www.linkedin.com/help/linkedin/answer/a1347212",
+    "snippet": "To change the time of the post before scheduling it, click the Clock icon, update the time, click Next, and then click Schedule to schedule the post.",
+    "position": 1
+   },
+   {
+    "title": "Schedule Your LinkedIn Posts with Buffer",
+    "link": "https://buffer.com/linkedin",
+    "snippet": "You can schedule LinkedIn text-only, image, GIF, PDF, video, link preview, and carousel posts with Buffer. , edit, draft, and schedule posts to your LinkedIn ...",
+    "position": 2
+   },
+   {
+    "title": "How do I schedule LinkedIn posts in advance?",
+    "link": "https://www.quora.com/How-do-I-schedule-LinkedIn-posts-in-advance",
+    "position": 3
+   },
+   {
+    "title": "How to schedule posts on LinkedIn",
+    "link": "https://www.reddit.com/r/linkedin/comments/100lxry/how_to_schedule_posts_on_linkedin/",
+    "position": 4
+   },
+   {
+    "title": "Can we schedule a post on LinkedIn?",
+    "link": "https://www.quora.com/Can-we-schedule-a-post-on-LinkedIn",
+    "position": 5
+   },
+   {
+    "title": "How to Schedule LinkedIn Posts",
+    "link": "https://www.youtube.com/watch?v=aepXod3rI0M",
+    "snippet": "I will guide you through the process of finding scheduled posts on LinkedIn. We'll cover step-by-step instructions, tips, and best practices ...",
+    "date": "2 years ago",
+    "position": 6
+   },
+   {
+    "title": "How to schedule LinkedIn posts for free to save time",
+    "link": "https://planable.io/blog/schedule-linkedin-posts/",
+    "snippet": "Yes, you can! There are two ways to schedule a post on Linkedin in advance: 1. natively, with the built-in Linkedin scheduling tool 2. with ...",
+    "date": "16 Jun 2026",
+    "position": 7
+   },
+   {
+    "title": "Schedule a LinkedIn Page post | LinkedIn Help",
+    "link": "https://www.linkedin.com/help/linkedin/answer/a1419179",
+    "snippet": "You can schedule a post anywhere between an hour from the current time to three months in advance. Once scheduled, your post will be posted at the set date and ...",
+    "position": 8
+   },
+   {
+    "title": "LinkedIn Post Scheduler: Plan Posts in Advance",
+    "link": "https://taplio.com/linkedin-post-scheduler",
+    "snippet": "Schedule LinkedIn posts in advance, batch a week of content, and auto-publish at the best time to your profile or company page. Start free.",
+    "position": 9
+   },
+   {
+    "title": "How to schedule LinkedIn posts for Profiles and Pages",
+    "link": "https://sproutsocial.com/insights/schedule-linkedin-posts/",
+    "snippet": "Yes, LinkedIn offers native post scheduling for all users through its built-in scheduler. You can schedule posts directly within LinkedIn while creating content ...",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.youtube.com/watch?v=1hQX5f_mlVQ",
+   "title": "How To Add Captions To Any Video (For Free!)"
+  },
+  {
+   "position": 2,
+   "link": "https://www.msudenver.edu/wp-content/uploads/2021/09/Best-Practices-for-Writing-Closed-Captions.pdf",
+   "title": "Best Practices for Writing Closed Captions"
+  },
+  {
+   "position": 3,
+   "link": "https://www.youtube.com/watch?v=uzqWc_RUnwA",
+   "title": "How To Add Subtitles To Video - Captions Made EASY"
+  },
+  {
+   "position": 4,
+   "link": "https://www.quora.com/How-do-I-add-captions-to-my-social-media-videos",
+   "title": "How do I add captions to my social media videos?"
+  },
+  {
+   "position": 5,
+   "link": "https://captions.ai/blog/how-to-add-auto-captions-to-videos-tips-tools",
+   "title": "How to Add Auto-Captions to Videos: Tips & Tools"
+  },
+  {
+   "position": 6,
+   "link": "https://www.facebook.com/MissLilFlip/videos/how-to-apply-text-and-captions-to-your-video/463691996530759/",
+   "title": "How to Add Text and Captions to Your Video Tutorial"
+  },
+  {
+   "position": 7,
+   "link": "https://zeely.ai/blog/how-to-make-captions-for-video-content-fast-and-accurate/",
+   "title": "How to make captions for video content fast and accurate"
+  },
+  {
+   "position": 8,
+   "link": "https://www.derek-lieu.com/blog/2019/10/27/guide-for-captions-and-subtitles",
+   "title": "Guide For Captions and Subtitles"
+  },
+  {
+   "position": 9,
+   "link": "https://www.thesocialdvm.com/post/captioning-your-videos-a-guide-for-every-social-media-platform",
+   "title": "Captioning Your Videos: A Guide for Every Social Media ..."
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [
+  {
+   "question": "How to write a caption for a video?"
+  },
+  {
+   "question": "What is a good caption for a video?"
+  },
+  {
+   "question": "Is there an easy way to add captions to a video?"
+  },
+  {
+   "question": "How can I create a captions file for my video?"
+  }
+ ],
+ "raw": {
+  "searchParameters": {
+   "q": "How to write captions for videos?",
+   "gl": "us",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "How To Add Captions To Any Video (For Free!)",
+    "link": "https://www.youtube.com/watch?v=1hQX5f_mlVQ",
+    "snippet": "Want to know how to get captions on your videos for free? In this video, Bridget O'Rourke will walk you through the best captioning software ...",
+    "date": "2 years ago",
+    "position": 1
+   },
+   {
+    "title": "Best Practices for Writing Closed Captions",
+    "link": "https://www.msudenver.edu/wp-content/uploads/2021/09/Best-Practices-for-Writing-Closed-Captions.pdf",
+    "snippet": "Captions are much more comprehensive to provide the full experience of the video content. This guide will cover the best practices for writing captions. Caption ...",
+    "position": 2
+   },
+   {
+    "title": "How To Add Subtitles To Video - Captions Made EASY",
+    "link": "https://www.youtube.com/watch?v=uzqWc_RUnwA",
+    "snippet": "How to add captions to your videos? And when should you avoid it - this and my favourite way to add stylised captions to my content.",
+    "date": "8 months ago",
+    "position": 3
+   },
+   {
+    "title": "How do I add captions to my social media videos?",
+    "link": "https://www.quora.com/How-do-I-add-captions-to-my-social-media-videos",
+    "snippet": "How do I add captions to my social media videos?",
+    "date": "3 years ago",
+    "position": 4
+   },
+   {
+    "title": "How to Add Auto-Captions to Videos: Tips & Tools",
+    "link": "https://captions.ai/blog/how-to-add-auto-captions-to-videos-tips-tools",
+    "snippet": "Upload a caption file. You'll need a tool to export audio as captions with timestamps, then create an SRT or VTT file containing the caption ...",
+    "date": "Apr 21, 2026",
+    "position": 5
+   },
+   {
+    "title": "How to Add Text and Captions to Your Video Tutorial",
+    "link": "https://www.facebook.com/MissLilFlip/videos/how-to-apply-text-and-captions-to-your-video/463691996530759/",
+    "snippet": "This is a short, fast-paced tutorial demonstrating how to apply text captions and overlays to a mobile video. The creator, Nikita Yembe, ...",
+    "date": "2 years ago",
+    "position": 6
+   },
+   {
+    "title": "How to make captions for video content fast and accurate",
+    "link": "https://zeely.ai/blog/how-to-make-captions-for-video-content-fast-and-accurate/",
+    "snippet": "Learn the difference between captions and subtitles, when to use open or closed captions, and which tools save the most time.",
+    "date": "Mar 6, 2026",
+    "position": 7
+   },
+   {
+    "title": "Guide For Captions and Subtitles",
+    "link": "https://www.derek-lieu.com/blog/2019/10/27/guide-for-captions-and-subtitles",
+    "snippet": "Keep captions as short as possible, 2 lines maximum. \u00b7 Legibility is ALWAYS the priority, style is secondary. \u00b7 Captions need to contrast with ...",
+    "date": "Oct 27, 2019",
+    "position": 8
+   },
+   {
+    "title": "Captioning Your Videos: A Guide for Every Social Media ...",
+    "link": "https://www.thesocialdvm.com/post/captioning-your-videos-a-guide-for-every-social-media-platform",
+    "snippet": "Click \u201cUpload\u201d under \u201cAdd New Captions.\u201d Select your file and file type(s) and click next when uploading is complete. Note: you'll be ...",
+    "date": "Oct 13, 2023",
+    "position": 9
+   }
+  ],
+  "peopleAlsoAsk": [
+   {
+    "question": "How to write a caption for a video?"
+   },
+   {
+    "question": "What is a good caption for a video?"
+   },
+   {
+    "question": "Is there an easy way to add captions to a video?"
+   },
+   {
+    "question": "How can I create a captions file for my video?"
+   }
+  ],
+  "relatedSearches": [
+   {
+    "query": "How to add subtitles to a video free"
+   },
+   {
+    "query": "What IS caption in video"
+   },
+   {
+    "query": "How to add subtitles to a YouTube video that is not yours"
+   },
+   {
+    "query": "Caption generator from video"
+   },
+   {
+    "query": "How to turn on subtitles on YouTube without CC"
+   },
+   {
+    "query": "How to do captions"
+   },
+   {
+    "query": "YouTube Studio"
+   },
+   {
+    "query": "YouCut captions"
+   }
+  ],
+  "credits": 1
+ }
+}

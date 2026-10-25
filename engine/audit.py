@@ -3,12 +3,11 @@ python -m engine.audit --site https://incubrix.com   ->  reports/audit.csv  (evi
 import argparse, csv, json, re, time
 from pathlib import Path
 import httpx
-from engine.common import ROOT, domain_of, load_settings
+from engine.common import ROOT
 
 UA = {"User-Agent": "IncuBrixAEO-Audit/1.0 (candidate assessment; contact: see README)"}
 
 def analyze_html(url, html):
-    dom = re.escape(domain_of(url))   # the audited site, not a hardcoded domain
     g = lambda p: (re.search(p, html, re.I | re.S) or [None, ""])[1].strip()
     title = g(r"<title[^>]*>(.*?)</title>")
     desc = g(r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']*)')
@@ -26,18 +25,8 @@ def analyze_html(url, html):
             "h1_count": len(re.findall(r"<h1\b", html, re.I)), "viewport": "viewport" in html.lower(),
             "og_tags": len(re.findall(r'property=["\']og:', html, re.I)), "jsonld_types": "|".join(types),
             "images": len(imgs), "images_missing_alt": sum(1 for i in imgs if not re.search(r'\balt=["\'][^"\']+', i, re.I)),
-            "internal_links": len(re.findall(rf'href=["\'](?:https?://(?:www\.)?{dom})?/?[^"\'#:]*\.html', html, re.I)),
+            "internal_links": len(re.findall(r'href=["\'](?:https?://(?:www\.)?incubrix\.com)?/?[^"\'#:]*\.html', html, re.I)),
             "html_bytes": len(html.encode())}
-
-def pages_from_sitemap(xml, site, limit=40):
-    """Page paths listed in sitemap.xml (same host only), so the audit follows the real site instead of a fixed list."""
-    host = domain_of(site)
-    paths = []
-    for loc in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", xml or "", re.I):
-        if domain_of(loc) == host:
-            p = re.sub(r"^https?://[^/]+", "", loc) or "/"
-            if p not in paths and not p.endswith(".xml"): paths.append(p)
-    return paths[:limit]
 
 def audit(site, pages, out_csv):
     c = httpx.Client(headers=UA, timeout=30, follow_redirects=True)
@@ -45,8 +34,6 @@ def audit(site, pages, out_csv):
     for name in ("robots.txt", "sitemap.xml", "llms.txt"):
         r = c.get(f"{site}/{name}")
         specials[name] = {"status": r.status_code, "bytes": len(r.content), "head": r.text[:300] if r.status_code == 200 else ""}
-    if pages == ["sitemap"]:
-        pages = pages_from_sitemap(c.get(f"{site}/sitemap.xml").text, site) or ["/"]
     for p in pages:
         t0 = time.perf_counter(); r = c.get(f"{site}{p}")
         row = {"status": r.status_code, "ttfb_total_ms": int((time.perf_counter() - t0) * 1000),
@@ -62,8 +49,8 @@ def audit(site, pages, out_csv):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--site", default="https://" + load_settings()["brand_domain"])
-    ap.add_argument("--pages", help="comma list of paths, or 'sitemap' to audit every page listed in sitemap.xml", default="/,/about.html,/how-it-works.html,/faq.html,/pricing.html,/contact.html,/team.html,/careers.html,/manifesto.html")
+    ap.add_argument("--site", default="https://incubrix.com")
+    ap.add_argument("--pages", default="/,/about.html,/how-it-works.html,/faq.html,/pricing.html,/contact.html,/team.html,/careers.html,/manifesto.html")
     ap.add_argument("--out", default=str(ROOT / "reports" / "audit.csv"))
     a = ap.parse_args(); audit(a.site, a.pages.split(","), a.out); print("wrote", a.out)
 

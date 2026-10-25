@@ -1,0 +1,185 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.reddit.com/r/podcasting/comments/1h77plc/quickest_way_to_generate_a_transcript_for_any/",
+   "title": "Quickest way to generate a transcript for any podcast ..."
+  },
+  {
+   "position": 2,
+   "link": "https://podcasters.apple.com/support/5316-transcripts-on-apple-podcasts",
+   "title": "Transcripts on Apple Podcasts"
+  },
+  {
+   "position": 3,
+   "link": "https://freepodcasttranscription.com/",
+   "title": "Free Podcast Transcription"
+  },
+  {
+   "position": 4,
+   "link": "https://podsqueeze.com/?lang=en",
+   "title": "Podcast Transcription, Summaries & Clips \u2013 Try Free"
+  },
+  {
+   "position": 5,
+   "link": "https://podcasts.happyscribe.com/",
+   "title": "Podcast Transcripts \u2014 Read & Search Full Episodes"
+  },
+  {
+   "position": 6,
+   "link": "https://otter.ai/podcast-transcription",
+   "title": "Free Podcast Transcription: Convert Podcast to Text Fast"
+  },
+  {
+   "position": 7,
+   "link": "https://spotscribe.io/",
+   "title": "SpotScribe: Extract Spotify Podcast Transcripts Instantly"
+  },
+  {
+   "position": 8,
+   "link": "https://www.dittotranscripts.com/blog/how-to-get-podcast-transcripts/",
+   "title": "How to get podcast transcripts"
+  },
+  {
+   "position": 9,
+   "link": "https://podcasttranscript.ai/",
+   "title": "Podcast Transcript AI - Transcribe Any Podcast For Free!"
+  },
+  {
+   "position": 10,
+   "link": "https://www.podtyper.com/",
+   "title": "Podtyper: Podcast Transcript Generator \u2014 Try Free"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [
+  {
+   "question": "Is there a way to get a transcript of a podcast episode?"
+  },
+  {
+   "question": "Can ChatGPT transcribe podcasts?"
+  },
+  {
+   "question": "How can I download a podcast transcript?"
+  },
+  {
+   "question": "Is there a free way to generate podcast transcripts from a link?"
+  }
+ ],
+ "raw": {
+  "searchParameters": {
+   "q": "How do I get a transcript of a podcast episode?",
+   "gl": "us",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Quickest way to generate a transcript for any podcast ...",
+    "link": "https://www.reddit.com/r/podcasting/comments/1h77plc/quickest_way_to_generate_a_transcript_for_any/",
+    "snippet": "I find the easiest way is to use Apple Podcasts. Click on the episode and there is an automatic transcript between the show notes and the show ...",
+    "date": "1 year ago",
+    "position": 1
+   },
+   {
+    "title": "Transcripts on Apple Podcasts",
+    "link": "https://podcasters.apple.com/support/5316-transcripts-on-apple-podcasts",
+    "snippet": "Simply touch and hold a podcast episode, then tap View Transcript. To share a transcript, select and copy up to 200 words",
+    "position": 2
+   },
+   {
+    "title": "Free Podcast Transcription",
+    "link": "https://freepodcasttranscription.com/",
+    "snippet": "The ultimate free and safe solution for transcribing your podcast episodes! It runs completely on your local device, ensuring the highest level of privacy ...",
+    "position": 3
+   },
+   {
+    "title": "Podcast Transcription, Summaries & Clips \u2013 Try Free",
+    "link": "https://podsqueeze.com/?lang=en",
+    "snippet": "Podcast transcript generator, summarizer, clip maker & AI audio enhancer\u2014all-in-one tool to grow your podcast and save hours of effort. Free to sign up.",
+    "position": 4
+   },
+   {
+    "title": "Podcast Transcripts \u2014 Read & Search Full Episodes",
+    "link": "https://podcasts.happyscribe.com/",
+    "snippet": "Just search for the podcast or episode you want and click through to read the full transcript. no signup or payment required.",
+    "position": 5
+   },
+   {
+    "title": "Free Podcast Transcription: Convert Podcast to Text Fast",
+    "link": "https://otter.ai/podcast-transcription",
+    "snippet": "Start by downloading the podcast episode you want to transcribe to your phone or computer. Then, open the Otter app or visit otter.ai in your browser. Just ...",
+    "position": 6
+   },
+   {
+    "title": "SpotScribe: Extract Spotify Podcast Transcripts Instantly",
+    "link": "https://spotscribe.io/",
+    "snippet": "Paste the episode URL into our Spotify podcast transcript generator to begin processing. Paste the URL. Get Your Transcript. Click \"Transcribe\" ...",
+    "position": 7
+   },
+   {
+    "title": "How to get podcast transcripts",
+    "link": "https://www.dittotranscripts.com/blog/how-to-get-podcast-transcripts/",
+    "snippet": "Another option for transcribing podcast episodes is to hire a professional transcription service. For example, here at Ditto Transcripts, we're ...",
+    "date": "Aug 7, 2025",
+    "position": 8
+   },
+   {
+    "title": "Podcast Transcript AI - Transcribe Any Podcast For Free!",
+    "link": "https://podcasttranscript.ai/",
+    "snippet": "Use Podcast Transcript AI to transcribe your favorite podcasts for free. Enjoy a simple and fast way to turn audio into text with our easy-to-use tool.",
+    "position": 9
+   },
+   {
+    "title": "Podtyper: Podcast Transcript Generator \u2014 Try Free",
+    "link": "https://www.podtyper.com/",
+    "snippet": "Get a Podcast Transcript in Minutes. Paste a YouTube, Spotify or Apple Podcasts link. Get searchable text with timestamps, then download PDF or TXT.",
+    "position": 10
+   }
+  ],
+  "peopleAlsoAsk": [
+   {
+    "question": "Is there a way to get a transcript of a podcast episode?"
+   },
+   {
+    "question": "Can ChatGPT transcribe podcasts?"
+   },
+   {
+    "question": "How can I download a podcast transcript?"
+   },
+   {
+    "question": "Is there a free way to generate podcast transcripts from a link?"
+   }
+  ],
+  "relatedSearches": [
+   {
+    "query": "Podcast transcript generator free"
+   },
+   {
+    "query": "Podcast transcript download"
+   },
+   {
+    "query": "Podcast transcript generator from link"
+   },
+   {
+    "query": "How to get a transcript of a podcast on Spotify"
+   },
+   {
+    "query": "Podcast transcripts"
+   },
+   {
+    "query": "Apple podcast transcript viewer"
+   },
+   {
+    "query": "Apple podcast transcript free"
+   },
+   {
+    "query": "Podcast transcript AI"
+   }
+  ],
+  "credits": 1
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.finout.io/blog/claude-opus-5.5-pricing-2026-what-anthropics-new-flagship-actually-costs",
+   "title": "Claude Opus 5.5 Pricing 2026: What Anthropic's New ..."
+  },
+  {
+   "position": 2,
+   "link": "https://medium.com/@dzianisv/how-claude-opus-4-5-cost-me-12-000-in-3-days-6bf03204e811",
+   "title": "How Claude Opus 4.5 Cost Me $12000 in 3 Days"
+  },
+  {
+   "position": 3,
+   "link": "https://www.reddit.com/r/singularity/comments/1ktimuw/claude_opus_4_is_super_expensive/",
+   "title": "Claude Opus 4 is super expensive : r/singularity"
+  },
+  {
+   "position": 4,
+   "link": "https://www.youtube.com/watch?v=qVW7uIQgTGQ",
+   "title": "Claude Opus 4.5: Speed, Cost & Quality After 70.1 Million ..."
+  },
+  {
+   "position": 5,
+   "link": "https://www.anthropic.com/news/claude-opus-4-5",
+   "title": "Introducing Claude Opus 4.5"
+  },
+  {
+   "position": 6,
+   "link": "https://evolink.ai/blog/claude-api-pricing-guide-2026",
+   "title": "Claude API Pricing 2026: Anthropic Cost Reference"
+  },
+  {
+   "position": 7,
+   "link": "https://www.mindstudio.ai/blog/ai-model-pricing-sonnet-5-costs-more-than-opus-agents",
+   "title": "Why Claude Sonnet 5 Can Cost More Than Opus in Agents"
+  },
+  {
+   "position": 8,
+   "link": "https://news.ycombinator.com/item?id=44803441",
+   "title": "Opus 4(.1) is *so* expensive[1]. Even Sonnet[2] costs me ..."
+  },
+  {
+   "position": 9,
+   "link": "https://benchlm.ai/anthropic/api-pricing",
+   "title": "Claude API Pricing (October 2026)"
+  },
+  {
+   "position": 10,
+   "link": "https://thenewstack.io/opus-5-agentic-coding-cost/",
+   "title": "Opus 5 costs a third of the price \u2014 and that's actually ..."
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [],
+ "raw": {
+  "searchParameters": {
+   "q": "How much does Opus actually cost?",
+   "gl": "gb",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Claude Opus 5.5 Pricing 2026: What Anthropic's New ...",
+    "link": "https://www.finout.io/blog/claude-opus-5.5-pricing-2026-what-anthropics-new-flagship-actually-costs",
+    "snippet": "Quick answer: Claude Opus 5.5 costs $4 per million input tokens and $20 per million output tokens on the standard API, a 20% cut from Opus 5, ...",
+    "date": "23 Sept 2026",
+    "position": 1
+   },
+   {
+    "title": "How Claude Opus 4.5 Cost Me $12000 in 3 Days",
+    "link": "https://medium.com/@dzianisv/how-claude-opus-4-5-cost-me-12-000-in-3-days-6bf03204e811",
+    "snippet": "Cost: $12,000 in a few days. $100 Any new resource costing > $50/day. The $12,000 model that was never used once.",
+    "date": "9 months ago",
+    "position": 2
+   },
+   {
+    "title": "Claude Opus 4 is super expensive : r/singularity",
+    "link": "https://www.reddit.com/r/singularity/comments/1ktimuw/claude_opus_4_is_super_expensive/",
+    "snippet": "Claude Opus 4 cost me 31 dollars in 1 hour. Total cost: $30.10 Total duration (API): 38m 41.1s \u30fb $30/hr is cheap for that kind of coding \u30fb $ ...",
+    "date": "1 year ago",
+    "position": 3
+   },
+   {
+    "title": "Claude Opus 4.5: Speed, Cost & Quality After 70.1 Million ...",
+    "link": "https://www.youtube.com/watch?v=qVW7uIQgTGQ",
+    "snippet": "pricing, and benchmarks \u30fb cost vs earlier Opus releases and updated usage limits. Claude Opus 4.5: Speed, Cost & Quality After 70.1 Million ...",
+    "date": "11 months ago",
+    "position": 4
+   },
+   {
+    "title": "Introducing Claude Opus 4.5",
+    "link": "https://www.anthropic.com/news/claude-opus-4-5",
+    "snippet": "Pricing is now $5/$25 per million tokens\u2014making Opus-level capabilities accessible to even more users, teams, and enterprises.",
+    "date": "24 Nov 2025",
+    "position": 5
+   },
+   {
+    "title": "Claude API Pricing 2026: Anthropic Cost Reference",
+    "link": "https://evolink.ai/blog/claude-api-pricing-guide-2026",
+    "snippet": "Claude Opus 5.5 costs $4 input / $20 output per million tokens on Anthropic's standard API. Both token rates are 20% below Opus 4.7's $5 / $25;",
+    "date": "4 days ago",
+    "position": 6
+   },
+   {
+    "title": "Why Claude Sonnet 5 Can Cost More Than Opus in Agents",
+    "link": "https://www.mindstudio.ai/blog/ai-model-pricing-sonnet-5-costs-more-than-opus-agents",
+    "snippet": "Claude Opus 4 ~$15 ~$75 Claude Sonnet 4 / Sonnet 5 ~$3 ~$15 Sonnet is roughly five times cheaper per token. The actual cost depends on how many ...",
+    "date": "4 Jul 2026",
+    "position": 7
+   },
+   {
+    "title": "Opus 4(.1) is *so* expensive[1]. Even Sonnet[2] costs me ...",
+    "link": "https://news.ycombinator.com/item?id=44803441",
+    "snippet": "$5 per hour (basically) Claude Opus is $3.75 for 5minute Cache Writes / Mtok. it's often much cheaper than human labor.",
+    "position": 8
+   },
+   {
+    "title": "Claude API Pricing (October 2026)",
+    "link": "https://benchlm.ai/anthropic/api-pricing",
+    "snippet": "Current Claude API pricing is $4/$20 per million input/output tokens for Claude Opus 5.5, $5/$25 for Claude Opus 5, $2/$10 for Sonnet 5.5 and Sonnet 5, $1/$5 ...",
+    "position": 9
+   },
+   {
+    "title": "Opus 5 costs a third of the price \u2014 and that's actually ...",
+    "link": "https://thenewstack.io/opus-5-agentic-coding-cost/",
+    "snippet": "Opus 5 is designed to work on programming tasks for much longer without constant human input. Benchmarks at bargain prices. Priced at $5 per ...",
+    "date": "24 Jul 2026",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

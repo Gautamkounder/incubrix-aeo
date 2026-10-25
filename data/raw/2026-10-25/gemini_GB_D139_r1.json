@@ -1,0 +1,462 @@
+{
+ "answer": "For podcasters in the United Kingdom, choosing the right audio editing software depends on your experience level, budget, and specific needs. Several excellent options are available, ranging from free, beginner-friendly tools to professional, feature-rich digital audio workstations (DAWs).\n\nHere are some of the best audio editing software for podcasts:\n\n**Free and Beginner-Friendly Options:**\n\n*   **Audacity:** This is a popular, free, and open-source desktop editor that has been a long-standing choice for podcasters. It's available for Windows, Mac, and Linux, offering multitrack recording and editing capabilities, including noise reduction, compression, and EQ. Audacity is ideal for beginners and those on a zero budget, providing a solid foundation for trimming interviews, adjusting levels, and applying basic effects. However, its workflow can be more manual and it lacks advanced features like transcript-first editing or sophisticated collaboration tools.\n*   **GarageBand:** For Mac and iOS users, GarageBand is a free, native Apple application that serves as a capable podcast editor with a gentle learning curve. It offers multi-track editing and built-in sound effects, making it a good entry point for beginners in the Apple ecosystem.\n*   **Adobe Podcast (formerly Adobe Enhance Speech & Studio):** This web-based suite of AI-powered tools offers impressive audio cleanup features, such as removing background noise and echo to make recordings sound professional with one click. It also includes a browser-based studio for multitrack recording and editing, and allows for transcription-based editing where you can edit audio by editing the text. A free plan is available, though it has a 30-minute maximum duration for enhanced audio on the free tier.\n*   **DaVinci Resolve (Fairlight):** While known for video editing, DaVinci Resolve offers a professional-grade audio post-production suite (Fairlight) for free, making it an excellent option for video podcasters who need an integrated solution for both audio and video.\n*   **CapCut:** This free podcast maker allows users to record, edit, and publish audio and video podcasts. It offers tools for adjusting volume, pitch, speed, and quality, along with noise reduction and the ability to add music or sound effects.\n\n**Paid and Professional Options:**\n\n*   **Descript:** Descript is highly recommended for solo creators and those who want fast, speech-led edits. Its standout feature is transcript-based editing, where you edit the audio by editing the text transcript, and it can automatically remove filler words and silences. Descript also supports multitrack recording (up to eight microphone inputs) and can capture high-quality video and audio with multiple guests. It's a desktop app for macOS and Windows, with a free plan and paid tiers starting around \u00a312 per month.\n*   **Adobe Audition:** Considered an industry-standard audio editing software, Adobe Audition is ideal for professional editors and those already using Adobe Creative Cloud. It offers advanced features like spectral editing, batch processing, loudness metering, and powerful audio restoration tools. It typically costs around \u00a320 per month.\n*   **Hindenburg Pro (formerly Hindenburg Journalist):** This software is specifically designed for spoken-word audio, making it excellent for journalists and narrative podcasts. It focuses on voice clarity, professional-grade sound balancing, and loudness tools, with a one-time purchase option.\n*   **REAPER:** A full digital audio workstation (DAW) with a strong following, REAPER offers deep editing control and extensive plugin support at a fraction of the cost of many professional tools, often under most subscription prices. It's a good option for podcasters on a budget who want advanced control.\n*   **Alitu:** This podcast-specific tool offers an all-in-one workflow for recording, cleaning, editing, and publishing podcasts, aiming to simplify the entire process. It's web-based and helps with automatic audio cleanup.\n*   **Logic Pro:** A professional DAW for Mac users, Logic Pro offers detailed mixing, effects, and mastering capabilities, making it a strong choice for Mac-based audio podcasts.\n\n**Considerations for UK Users:**\n\nWhile most software is globally available, pricing may vary. Some services like Riverside.fm are popular for remote recording and editing, which is useful for podcasts with guests located anywhere, including the UK.\n\nUltimately, the \"best\" software depends on your individual needs. For beginners, free options like Audacity or GarageBand (for Mac users) are excellent starting points. For those seeking a streamlined workflow and AI-powered assistance, Descript or Adobe Podcast are strong contenders. Professionals or those requiring advanced audio manipulation may opt for Adobe Audition or REAPER.",
+ "citations": [
+  "https://www.thepodcasthost.com/editing-production/best-podcast-editing-software/",
+  "https://cutsio.com/blog/best-podcast-editing-software-in-2026-by-use-case",
+  "https://www.guideflow.com/blog/podcast-editing-software",
+  "https://flexworkstudios.com/best-free-podcast-editing-software/",
+  "https://blog.podbean.com/best-podcast-editing-software-apps-in-2025/",
+  "https://www.paragoncreativestudios.co.uk/the-best-podcast-editing-software-for-beginners/",
+  "https://podcast.adobe.com/en",
+  "https://thepodcastconsultant.com/blog/podcast-editing-software",
+  "https://soundandgo.com/en/the-5-best-podcast-editing-softwares/",
+  "https://www.capcut.com/create/podcast-maker",
+  "https://www.audiobuzz.com/blog/best-podcast-editing-software-recommendations-2022-edition/",
+  "https://cutsio.com/blog/tools-every-podcast-editor-should-use",
+  "https://slashdot.org/software/podcast-editing/in-uk/"
+ ],
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "For podcasters in the United Kingdom, choosing the right audio editing software depends on your experience level, budget, and specific needs. Several excellent options are available, ranging from free, beginner-friendly tools to professional, feature-rich digital audio workstations (DAWs).\n\nHere are some of the best audio editing software for podcasts:\n\n**Free and Beginner-Friendly Options:**\n\n*   **Audacity:** This is a popular, free, and open-source desktop editor that has been a long-standing choice for podcasters. It's available for Windows, Mac, and Linux, offering multitrack recording and editing capabilities, including noise reduction, compression, and EQ. Audacity is ideal for beginners and those on a zero budget, providing a solid foundation for trimming interviews, adjusting levels, and applying basic effects. However, its workflow can be more manual and it lacks advanced features like transcript-first editing or sophisticated collaboration tools.\n*   **GarageBand:** For Mac and iOS users, GarageBand is a free, native Apple application that serves as a capable podcast editor with a gentle learning curve. It offers multi-track editing and built-in sound effects, making it a good entry point for beginners in the Apple ecosystem.\n*   **Adobe Podcast (formerly Adobe Enhance Speech & Studio):** This web-based suite of AI-powered tools offers impressive audio cleanup features, such as removing background noise and echo to make recordings sound professional with one click. It also includes a browser-based studio for multitrack recording and editing, and allows for transcription-based editing where you can edit audio by editing the text. A free plan is available, though it has a 30-minute maximum duration for enhanced audio on the free tier.\n*   **DaVinci Resolve (Fairlight):** While known for video editing, DaVinci Resolve offers a professional-grade audio post-production suite (Fairlight) for free, making it an excellent option for video podcasters who need an integrated solution for both audio and video.\n*   **CapCut:** This free podcast maker allows users to record, edit, and publish audio and video podcasts. It offers tools for adjusting volume, pitch, speed, and quality, along with noise reduction and the ability to add music or sound effects.\n\n**Paid and Professional Options:**\n\n*   **Descript:** Descript is highly recommended for solo creators and those who want fast, speech-led edits. Its standout feature is transcript-based editing, where you edit the audio by editing the text transcript, and it can automatically remove filler words and silences. Descript also supports multitrack recording (up to eight microphone inputs) and can capture high-quality video and audio with multiple guests. It's a desktop app for macOS and Windows, with a free plan and paid tiers starting around \u00a312 per month.\n*   **Adobe Audition:** Considered an industry-standard audio editing software, Adobe Audition is ideal for professional editors and those already using Adobe Creative Cloud. It offers advanced features like spectral editing, batch processing, loudness metering, and powerful audio restoration tools. It typically costs around \u00a320 per month.\n*   **Hindenburg Pro (formerly Hindenburg Journalist):** This software is specifically designed for spoken-word audio, making it excellent for journalists and narrative podcasts. It focuses on voice clarity, professional-grade sound balancing, and loudness tools, with a one-time purchase option.\n*   **REAPER:** A full digital audio workstation (DAW) with a strong following, REAPER offers deep editing control and extensive plugin support at a fraction of the cost of many professional tools, often under most subscription prices. It's a good option for podcasters on a budget who want advanced control.\n*   **Alitu:** This podcast-specific tool offers an all-in-one workflow for recording, cleaning, editing, and publishing podcasts, aiming to simplify the entire process. It's web-based and helps with automatic audio cleanup.\n*   **Logic Pro:** A professional DAW for Mac users, Logic Pro offers detailed mixing, effects, and mastering capabilities, making it a strong choice for Mac-based audio podcasts.\n\n**Considerations for UK Users:**\n\nWhile most software is globally available, pricing may vary. Some services like Riverside.fm are popular for remote recording and editing, which is useful for podcasts with guests located anywhere, including the UK.\n\nUltimately, the \"best\" software depends on your individual needs. For beginners, free options like Audacity or GarageBand (for Mac users) are excellent starting points. For those seeking a streamlined workflow and AI-powered assistance, Descript or Adobe Podcast are strong contenders. Professionals or those requiring advanced audio manipulation may opt for Adobe Audition or REAPER."
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "searchEntryPoint": {
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWKVTue1fw5is7C8jN8pQ7k4xETOCRXA_Fv7XQdwDPQZvh18LdrLwRaui4bhpNw6iXT61RQ3g6RfKscz78K_6kugeBPtOXCz_exLLw23EP3HeN6CSfwQNPHA78WXQM0E7QLoxwjaBqxdts34YyngtPCnQ4McgDLdK0YDkFf-QlPid3XNyGITvQBMVmYVOPrP-MasdALkWsLLKqySfIkj5JyQH6QZI=\">professional podcast editing tools</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEInBp5zBixF7M14R1Cl8bZuxDaNjJ1oGB7zP6uqs3D2uvZTpyvpCrOg7FixyrTUcmrgrl0vCeWLYymmi14uDtL2i9SosLzfjZs21HbD8_JStcB66-XKfmTY_kv-XhRjygA5mxKVJtweXvB9xEWb8GWNtI7IquaaXLmwZlL4zte2KKZlCfoUpDWpmMmYrT4YiB6JRAq86rpe9dAA6b8Bmd6Eb1EcBBZ\">podcast editing software comparison</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsShbK-_krK3_ICUQiwrT52lkLPTprrgnnLlC0qfEPp3YnearHCdkFHKkRFTTEJspnZxIiHLof63q7hTQ0O_hYiLPMi7R4Z_s9YIkGxshNXpYxo1Rg4AikSH5h1jOVnSfmmZIA0n_pWqyWSruVW_UPxYOKnVs7P4sa9ZJjPlaVk0aZejvYzhmOWnJp3Ni6DJyF4p9jZHO6nQBFZIDSjIo_nbDptd9a79H6wWjfYNA=\">best audio editing software for podcasts UK</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL8DIoWYSpxpUsNU2RgpR7QGcmSUEyie-HXLG_OvcrQgvZd8wO2syuog01x-3hZtq1n6iu9XjPhwyTJK5xIf_rR3WgAxV6WZVru0KXR1sA5hSHzarUs0DTK_Iyc_hoonA-O0_kV3k-UACGx2P-JS4orfV_q9HrzlFFY32ObaUOsl3vGXUFf4F-_nhC9mt81g2AauKdZFsq0wBme5sEKftV\">free podcast editing software</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl_y9gYcLLDcGFv223PbezxI44HybhHx1Y67J4UWLkSSfKcJIhAB3ub5kzxZ8in0OmHyXZe_rjiy30Ilff6gLrd_l80zKiJKSEhqe6BpVG1qCPw9o-qcUO0Zzb35ylF9ThcLxWxnGjGntKxg4eUVjoER5VnET2MO7Q2gkqqnHjXuRkGnKRafwdwMXFo-fz4pJL5xtjzMpKuPjCi0oamJE=\">podcast audio workstation UK</a>\n  </div>\n</div>\n"
+     },
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7tGcQu_Touz7Y0vd8QZn9mUlIa68ZkqPYoZZl55Gp-hZNnpSBMf55r6AU1eo0skBcWNQ3B3y1vxZP4jR4Yryo4_nn4MvccumCCwjD_zepeLQK_XcM_3M1K-YhYqoEB5GMnhR2uA8fbRnnv4bopqBrrqnqeBWa50lDnCiuBbQR421LtHGtiw6sA_5u",
+        "title": "thepodcasthost.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5or6T-KmdquxbfUloAW1GWyCJHyBcf8OcJhtbMhc3pyBSC1QLMhsed672Ct-lDrt9Hc7RkgwnJ8ptMRh30wDhCz7acB4U_YKSGi9adyUsJXgOcutm9gnCbnLU7OOkBusiKtVPm_KGMKX7sdPJEysWkqrlZhkVwgKxdZiFG9omY6Xke64=",
+        "title": "cutsio.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk_rlxlhngKT85R9c41yNLhIDrjYd8kKjsSfz50BK6Y2Invwf5JcBe-wa_7SQSwiEtQmljxRLEXt1w1wtAnzBy3l1RAbdhX5-pNiHQat534LgJHjl15Yhm-z6HIm5ISsQaojcwrR4Fkg06IjKnmAJsWj0=",
+        "title": "guideflow.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4duF5csiBL7KpDmGcbJ0BzJ2zIdCfDLvkJh3ji22_373lHKdjamqlDmlOjGCLXlwCUWppT7OwiXUJwVcR6csXxM4WIfu2JI_W5XKw_7ce1tl_-XIlUAF7pHZtS-A2oxtcAbmH7T30UCMKqALp8heEsU1M2Lg7FmGGqQ==",
+        "title": "flexworkstudios.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtwb0UGQpW-9JNhtWtW-TuF8cjcyJM3ULFdyM_SkF_299If6rbtoDluJ3NfqDTOlse8i1IKPalfDCTYfKxNOYyIFu-kcv4R_MTIBb1YbSMg4rJPGhVBZZjdxSRKkE_qeUzBUsVotNNm7x3rVI0Y_E4xV57yOeyoFI7s1cwUeWK",
+        "title": "podbean.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRqYVw98VU_HaZmn4wGc0beW8WmO6e7KOzYc55fbqCO0CdBhU730W7ZfbhHgzqWbXGi2V_OW2fHe7FaO1tHVmTSVbFe17KhTC7QuA-rU91kurflWQDCOuWKdW8TP3-VpUkNKk00iB6M_r-XNF0-HOmg8Qm1R1uVLxvIUABXm37QPTaxsTLNulcyKeo2fTB9FlbXKQs",
+        "title": "paragoncreativestudios.co.uk"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWwz3IZIXtxPL__mC3yRMDv2UdZ2E8-0nvWVogilactMtg5Co6esivR3DQjtzt_0ct43BaSYTuiuzHbtbe7O5aMzS-aS1JoyHZBPx2dPsGcXGojhMfxNc=",
+        "title": "adobe.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjS-Ve-9DgyVinqd1YajxaBXWogdBuGWz-TkyAAXY0GqbOvnYaJdeOLLzg4ySyO6_hQSzAPJnV9Frf6PI_KBZs8_etxpOt4L9PXIqbO63MP4GMChnAI-bJaIR3JQItKQbJZqSNmcOn6Um03RKm2ZgyvgL4Y8GIb_pt",
+        "title": "thepodcastconsultant.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXRegkjOIXu7W6UdHCjq_m3I-EEN_Mm451yV0bGK2uCqYQU6CLdkvJtTcvo4XkYkq8reywYzoPwpfdSePFxOtUEFWyKfTIEs6zCoUB8y5_ehUsDHcHg4GkxnHYN5zjWrWygT6XriNWpx_i6y91nImpcTyYalgRN4ofEQ==",
+        "title": "soundandgo.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUJsXhQ_eMiPOd_9DJT_Bu6y9SkdanhoIlYQdp5ViGHvxsw9M0OtIKKY9bAmipK3Q45v8xobUKjkygFavGSSevj4jfjI1WqT2cL7xxcVfq4u0lVvLVJgO0cstDI-nqUXnv3YzxlVI=",
+        "title": "capcut.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGdI-6gCB3rZgwdxFhonJK23m2qnNZxN5uxVW9HmK-k0AioYB5uhgIK8xO8ljJOvhE4duqiMcAaCrilE9z4LHZSwa_mfLS1ssbnJaG_hK39vFeDz5K8PTIgnFLGeslD8ynBkW3S-C91tAkKlA-4Gl_eUSn1VSFf4kfmG2AqV0xSHl6_26Jx6G5yT565QrfxRToqsWxtQ==",
+        "title": "audiobuzz.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPN-C7uNiV0_GUS0QnpZH3N2MfR-JyFldMbyocTtr-47cvBlFADrw_LCVXvvFnYYCRUkYGX3y9nxNiK-LAOGMMRe4GQrVlOHFlhi1bpUZDlJq79hHTz7UK-EywEJMmxlbHdmDnchDzStVE92N-rWIb-W2r5o9sNQ0=",
+        "title": "cutsio.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWW_P_vQD7_wGqTeSWAVEuWBFVUNbj6U0mH1XOeBVy-MeP8T3jxmrhDvC3t3brxuMu9FOSvbgo0moeHKfDIqDzGk92NmUhlUpWHXqLEjAn_RkhRcFcVH4xmjNz1MwijZrP-QKch5A2W_CQZpiUXbs=",
+        "title": "slashdot.org"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 672,
+        "endIndex": 831,
+        "text": "Audacity is ideal for beginners and those on a zero budget, providing a solid foundation for trimming interviews, adjusting levels, and applying basic effects."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 832,
+        "endIndex": 971,
+        "text": "However, its workflow can be more manual and it lacks advanced features like transcript-first editing or sophisticated collaboration tools."
+       },
+       "groundingChunkIndices": [
+        1
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 972,
+        "endIndex": 1131,
+        "text": "*   **GarageBand:** For Mac and iOS users, GarageBand is a free, native Apple application that serves as a capable podcast editor with a gentle learning curve."
+       },
+       "groundingChunkIndices": [
+        0,
+        2,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1132,
+        "endIndex": 1256,
+        "text": "It offers multi-track editing and built-in sound effects, making it a good entry point for beginners in the Apple ecosystem."
+       },
+       "groundingChunkIndices": [
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1257,
+        "endIndex": 1500,
+        "text": "*   **Adobe Podcast (formerly Adobe Enhance Speech & Studio):** This web-based suite of AI-powered tools offers impressive audio cleanup features, such as removing background noise and echo to make recordings sound professional with one click."
+       },
+       "groundingChunkIndices": [
+        3,
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1501,
+        "endIndex": 1667,
+        "text": "It also includes a browser-based studio for multitrack recording and editing, and allows for transcription-based editing where you can edit audio by editing the text."
+       },
+       "groundingChunkIndices": [
+        0,
+        3,
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1668,
+        "endIndex": 1773,
+        "text": "A free plan is available, though it has a 30-minute maximum duration for enhanced audio on the free tier."
+       },
+       "groundingChunkIndices": [
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1774,
+        "endIndex": 2044,
+        "text": "*   **DaVinci Resolve (Fairlight):** While known for video editing, DaVinci Resolve offers a professional-grade audio post-production suite (Fairlight) for free, making it an excellent option for video podcasters who need an integrated solution for both audio and video."
+       },
+       "groundingChunkIndices": [
+        1,
+        3,
+        8
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2045,
+        "endIndex": 2152,
+        "text": "*   **CapCut:** This free podcast maker allows users to record, edit, and publish audio and video podcasts."
+       },
+       "groundingChunkIndices": [
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2153,
+        "endIndex": 2291,
+        "text": "It offers tools for adjusting volume, pitch, speed, and quality, along with noise reduction and the ability to add music or sound effects."
+       },
+       "groundingChunkIndices": [
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2329,
+        "endIndex": 2438,
+        "text": "*   **Descript:** Descript is highly recommended for solo creators and those who want fast, speech-led edits."
+       },
+       "groundingChunkIndices": [
+        1
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2439,
+        "endIndex": 2604,
+        "text": "Its standout feature is transcript-based editing, where you edit the audio by editing the text transcript, and it can automatically remove filler words and silences."
+       },
+       "groundingChunkIndices": [
+        0,
+        2,
+        7,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2605,
+        "endIndex": 2747,
+        "text": "Descript also supports multitrack recording (up to eight microphone inputs) and can capture high-quality video and audio with multiple guests."
+       },
+       "groundingChunkIndices": [
+        10
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2748,
+        "endIndex": 2853,
+        "text": "It's a desktop app for macOS and Windows, with a free plan and paid tiers starting around \u00a312 per month."
+       },
+       "groundingChunkIndices": [
+        5,
+        10
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2854,
+        "endIndex": 3028,
+        "text": "*   **Adobe Audition:** Considered an industry-standard audio editing software, Adobe Audition is ideal for professional editors and those already using Adobe Creative Cloud."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3029,
+        "endIndex": 3154,
+        "text": "It offers advanced features like spectral editing, batch processing, loudness metering, and powerful audio restoration tools."
+       },
+       "groundingChunkIndices": [
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3155,
+        "endIndex": 3196,
+        "text": "It typically costs around \u00a320 per month."
+       },
+       "groundingChunkIndices": [
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3197,
+        "endIndex": 3375,
+        "text": "*   **Hindenburg Pro (formerly Hindenburg Journalist):** This software is specifically designed for spoken-word audio, making it excellent for journalists and narrative podcasts."
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3376,
+        "endIndex": 3493,
+        "text": "It focuses on voice clarity, professional-grade sound balancing, and loudness tools, with a one-time purchase option."
+       },
+       "groundingChunkIndices": [
+        1,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3494,
+        "endIndex": 3729,
+        "text": "*   **REAPER:** A full digital audio workstation (DAW) with a strong following, REAPER offers deep editing control and extensive plugin support at a fraction of the cost of many professional tools, often under most subscription prices."
+       },
+       "groundingChunkIndices": [
+        0,
+        2,
+        7,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3730,
+        "endIndex": 3802,
+        "text": "It's a good option for podcasters on a budget who want advanced control."
+       },
+       "groundingChunkIndices": [
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3803,
+        "endIndex": 3972,
+        "text": "*   **Alitu:** This podcast-specific tool offers an all-in-one workflow for recording, cleaning, editing, and publishing podcasts, aiming to simplify the entire process."
+       },
+       "groundingChunkIndices": [
+        0,
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3973,
+        "endIndex": 4027,
+        "text": "It's web-based and helps with automatic audio cleanup."
+       },
+       "groundingChunkIndices": [
+        0,
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4028,
+        "endIndex": 4207,
+        "text": "*   **Logic Pro:** A professional DAW for Mac users, Logic Pro offers detailed mixing, effects, and mastering capabilities, making it a strong choice for Mac-based audio podcasts."
+       },
+       "groundingChunkIndices": [
+        1,
+        4
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4304,
+        "endIndex": 4458,
+        "text": "Some services like Riverside.fm are popular for remote recording and editing, which is useful for podcasts with guests located anywhere, including the UK."
+       },
+       "groundingChunkIndices": [
+        1,
+        11,
+        12
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4526,
+        "endIndex": 4628,
+        "text": "For beginners, free options like Audacity or GarageBand (for Mac users) are excellent starting points."
+       },
+       "groundingChunkIndices": [
+        2,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4629,
+        "endIndex": 4745,
+        "text": "For those seeking a streamlined workflow and AI-powered assistance, Descript or Adobe Podcast are strong contenders."
+       },
+       "groundingChunkIndices": [
+        2,
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 4746,
+        "endIndex": 4844,
+        "text": "Professionals or those requiring advanced audio manipulation may opt for Adobe Audition or REAPER."
+       },
+       "groundingChunkIndices": [
+        5,
+        4
+       ]
+      }
+     ],
+     "webSearchQueries": [
+      "best audio editing software for podcasts UK",
+      "podcast editing software comparison",
+      "free podcast editing software",
+      "professional podcast editing tools",
+      "podcast audio workstation UK"
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 32,
+   "candidatesTokenCount": 1026,
+   "totalTokenCount": 1338,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 32
+    }
+   ],
+   "toolUsePromptTokenCount": 177,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 177
+    }
+   ],
+   "thoughtsTokenCount": 103,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "0vfdasGKEaf1v_gPsonVmAM"
+ }
+}

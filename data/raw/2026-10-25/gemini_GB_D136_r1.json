@@ -1,0 +1,469 @@
+{
+ "answer": "It appears there are two distinct software platforms named \"Vizard\" which could be the subject of your query. One is a **Virtual Reality (VR) software development platform** used primarily for research and business, and the other is an **AI-powered video clipping tool**.\n\nAssuming you are referring to **WorldViz Vizard, the VR software development platform**, which is known for building immersive and interactive VR applications, often utilising Python scripting and connecting to various VR hardware like headsets, motion trackers, and eye-trackers, here are some excellent alternatives:\n\n### For Comprehensive VR Software Development\n\n1.  **Unity**\n    Unity is a highly popular real-time 3D development platform widely used for creating VR games, simulations, and interactive experiences across a broad range of devices, including standalone headsets and PC-connected VR. It offers a powerful 3D editor, built-in artist and designer tools, and strong collaboration features. Unity supports OpenXR, an open standard for VR/AR/MR, which simplifies development across different hardware. It's a versatile choice with a large community and extensive learning resources, making it suitable for both beginners and experienced developers in the UK and globally.\n\n2.  **Unreal Engine**\n    Unreal Engine is renowned for its exceptional visual fidelity and real-time rendering capabilities, making it ideal for high-end VR experiences, training simulations, architectural visualisation, and product design where realism is paramount. It provides robust tools for building complex virtual environments with realistic physics. Like Unity, Unreal Engine also offers extensive support for various XR platforms and devices through OpenXR. Many professionals choose Unreal Engine for projects demanding the highest graphical quality and performance.\n\n3.  **OpenXR (as a Standard)**\n    While not a standalone development tool itself, OpenXR is a crucial, royalty-free open standard that provides a common set of APIs for developing XR (VR, AR, MR) applications. Both Unity and Unreal Engine support OpenXR, allowing developers to create applications that can run across a wide range of devices without significant reworking. Adopting an OpenXR-first approach in your development can help future-proof your applications and ensure broader hardware compatibility.\n\n### For Web-Based VR Experiences\n\nIf your interest lies in creating VR experiences accessible directly through web browsers without requiring app store downloads, WebXR frameworks are a strong alternative:\n\n*   **A-Frame:** An open-source web framework built on HTML, A-Frame is particularly user-friendly for beginners and well-suited for creating convenient WebVR and WebAR experiences.\n*   **Babylon.js & Three.js:** These are powerful JavaScript libraries and 3D engines that enable the creation of animated 3D graphics directly within a web browser using WebGL. They offer extensive features for more complex web-based immersive experiences, though they may require a solid understanding of 3D graphics concepts.\n\n### If you were referring to Vizard as an AI Video Clipping Tool\n\nIf you were instead looking for an alternative to **Vizard AI, the video repurposing tool** that generates short, captioned clips from long-form video content, here are some popular options:\n\n*   **OpusClip:** Often recommended for clipping long videos at volume and includes virality scoring.\n*   **Descript:** Offers powerful AI tools, including text-based video editing, which allows you to edit video by editing its transcript.\n*   **Klap:** Specialises in turning long videos into short clips and offers scheduling features.\n*   **CapCut:** A popular mobile-first manual editor that also features auto captions and templates.\n*   **VEED.io:** A browser-based editor known for good automatic subtitles and team features.",
+ "citations": [
+  "https://www.worldviz.com/vizard-virtual-reality-software",
+  "https://www.worldviz.com/virtual-reality-software-features",
+  "https://www.worldviz.com/virtual-reality-academic-research",
+  "https://www.guideflow.com/blog/vr-development-software",
+  "https://learn.unity.com/pathway/vr-development",
+  "https://docs.unity3d.com/2023.1/Documentation/Manual/VROverview.html",
+  "https://www.perforce.com/blog/p4/virtual-reality-software-development",
+  "https://unity.com/glossary/openxr",
+  "https://www.youtube.com/watch?v=oRnvRJqgaGQ",
+  "https://learn.unity.com/course/create-with-vr",
+  "https://program-ace.com/blog/vr-development-in-unreal/",
+  "https://www.gartner.com/reviews/product/worldviz-vizard/alternatives",
+  "https://www.unrealengine.com/xr",
+  "https://www.khronos.org/openxr/",
+  "https://developers.meta.com/vr/documentation/unreal/unreal-engine-basics/",
+  "https://www.headmountedvr.com/post/unreal-engine-vr-guide-creating-immersive-and-high-performance-experiences-with-the-head-mounted-vr",
+  "https://developers.meta.com/vr/documentation/native/pc/dg-openxr/",
+  "https://wonderlandengine.com/news/top-5-webxr-frameworks-comparison/",
+  "https://globaldigitalmojo.com/webxr-3d-frameworks-and-webar-platforms/",
+  "https://www.usefastlane.ai/review/vizard",
+  "https://www.anygen.io/showcase/vizard-ai/index.html",
+  "https://pexo.ai/blog/vizard-ai-review-and-alternatives-9195",
+  "https://www.aitoolstribe.com/what-is-vizard/",
+  "https://jupitrr.com/alternatives/vizard-alternatives",
+  "https://snipin.ai/blog/vizard-ai-alternatives",
+  "https://play.google.com/store/apps/details?id=ai.vizard.android",
+  "https://autofaceless.ai/blog/vizard-ai-alternatives"
+ ],
+ "raw": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "It appears there are two distinct software platforms named \"Vizard\" which could be the subject of your query. One is a **Virtual Reality (VR) software development platform** used primarily for research and business, and the other is an **AI-powered video clipping tool**.\n\nAssuming you are referring to **WorldViz Vizard, the VR software development platform**, which is known for building immersive and interactive VR applications, often utilising Python scripting and connecting to various VR hardware like headsets, motion trackers, and eye-trackers, here are some excellent alternatives:\n\n### For Comprehensive VR Software Development\n\n1.  **Unity**\n    Unity is a highly popular real-time 3D development platform widely used for creating VR games, simulations, and interactive experiences across a broad range of devices, including standalone headsets and PC-connected VR. It offers a powerful 3D editor, built-in artist and designer tools, and strong collaboration features. Unity supports OpenXR, an open standard for VR/AR/MR, which simplifies development across different hardware. It's a versatile choice with a large community and extensive learning resources, making it suitable for both beginners and experienced developers in the UK and globally.\n\n2.  **Unreal Engine**\n    Unreal Engine is renowned for its exceptional visual fidelity and real-time rendering capabilities, making it ideal for high-end VR experiences, training simulations, architectural visualisation, and product design where realism is paramount. It provides robust tools for building complex virtual environments with realistic physics. Like Unity, Unreal Engine also offers extensive support for various XR platforms and devices through OpenXR. Many professionals choose Unreal Engine for projects demanding the highest graphical quality and performance.\n\n3.  **OpenXR (as a Standard)**\n    While not a standalone development tool itself, OpenXR is a crucial, royalty-free open standard that provides a common set of APIs for developing XR (VR, AR, MR) applications. Both Unity and Unreal Engine support OpenXR, allowing developers to create applications that can run across a wide range of devices without significant reworking. Adopting an OpenXR-first approach in your development can help future-proof your applications and ensure broader hardware compatibility.\n\n### For Web-Based VR Experiences\n\nIf your interest lies in creating VR experiences accessible directly through web browsers without requiring app store downloads, WebXR frameworks are a strong alternative:\n\n*   **A-Frame:** An open-source web framework built on HTML, A-Frame is particularly user-friendly for beginners and well-suited for creating convenient WebVR and WebAR experiences.\n*   **Babylon.js & Three.js:** These are powerful JavaScript libraries and 3D engines that enable the creation of animated 3D graphics directly within a web browser using WebGL. They offer extensive features for more complex web-based immersive experiences, though they may require a solid understanding of 3D graphics concepts.\n\n### If you were referring to Vizard as an AI Video Clipping Tool\n\nIf you were instead looking for an alternative to **Vizard AI, the video repurposing tool** that generates short, captioned clips from long-form video content, here are some popular options:\n\n*   **OpusClip:** Often recommended for clipping long videos at volume and includes virality scoring.\n*   **Descript:** Offers powerful AI tools, including text-based video editing, which allows you to edit video by editing its transcript.\n*   **Klap:** Specialises in turning long videos into short clips and offers scheduling features.\n*   **CapCut:** A popular mobile-first manual editor that also features auto captions and templates.\n*   **VEED.io:** A browser-based editor known for good automatic subtitles and team features."
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0,
+    "groundingMetadata": {
+     "searchEntryPoint": {
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCGBMzy6KjbS7RaRwgb7cqlZGyYbYuwD2sqaidebaA173XwkVjvdtRPWwMysRF3aXK6lg_FFZ2avE-FjMiSgZHuKZF7IpfSyc9ZxIRQ_HNzBlMOG3HlOtlmENs2bXYLzgddVWP3ju0AA-eaKb8ISSG1BbwYmkvY3m249PyuGC82uC3wZjEGMfG5h7N7693-BXRBn78M_LGc7w9c4YjNnpwW48Dy4bJLEwuKuh3xJ5i4rcYyshowIg=\">VR development platforms for research and simulation</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5lZTEMP-Rk_cFRE1kOdY5_b_eLzMKFy0CAFPCL0zsl-6utKides7WzmDLUDOWpO2nhEQfW9lgGKzNsqnVaQjfl4u0iPqncxGjKc9vO7dKsdHc_iuf0c1o4gJkMsX-YeOy8oHWGV4DiFhpZqFehfzumgxbbUTIUi7DGrydK4IjxWqMITrlRTz69_jGjQRkD4p75-Rm0hyR3gFl_t0gxOyXnEk=\">Unreal Engine for VR development</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1uvuuqfwmAR-ehJe_pClkxUa3hjEyCX37rctMNBAj76wBJL0TmxQVsiVQb_DFhavLeeEZAVd_7-w5xLDOGhCvUdYohCH4ZVTLazVE-sJZ61KrrcLpGICJ_WmdW-tAxyuF5LQoWGM-NLaFo8RrGTEnVSpKVVIzF7gjRQUO9aupSxP9nG970kAX6uMqy9K5HfROCIQ3cg==\">Vizard key features</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOx7djANuqq-QyAgLtHZnCZxoRSlrn5ueqaWy3xd0I0iFB9VylLSqscXGrl6CwGUvf3ZomkWWCmRnkBlQdfhLuonWUxnRpgKv5cWDz_idNGqxxqH3KyR4OvmpRGBDXNm-ryjfX4EaRIx-rJuDr8L3s75bKiYmomRPY5Y2ONwwR1J1uRruWt3tTn9oWasIrezAywOjWfojIDoM=\">what is Vizard used for</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOCuizFrVlibgpdRFMaWCUTRKUraP911YKA20waul-1Cb0TIYmWb3WbVXTabBMtfAwkcRSVw6OEMGp73kMii94bOYJDK_fDTWNBpsl88Te0yE78srsRC3-j1Fq_ECgbBUQKMu6IzBj1kAohfHbRmnRelrlrOTI1Qkmqizm4F6vQ_oIRkknMBazfBcSDJ4X9wPrxI1nIyaWLBQRoTsxf2Ie0X3rzGEjsg==\">alternatives to Vizard VR development</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOHJKzuqjFRQqlad8HDBy-EFRYRMYLmWdeX_0JMM0tnyTVurr13MDAj00S6FIOGirFcN4bSibrKz63NDBylng1yaavudToh4d67DJU5DJsSTRMXYX8U5JQMbpQoBf0ENZ_CvHMe6pn1yzOghjLEyTNcisLUHEYiglPPyktANDTg-lczbxyN29FgltrKHT3sXOyyCyZZJQmMW8t0nEJPFv1cVwcY4w_\">webxr frameworks alternatives Vizard</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_VzEWl626ddb5Nmi7ISsSnCj_DAIBP7whO6YyvSyANXZ7LwgrLh2bwEAA_ApDWAk_vfp3kTvuTsuJhuTTe9N7Rmw4SHZ7rGbp5VAOGaB8hW1V-1BAPsnTrEVs4O-ysUW_IeJl9kW59L3h_ZRIAzoaxHhBzoWMPiD6b080FnG-asGHJeL92lhjjG4NzR1Qxy0wqY-S4wu1ByaE\">OpenXR development tools</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwPfvZRFTWKZCWAutSr-Q1-CTZdkUBXAryY5y-6lT2lTtsJfDkeAfuU3IEJe2GrxTuxzP-4nF948g0hnkZkc4u6Ypx7CmjBpiiIaj69xTinNhV8v7Zpl378L2G_2FW0nwBpuHIHapp6ImWZaVYsJ_VWO4MKwPkN-ZY5mk5RD0XTlUaQUb_oYiVjx1QE9gdBJGKk7STaCJ6ybzBPr9c\">Unity 3D for VR development</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE45sX1rZExINDvYMBmp5O00Tx6JT8lq7g6qvAil9E6S-My8nBgPcJjcUp46G8pFlxmDqehCpZ6luWTK-CrFc_Ib1L0LrTXp_9Nhzo03TmJv3fBV_-OCaIfAtk7_iB6H6Kg5dtj6SVKfU6QjfaWZpT6Jhs-dP7ebn4Rm-4E46Ok6n1fQt3XohoURm-d9ZXkG3hk3TIGe4pRkbsjbiweRc8QP6_sl2SbcDry9wxNPg=\">Python VR development alternatives to Vizard</a>\n  </div>\n</div>\n"
+     },
+     "groundingChunks": [
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU83Pw3VUBoWDcf5jnQ5L8ZbShCubsnRkJ-VJbb_rhCzczIGqevn57JNi2M695fKJUj1Qa37KjXRyoW09E3w1FdyOL7dvWq30UfC23FEiXYnvI5I2KXZpIgcEniDb3YpM636DBkgWwcxJAmM6N5_zIMEE=",
+        "title": "worldviz.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrgZaggPYceO4XdzTmjPMmsc6acasCz-zYIA7UOqlUq1i3s7SGLfdhmiszIBMLWSAdlNRzjoJY5uSeC_rt9ABJXq9ZajSzVeDTfsV2Npacx7Enwb_vJ-JGyF7E_W7Hq3Bqqxmq3wu-0FwbVwQCyi9Tfpq5fA==",
+        "title": "worldviz.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ-mXdoMGmFBmOJxTL-eewrvtggbuQPYu41J5O6kEEyjcbv0qKCK0mfSelBT53b2J-Q05iaX37EklqHrdPogQyUUOF5Wj8fTNJ9CCekXVm8PeRBpvXjP-c62qXH3J_XmT47KeYbCs9DoETIW15PjLvLet0lg==",
+        "title": "worldviz.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFntzCA1inUmOATR5Fj7nIeJIIaDMX3gVDxxbCPIWW0MZAQblL2c6TX-rIv-rqTgX0HDsrF5rHEWgEzsOWVuInTYTnwec-sCqahVOoVvyIYDzyoKJh-NwulTodERmnwBuqAarKjNlRv05hH3SJa7DBn",
+        "title": "guideflow.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8IJwlBCbkEsa9YeYXRQbcCw24XvTKp9LmW5sMDosO7z5AsaHJ2-BzZdypVT2a5nKMMGnr6AsNwp_wkBSdR0w2gd7H7a7KI4qgTo2t6uTS7wy1NfyLPiUKBGOZrvbdfBWzN_b4R1tPkg==",
+        "title": "unity.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-XUzVbI1RSh6HlIoidlOhlWcH6cjlqsa6nn-EJRDZ1KAZkwJdRhE-TeQEOgf0uSLenh8kCmeBVi-LaNRZ4XNnnQwBp0R74BBZwmIQLggpzZuSZP_LbegK6tYIP0ORFiK35-RM_eFhl3AwwGYEKASvzq3_kxXUC-lKcR2dQd8=",
+        "title": "unity3d.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyF9qhtkIICm5QreShRGsFZVWUaUpikRYcjv4F5QCH2S_9CIWqyJUqxSHcs4aY8yTlVZ28hNC65YnVf40DQrzvriSSKTiQd48uujcEjNOIMvlxbhdFZvcaI8o4fd7S9Z5XfzyjyxL5rklkzpJ1pB6nFAxyIekXKlFxKQjghLjS",
+        "title": "perforce.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOn5pPd3HUQTmOnuVhCfy9Tg8SRLd3qEIrrNTE0DlK8MR__gYoT-BHvMC_NQqXTUJIaMFPQZJG9gmOJb0HRQvnfS2cj2eW7oPR8zAUEuxLyRlq5CcpjI1XF16q",
+        "title": "unity.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTKzOFQEJOpaSD_GUOpCOIpMWgvh3XD_iBi_L2SWp-SeXVogks0dxyrxu5CrPOGTdJrjwPsLmH0gIRn2KAI9OPu6J-gYKqCMWgz41oH3KY6JUwOX1xJ3ubRaHMaxUyjHEm2qoxQA==",
+        "title": "youtube.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4I2Clg19uliO8xqYjkB5kDjntvbDHUEkvnXszShl3jtT6o5Y1j0wN1jRxVMWCCAh3LkQROXVLBc5SG0FcIPTDg7AXGH13Vf8e3w9IuesJa2380h5eftJZrgBehWvy8EwpH8DuPdmU",
+        "title": "unity.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5lOwCVf1xA5F0Wn9V_AMtWaL089brfvUcRfOx_5I1hsD8uS4H_XlWDS5-UIBEFsvB7QgX9GcArPM4Eqhl92SExux026_SH4B_yCaBFNW6_SRyAudHHOqMOEajsUSMpS6MCAGt7-iWPCOa2dz3AybH",
+        "title": "program-ace.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzHKIhiDMVtrrM3NwWK4JbGHk6kBIdvtUu61HCtXsQWfFkD3s6E7sWQxd1VmNdU8pqfKvvVHyRyfzFDMVRNee5T5erXCOjlEQ6hoU8KyN8VGOzAcLSvhjL47dM2XSGNjdi4cJs_cFr5DsFZLuhzy0pEAY38cpBGJlf3axRJHY=",
+        "title": "gartner.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7qLy4Ma12ImIqaofVYoPtnyWaV0bBl-doSeBkxHAcQ5h-oWRtDwRs43n0srT2cji8g5p09asMdRxEYK3PWT4ut3mA8pVrvludRq0YGs682wo9RZ4_qt2oDw==",
+        "title": "unrealengine.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvbenfFbpNZtyCi9e0YNYLVj_AUUD6BNN3ZoGXFKCwGKSIG39d41mMdTK_B4YGIQ9AxXbpWd_EEP0dvam5ISWfe_Sfkt4cci_30zDxbi7DYKzJt5QiptxeSA==",
+        "title": "khronos.org"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpr98mchN4HKwW_sWUlRdJ_w_oj8xgB9ZH_NL8wTcnNEw4_jEQBX0DWTC-bzW4ZnN43cwUEtbwkjWtSLH-eJLI4whU9ByA-nYxMY4_UeKfUcnq5MKzA3zGulMMjRnqxSsCNnbWOsW9BlTXUV4yo3TxAPxlVMMfLPtgkYNiLs9VhJVu1g==",
+        "title": "meta.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-x-fgUG9s078Nbj9f-6osa17bCbNPA5E0M9WVxS4I1BSflkV7oJksU9YkeBLSvr7BoXFtkxAKnv06-NUTxRZwiGLoJcO8V_Nko2F8Nj6l5xFjH13Jiwhtm7OSgB1Zi9AYjslGrNorJCzRQxz4vYo1Z9gNARaxA3CS1jid_0VIqzplhkMGf4tv0EI96vGosGQAdR1HGSlrzm2r-EUrj3jjGjXbIqyDAcILtIqbnXbeHYpPg8MaTIl6KToAOxFAldgd",
+        "title": "headmountedvr.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWNEFdic5i6zPnT9PZe5JWOAzP9XoL0gZ46xl99FpaabUPJSD6XWjIpYIK9fdPPm-DmdttpobU3iSW3S3vqR7MBghH0Gi2Fj-Y7NoSYIiVLTlgVO-ODpc1yyPF7SoYHrwGZ7rg7kgsWFdmenrp8Wv_TdjmG16IIPt8SMw=",
+        "title": "meta.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfENVGmt8zqxnIG-5YsFrhCZ9x6FIoSX_NZkntnD-0-gPO6NXdc10T5IsbZq83k_KGEo5lK8v9HGMjrKiNTqXF0uciXCuAZCh9BKXOoBv5eVrYJWqNBsNTYfBEJhzsRfC1zVxJXp-D3nKgyhu9ALzimoctQgly6TboghKtqm0=",
+        "title": "wonderlandengine.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAu6JR1LpZ1h_b9QSOiBgNPKUuJrYQhGNtZdKB0tI4NR8gFbI_V3USJTl0Kd3_jtz7RPZ1YvJe7gsNN4UK_GiN6F9WYJeOjCS6SCqYYVAIAAudg0q8aYSMmDkgv4wDsHTfGJVd8YiNnaE_d5phS3NeQV2uBUm8PaqoSDT7_XGoBw==",
+        "title": "globaldigitalmojo.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuK4WjU2xmXiomoR95ZExmORVEDKO7WE2kAFaNJhRLVqrtM5EIfZ-cIwX2JND89VxFBv0Q2t6nwK7kd1nGI2NreIXGi0NuMyyMoSgE-ueeLgfY2NKpYlPgPCrKBsUSJWTrtQ==",
+        "title": "usefastlane.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZyKN4VjsWr_plSCSs_YiCZzOr8qIPDihnikIx9JIwplpL16KIH1glyrmGpSaQ3sa5g13VJSsKvVtpYn3waKLKNb1-Qbkg8a8odJ5sVqiRJRN_djYL8mZnbtc6fwReJE56_tFQsBV8YdMXifx2",
+        "title": "anygen.io"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOXqqdYY-A4dOybLWkNDOVFr_2yFJaDyCp4ZP-morGh1nkjDy9hWnXYUhQ4mMQ-oSwRLGyIf-iaJGjHJbV8J6cCKnp3O_Zub5W_MzQs1Cmy9Dl_yhxqe2iYeYvPcSjC9nV90ZyYm9l0mJUPZglrC2vo8K_EQQ=",
+        "title": "pexo.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP0FzqsrtonXNBywz_7B71m-dmyQnOFAK8a754O5WHpYUanOLCednD7uOjfH2P368B59xdB77l3vnyxbxls6_DAnSb2AtwmftrZlGkdZBazVWdiLomEffNVofu_s-rBprWOMR9b_E=",
+        "title": "aitoolstribe.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKdBdIjz-YRjomthXtQ0veMBSJKi6zOVxSmjUSJfOEc6RuGzIAvCJVicwTTKGBLjY03Pm_UVPYeWKhnmpArD3aa-h7Vd4GVnchte-YKRv3i8y7MvbP38l1seqEDJgDoDvqwi8F0RGQjK4PySDbzA==",
+        "title": "jupitrr.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-N8wx5V0Xg0SdwPF5CmWQ3RyknZj0l_usntUh4pN7wiusvPTQE2JQbS4DcfJYwJIJRPTD1T7TEWFyuETH2Mlj3sRK3YA7z4tn3Q-lLKVkIJ4o-exV7nT2mcRl1Eit1ocLiWdY9JC4",
+        "title": "snipin.ai"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcFiZjbz_7OR9jezV-v4jyBn84ZJY8wb232DJLDfId3nO0GtGTdPX-qkM7hCS0BHsbi30kcqlJCuQz0YjB5VX_TEmWLQ2bMkLm1wm7vng_cUynbmXi1GUlX41eDcOddBqJ_bAemM6TNHdgHBvcVoylJmw__fVMG8_K",
+        "title": "google.com"
+       }
+      },
+      {
+       "web": {
+        "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhbWR81Q_u1WT8849sdga6D_ucAD8PJiN_TUbfhXxiY5Fc1URxWranPqkbRyESTaBAHuKleeI-3cB2vjNShQVws6DQ8vTEsskln0Wgk6kk9r_0aYixwLWr7mb-ETxx6L3B_82KnisD0MIkNMvD",
+        "title": "autofaceless.ai"
+       }
+      }
+     ],
+     "groundingSupports": [
+      {
+       "segment": {
+        "startIndex": 273,
+        "endIndex": 552,
+        "text": "Assuming you are referring to **WorldViz Vizard, the VR software development platform**, which is known for building immersive and interactive VR applications, often utilising Python scripting and connecting to various VR hardware like headsets, motion trackers, and eye-trackers"
+       },
+       "groundingChunkIndices": [
+        0,
+        1,
+        2
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 644,
+        "endIndex": 876,
+        "text": "**Unity**\n    Unity is a highly popular real-time 3D development platform widely used for creating VR games, simulations, and interactive experiences across a broad range of devices, including standalone headsets and PC-connected VR"
+       },
+       "groundingChunkIndices": [
+        3,
+        4,
+        5
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 878,
+        "endIndex": 979,
+        "text": "It offers a powerful 3D editor, built-in artist and designer tools, and strong collaboration features"
+       },
+       "groundingChunkIndices": [
+        6
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 981,
+        "endIndex": 1089,
+        "text": "Unity supports OpenXR, an open standard for VR/AR/MR, which simplifies development across different hardware"
+       },
+       "groundingChunkIndices": [
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1091,
+        "endIndex": 1259,
+        "text": "It's a versatile choice with a large community and extensive learning resources, making it suitable for both beginners and experienced developers in the UK and globally"
+       },
+       "groundingChunkIndices": [
+        3,
+        8,
+        9
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1266,
+        "endIndex": 1529,
+        "text": "**Unreal Engine**\n    Unreal Engine is renowned for its exceptional visual fidelity and real-time rendering capabilities, making it ideal for high-end VR experiences, training simulations, architectural visualisation, and product design where realism is paramount"
+       },
+       "groundingChunkIndices": [
+        10,
+        11,
+        3
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1531,
+        "endIndex": 1620,
+        "text": "It provides robust tools for building complex virtual environments with realistic physics"
+       },
+       "groundingChunkIndices": [
+        10
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1622,
+        "endIndex": 1729,
+        "text": "Like Unity, Unreal Engine also offers extensive support for various XR platforms and devices through OpenXR"
+       },
+       "groundingChunkIndices": [
+        12,
+        13
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 1731,
+        "endIndex": 1839,
+        "text": "Many professionals choose Unreal Engine for projects demanding the highest graphical quality and performance"
+       },
+       "groundingChunkIndices": [
+        10,
+        14,
+        15
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2053,
+        "endIndex": 2214,
+        "text": "Both Unity and Unreal Engine support OpenXR, allowing developers to create applications that can run across a wide range of devices without significant reworking"
+       },
+       "groundingChunkIndices": [
+        13,
+        16,
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2216,
+        "endIndex": 2351,
+        "text": "Adopting an OpenXR-first approach in your development can help future-proof your applications and ensure broader hardware compatibility"
+       },
+       "groundingChunkIndices": [
+        7
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2561,
+        "endIndex": 2741,
+        "text": "*   **A-Frame:** An open-source web framework built on HTML, A-Frame is particularly user-friendly for beginners and well-suited for creating convenient WebVR and WebAR experiences"
+       },
+       "groundingChunkIndices": [
+        3,
+        17,
+        18
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 2921,
+        "endIndex": 3070,
+        "text": "They offer extensive features for more complex web-based immersive experiences, though they may require a solid understanding of 3D graphics concepts"
+       },
+       "groundingChunkIndices": [
+        17,
+        18
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3139,
+        "endIndex": 3297,
+        "text": "If you were instead looking for an alternative to **Vizard AI, the video repurposing tool** that generates short, captioned clips from long-form video content"
+       },
+       "groundingChunkIndices": [
+        19,
+        20,
+        21,
+        22
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3331,
+        "endIndex": 3431,
+        "text": "*   **OpusClip:** Often recommended for clipping long videos at volume and includes virality scoring"
+       },
+       "groundingChunkIndices": [
+        23,
+        24
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3433,
+        "endIndex": 3569,
+        "text": "*   **Descript:** Offers powerful AI tools, including text-based video editing, which allows you to edit video by editing its transcript"
+       },
+       "groundingChunkIndices": [
+        25,
+        23,
+        24
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3571,
+        "endIndex": 3667,
+        "text": "*   **Klap:** Specialises in turning long videos into short clips and offers scheduling features"
+       },
+       "groundingChunkIndices": [
+        23,
+        26
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3669,
+        "endIndex": 3768,
+        "text": "*   **CapCut:** A popular mobile-first manual editor that also features auto captions and templates"
+       },
+       "groundingChunkIndices": [
+        25,
+        23,
+        24
+       ]
+      },
+      {
+       "segment": {
+        "startIndex": 3770,
+        "endIndex": 3862,
+        "text": "*   **VEED.io:** A browser-based editor known for good automatic subtitles and team features"
+       },
+       "groundingChunkIndices": [
+        23,
+        24,
+        26
+       ]
+      }
+     ],
+     "webSearchQueries": [
+      "what is Vizard used for",
+      "Vizard key features",
+      "alternatives to Vizard VR development",
+      "Unity 3D for VR development",
+      "Unreal Engine for VR development",
+      "OpenXR development tools",
+      "webxr frameworks alternatives Vizard",
+      "VR development platforms for research and simulation",
+      "Python VR development alternatives to Vizard"
+     ]
+    }
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 31,
+   "candidatesTokenCount": 846,
+   "totalTokenCount": 2940,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 31
+    }
+   ],
+   "toolUsePromptTokenCount": 392,
+   "toolUsePromptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 392
+    }
+   ],
+   "thoughtsTokenCount": 1671,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "sffdaoTXHfL9v_gPpaXWyAM"
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://runway.com/product/ai-video-editor",
+   "title": "AI video editor: edit any video with AI"
+  },
+  {
+   "position": 2,
+   "link": "https://www.canva.com/video-editor/ai/",
+   "title": "AI Video Editor - Create & Edit Videos with AI"
+  },
+  {
+   "position": 3,
+   "link": "https://www.reddit.com/r/artificial/comments/1p843l8/are_there_any_ai_video_generators_that_allow_you/",
+   "title": "Are there any AI video generators that allow you to modify real videos?"
+  },
+  {
+   "position": 4,
+   "link": "https://www.quora.com/What-are-the-recommended-AI-video-editing-tools-for-seamless-video-editing",
+   "title": "What are the recommended AI video editing tools for seamless ..."
+  },
+  {
+   "position": 5,
+   "link": "https://www.reddit.com/r/artificial/comments/1ntrxj5/out_of_all_the_ai_video_editing_tools_out_there/",
+   "title": "out of all the ai video editing tools out there, which one do ..."
+  },
+  {
+   "position": 6,
+   "link": "https://www.adobe.com/products/firefly/features/ai-video-editor.html",
+   "title": "AI Video Editor | Online Video Editing"
+  },
+  {
+   "position": 7,
+   "link": "https://invideo.io/make/ai-video-editor/",
+   "title": "Free AI Video Editor: Edit Videos with AI"
+  },
+  {
+   "position": 8,
+   "link": "https://www.kapwing.com/ai",
+   "title": "AI Video Editor \u2014 Free. Online. Fast."
+  },
+  {
+   "position": 9,
+   "link": "https://vizard.ai/tools/ai-video-editor",
+   "title": "Free AI Video Editor: Edit Videos Online, No Skills Needed"
+  },
+  {
+   "position": 10,
+   "link": "https://www.youtube.com/watch?v=584ujZ6uZaM",
+   "title": "How I Edit Videos with AI - Fully Automatic (Free)"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [
+  {
+   "question": "Can AI edit already made videos?"
+  },
+  {
+   "question": "How to edit an existing video with AI?"
+  },
+  {
+   "question": "Can ChatGPT edit videos for you?"
+  },
+  {
+   "question": "Is there an AI that I can use to edit videos together?"
+  }
+ ],
+ "raw": {
+  "searchParameters": {
+   "q": "Is there an AI that can edit an existing video?",
+   "gl": "us",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "AI video editor: edit any video with AI",
+    "link": "https://runway.com/product/ai-video-editor",
+    "snippet": "Runway's AI video editor edits real footage with AI. Change backdrops, relight scenes, swap time of day or clip long takes. Built on Aleph. Try free.",
+    "position": 1
+   },
+   {
+    "title": "AI Video Editor - Create & Edit Videos with AI",
+    "link": "https://www.canva.com/video-editor/ai/",
+    "snippet": "Turn text into videos fast with Canva's AI video editing tools. Edit, enhance, & share videos from the same dashboard. Video generation made easy.",
+    "position": 2
+   },
+   {
+    "title": "Are there any AI video generators that allow you to modify real videos?",
+    "link": "https://www.reddit.com/r/artificial/comments/1p843l8/are_there_any_ai_video_generators_that_allow_you/",
+    "position": 3
+   },
+   {
+    "title": "What are the recommended AI video editing tools for seamless ...",
+    "link": "https://www.quora.com/What-are-the-recommended-AI-video-editing-tools-for-seamless-video-editing",
+    "position": 4
+   },
+   {
+    "title": "out of all the ai video editing tools out there, which one do ...",
+    "link": "https://www.reddit.com/r/artificial/comments/1ntrxj5/out_of_all_the_ai_video_editing_tools_out_there/",
+    "snippet": "what keeps you glued to it? what do you dislike about it?\n\nwould love to know your answers!",
+    "date": "1 year ago",
+    "position": 5
+   },
+   {
+    "title": "AI Video Editor | Online Video Editing",
+    "link": "https://www.adobe.com/products/firefly/features/ai-video-editor.html",
+    "snippet": "In the Firefly AI video editor, you can trim footage, upload clips, and generate new clips that fit your existing footage.",
+    "position": 6
+   },
+   {
+    "title": "Free AI Video Editor: Edit Videos with AI",
+    "link": "https://invideo.io/make/ai-video-editor/",
+    "snippet": "Use the invideo agent to make changes to your video clips with text commands. Type a command to delete scenes, mute audio, change voiceover, adjust video ...",
+    "position": 7
+   },
+   {
+    "title": "AI Video Editor \u2014 Free. Online. Fast.",
+    "link": "https://www.kapwing.com/ai",
+    "snippet": "Kapwing's AI Video Editor brings automated editing and AI generation together in one browser-based workspace. Edit your existing footage, generate new ...",
+    "rating": 4.9,
+    "ratingCount": 5231,
+    "position": 8
+   },
+   {
+    "title": "Free AI Video Editor: Edit Videos Online, No Skills Needed",
+    "link": "https://vizard.ai/tools/ai-video-editor",
+    "snippet": "AI video editing in your browser: auto captions, smart clipping, resizing and translation. Turn long videos into ready-to-post content, free.",
+    "position": 9
+   },
+   {
+    "title": "How I Edit Videos with AI - Fully Automatic (Free)",
+    "link": "https://www.youtube.com/watch?v=584ujZ6uZaM",
+    "snippet": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough) \u00b7 I Tried The LAZIEST Way to Make Money With AI \u00b7 Best AI Video Editing ...",
+    "date": "4 months ago",
+    "position": 10
+   }
+  ],
+  "peopleAlsoAsk": [
+   {
+    "question": "Can AI edit already made videos?"
+   },
+   {
+    "question": "How to edit an existing video with AI?"
+   },
+   {
+    "question": "Can ChatGPT edit videos for you?"
+   },
+   {
+    "question": "Is there an AI that I can use to edit videos together?"
+   }
+  ],
+  "relatedSearches": [
+   {
+    "query": "Is there an ai that can edit an existing video free"
+   },
+   {
+    "query": "Is there an ai that can edit an existing video online"
+   },
+   {
+    "query": "AI video editor online free"
+   },
+   {
+    "query": "Is there an ai that can edit an existing video reddit"
+   },
+   {
+    "query": "AI video editor free"
+   },
+   {
+    "query": "Best AI tools for video editing free"
+   },
+   {
+    "query": "Upload video AI editor"
+   },
+   {
+    "query": "Automatic video editor AI"
+   }
+  ],
+  "credits": 1
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "organic": [
+  {
+   "position": 1,
+   "link": "https://www.reddit.com/r/ChatGPTPro/comments/12tu9rd/question_does_anyone_know_of_an_ai_or_chatgpt/",
+   "title": "Does anyone know of an AI or ChatGPT tool to create ..."
+  },
+  {
+   "position": 2,
+   "link": "https://www.youtube.com/watch?v=cGcCzHyV9Ho",
+   "title": "How to Generate SRT Captions for Your Video with ChatGPT"
+  },
+  {
+   "position": 3,
+   "link": "https://perso.ai/blog/can-chatgpt-add-subtitles-to-videos-automatically",
+   "title": "AI Subtitle Generator for Any Video (Not ChatGPT)"
+  },
+  {
+   "position": 4,
+   "link": "https://www.youtube.com/watch?v=4wnp6g2Lm0o",
+   "title": "How to Create ACCURATE Subtitles From Videos Using Only ..."
+  },
+  {
+   "position": 5,
+   "link": "https://www.facebook.com/groups/698593531630485/posts/770980657725105/",
+   "title": "how to generate subtitles from youtube videos with chatgpt?"
+  },
+  {
+   "position": 6,
+   "link": "https://www.kapwing.com/resources/using-chatgpts-ai-to-create-edit-and-translate-subtitles/",
+   "title": "Using ChatGPT's AI to Create, Edit, and Translate Subtitles"
+  },
+  {
+   "position": 7,
+   "link": "https://www.descript.com/tools/subtitles-generator",
+   "title": "Subtitle Generator: Free Audio to Subtitles"
+  },
+  {
+   "position": 8,
+   "link": "https://community.openai.com/t/automatically-generating-subtitles-is-it-possible/539059",
+   "title": "Automatically Generating Subtitles: Is it Possible? - API"
+  },
+  {
+   "position": 9,
+   "link": "https://clipchamp.com/en/subtitle-generator/",
+   "title": "Auto subtitle generator online | Free in over 100 languages"
+  },
+  {
+   "position": 10,
+   "link": "https://www.youtube.com/watch?v=wgHGM_1B0IA",
+   "title": "Get Free Subtitle Files In Minutes: Using YouTube And ChatGPT!"
+  }
+ ],
+ "answer_box": null,
+ "ai_overview": null,
+ "related_questions": [
+  {
+   "question": "How to use ChatGPT for captions?"
+  },
+  {
+   "question": "Can ChatGPT add subtitles to video?"
+  },
+  {
+   "question": "Is there a way to auto-generate subtitles?"
+  },
+  {
+   "question": "How to generate AI subtitles for free?"
+  }
+ ],
+ "raw": {
+  "searchParameters": {
+   "q": "Can ChatGPT generate subtitles?",
+   "gl": "us",
+   "hl": "en",
+   "type": "search",
+   "num": 10,
+   "engine": "google"
+  },
+  "organic": [
+   {
+    "title": "Does anyone know of an AI or ChatGPT tool to create ...",
+    "link": "https://www.reddit.com/r/ChatGPTPro/comments/12tu9rd/question_does_anyone_know_of_an_ai_or_chatgpt/",
+    "snippet": "It has to be free, and I need it to only create the SRT file with timestamps.\n\nI'm not looking for at tool that wants me to export the whole video ...",
+    "date": "3 years ago",
+    "position": 1
+   },
+   {
+    "title": "How to Generate SRT Captions for Your Video with ChatGPT",
+    "link": "https://www.youtube.com/watch?v=cGcCzHyV9Ho",
+    "snippet": "In this video I'll show you how to generate SRT captions for your videos using ChatGPT. Timestamps: Introduction: 0:00 Steps to Generate SRT ...",
+    "date": "2 years ago",
+    "position": 2
+   },
+   {
+    "title": "AI Subtitle Generator for Any Video (Not ChatGPT)",
+    "link": "https://perso.ai/blog/can-chatgpt-add-subtitles-to-videos-automatically",
+    "snippet": "ChatGPT cannot generate subtitles from video because it is a text-only AI with no audio or video processing capability. This guide covers what ...",
+    "date": "Jul 5, 2026",
+    "position": 3
+   },
+   {
+    "title": "How to Create ACCURATE Subtitles From Videos Using Only ...",
+    "link": "https://www.youtube.com/watch?v=4wnp6g2Lm0o",
+    "snippet": "In this video, I will show you how to turn any video into a caption or subtitle file using nothing but ChatGPT, even in a different language ...",
+    "date": "3 months ago",
+    "position": 4
+   },
+   {
+    "title": "how to generate subtitles from youtube videos with chatgpt?",
+    "link": "https://www.facebook.com/groups/698593531630485/posts/770980657725105/",
+    "snippet": "how to generate subtitles from youtube videos with chatgpt?",
+    "date": "3 years ago",
+    "position": 5
+   },
+   {
+    "title": "Using ChatGPT's AI to Create, Edit, and Translate Subtitles",
+    "link": "https://www.kapwing.com/resources/using-chatgpts-ai-to-create-edit-and-translate-subtitles/",
+    "snippet": "While ChatGPT can help you edit or convert existing subtitle files, it cannot process audio or video directly, meaning it can't generate ...",
+    "date": "Apr 4, 2025",
+    "position": 6
+   },
+   {
+    "title": "Subtitle Generator: Free Audio to Subtitles",
+    "link": "https://www.descript.com/tools/subtitles-generator",
+    "snippet": "Can I add captions from ChatGPT or Claude? Yes, with a Descript account. Connect the Descript MCP, then ask your assistant to caption a recording in your ...",
+    "position": 7
+   },
+   {
+    "title": "Automatically Generating Subtitles: Is it Possible? - API",
+    "link": "https://community.openai.com/t/automatically-generating-subtitles-is-it-possible/539059",
+    "snippet": "Currently you can: a. Send to whisper-1 and get transcription. b. Divide the text into sentences, get speech, find the the length ...",
+    "date": "Dec 2, 2023",
+    "position": 8
+   },
+   {
+    "title": "Auto subtitle generator online | Free in over 100 languages",
+    "link": "https://clipchamp.com/en/subtitle-generator/",
+    "snippet": "Create video subtitles in real-time and easily edit your videos for social media, work and gaming for free with Clipchamp. Download your subtitle transcript ...",
+    "position": 9
+   },
+   {
+    "title": "Get Free Subtitle Files In Minutes: Using YouTube And ChatGPT!",
+    "link": "https://www.youtube.com/watch?v=wgHGM_1B0IA",
+    "snippet": "Creating and using subtitle files is easier than you think and can be done in minutes. In this video, I will show you how YouTube and ChatGPT ...",
+    "date": "2 years ago",
+    "position": 10
+   }
+  ],
+  "peopleAlsoAsk": [
+   {
+    "question": "How to use ChatGPT for captions?"
+   },
+   {
+    "question": "Can ChatGPT add subtitles to video?"
+   },
+   {
+    "question": "Is there a way to auto-generate subtitles?"
+   },
+   {
+    "question": "How to generate AI subtitles for free?"
+   }
+  ],
+  "relatedSearches": [
+   {
+    "query": "Can chatgpt generate subtitles reddit"
+   },
+   {
+    "query": "AI subtitle generator"
+   },
+   {
+    "query": "Kapwing"
+   },
+   {
+    "query": "Loomz AI"
+   },
+   {
+    "query": "Descript"
+   },
+   {
+    "query": "Add subtitles to video"
+   },
+   {
+    "query": "Subtitle Edit"
+   },
+   {
+    "query": "Whisper AI"
+   }
+  ],
+  "credits": 1
+ }
+}
