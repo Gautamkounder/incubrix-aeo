@@ -722,3 +722,203 @@ For more information check: https://developer.mozilla.org/en-US/"
 2026-10-26,2026-10-25T13:25:19+00:00,D151,How many views do I need to make $1000 on YouTube Shorts?,google,SG,Singapore,1,ok,,False,,False,,False,,,,reddit.com|youtube.com|creaticalc.com|vidiq.com|quora.com|riverside.com|bluehost.com|youtube.com|tubebuddy.com|shopify.com,https://www.reddit.com/r/NewTubers/comments/1fuotmj/how_much_do_youtube_shorts_make/|https://www.youtube.com/shorts/uWDcip0Yll0|https://creaticalc.com/youtube-shorts-money-calculator|https://vidiq.com/blog/post/youtube-shorts-monetization/|https://www.quora.com/How-many-views-do-you-need-to-make-1000-a-month-on-YouTube|https://riverside.com/blog/youtube-shorts-monetization|https://www.bluehost.com/blog/how-much-do-youtube-shorts-make/|https://www.youtube.com/watch?v=a7Ni1cULwqE&vl=en|https://www.tubebuddy.com/blog/youtube-shorts-pay-1000000-views/|https://www.shopify.com/blog/youtube-shorts-monetization,,C:\Users\Gauta\OneDrive\Desktop\incubrix-aeo\data\raw\2026-10-26\google_SG_D151_r1.json,
 2026-10-26,2026-10-25T13:25:21+00:00,D151,How many views do I need to make $1000 on YouTube Shorts?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '429 Too Many Requests' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
 For more information check: https://developer.mozilla.org/en-US/"
+2026-10-26,2026-10-26T08:17:43+00:00,D004,What is the best editing tool for podcasts?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:43+00:00,D029,What is the best way to grow a podcast?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:44+00:00,D035,What is the best way to create a content calendar?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:45+00:00,D040,What is the best tool to record a podcast?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:45+00:00,D042,What are the best AI tools for content repurposing?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:46+00:00,D051,What is the best way to post to multiple social networks at once?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:47+00:00,D052,What is the best tool to manage multiple social media accounts?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:47+00:00,D059,What is a free alternative to OpusClip?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:48+00:00,D062,What is the best video editor for podcasts?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:48+00:00,D063,What is the best audio editor for podcasts?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:49+00:00,D068,What is the best social media content scheduler?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:50+00:00,D070,What is the best social media scheduler in 2026?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:50+00:00,D071,Which social media platform is best for content creators?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:51+00:00,D079,What's the best AI for clipping?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:51+00:00,D119,What is the best free podcast maker?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:52+00:00,D121,What is the best AI for YouTube Shorts?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:53+00:00,D136,What is a good alternative to Vizard?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:53+00:00,D139,What is the best audio editing software for podcasts?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:54+00:00,D141,Which app is best for podcast editing?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:54+00:00,D142,What is the best AI caption generator?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:55+00:00,D143,What is the best AI for social media captions?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:56+00:00,D145,What is the best free caption generator?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:56+00:00,D149,Which AI is the best for cloning voice?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:57+00:00,D001,How can I turn a podcast into a video?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:57+00:00,D005,Is there a way to automatically add captions to a video?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:58+00:00,D009,How do I edit an already existing video?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:59+00:00,D013,How do I upload one video to multiple platforms?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:17:59+00:00,D017,Is there a way to schedule posts on YouTube?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:00+00:00,D021,How do I make a clip of a podcast?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:00+00:00,D025,How to remove filler words?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:01+00:00,D030,Is 10 minutes too short for a podcast?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:02+00:00,D031,How to find videos that are going viral?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:02+00:00,D036,What should a content calendar contain?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:03+00:00,D039,How can I clip a podcast?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:03+00:00,D043,Is there an AI that can edit an existing video?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:04+00:00,D046,How do I add captions to an existing video?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:05+00:00,D050,What app can I use to post to all social media platforms?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:05+00:00,D054,Is OpusClip better than Descript?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:06+00:00,D058,Is there something better than Opus clips?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:06+00:00,D061,What software do most podcasters use?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:07+00:00,D064,Is Buffer as good as Hootsuite?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:08+00:00,D069,What is the 50/30/20 rule for social media?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:08+00:00,D072,How can I generate a voiceover using AI?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:09+00:00,D076,How much does an AI video maker cost?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:09+00:00,D080,Can you clip YouTube videos for TikTok?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:10+00:00,D084,Are webinars still effective in 2026?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:11+00:00,D088,Can ChatGpt transcribe a podcast?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:11+00:00,D092,How to get subtitles in Instagram reels?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:12+00:00,D096,How do I turn a blog post into a video?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:12+00:00,D100,How to make Shorts from a long form video?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:13+00:00,D104,Can you cross-post from LinkedIn to Instagram?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:14+00:00,D108,How to bulk create social media content?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:14+00:00,D111,How to write captions for videos?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:15+00:00,D115,How to create a podcast trailer?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:15+00:00,D118,Which podcast clip generator is the best?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:16+00:00,D122,Can I use AI in YouTube Shorts?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:16+00:00,D125,What do podcasters use to edit videos?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:17+00:00,D129,Is riverside better than Descript?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:18+00:00,D133,How much is OpusClip per month?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:18+00:00,D137,Is Vizard worth it?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:19+00:00,D138,Is CapCut better than Descript?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:19+00:00,D144,Can ChatGPT generate subtitles?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:20+00:00,D146,Can I clone my own voice with AI?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:21+00:00,D150,Can you schedule YouTube Shorts videos?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:21+00:00,D002,Is there a free tool that can convert podcasts into short clips?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:22+00:00,D006,How can I automatically generate subtitles for a video?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:22+00:00,D010,Can I use transcript-based editing in CapCut?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:23+00:00,D014,How many views does a YouTube video need to make $1000?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:24+00:00,D018,Is it possible to schedule LinkedIn posts?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:24+00:00,D022,How to make a video clip in Instagram?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:25+00:00,D026,How can I remove filler words from a video?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:25+00:00,D032,How can I turn a long video into viral shorts?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:26+00:00,D037,Is there a free content calendar?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:27+00:00,D041,What are some good tools for editing podcasts?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:27+00:00,D044,What is the most popular AI video tool?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:28+00:00,D047,Can ChatGpt add subtitles to video?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:28+00:00,D053,What is the 70:20:10 rule for social media posts?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:29+00:00,D055,Is there anything better than OpusClip?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:29+00:00,D060,"Which is better, Nexus clips or Opus clips?",gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:30+00:00,D065,Is there anything better than Hootsuite?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:31+00:00,D073,Can I use AI to do a voiceover?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:31+00:00,D077,Is there a free AI clip maker?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:32+00:00,D081,How do I put a YouTube video in TikTok?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:32+00:00,D085,How much to charge for a 1 hour webinar?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:33+00:00,D089,How do I get a transcript of a podcast episode?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:34+00:00,D093,Does Instagram reel have auto subtitles?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:34+00:00,D097,What is the 80/20 rule in blogging?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:35+00:00,D101,How To create YouTube Shorts from a long video?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:35+00:00,D105,How can I post across all social media platforms at once?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:36+00:00,D109,What is the 5-3-1 rule for social media?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:37+00:00,D112,What are the rules for captioning?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:37+00:00,D116,How to start a podcast from episode 1?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:38+00:00,D120,Is there a free clip maker?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:38+00:00,D123,"How much money do 10,000 views on YouTube Shorts make?",gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:39+00:00,D126,What software do professional podcasters use?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:40+00:00,D130,What is better than Descript?,gemini,US,United States,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:40+00:00,D134,How much does Opus actually cost?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:41+00:00,D140,Why are people leaving CapCut?,gemini,GB,United Kingdom,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:41+00:00,D147,Can ChatGPT clone my voice?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
+2026-10-26,2026-10-26T08:18:42+00:00,D151,How many views do I need to make $1000 on YouTube Shorts?,gemini,SG,Singapore,1,error,,,,,,,,,,,,,,"HTTPStatusError: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/W"
