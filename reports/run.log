@@ -2511,3 +2511,609 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
 2026-10-26 08:18:43,061 INFO run finished {'done': 0, 'skipped_existing': 100, 'errors': 100}
 2026-10-26 08:18:43,277 INFO alerts: no significant visibility changes (threshold 5.0 pts)
+2026-11-02 10:19:00,313 INFO questions: 100, markets: per question
+2026-11-02 10:19:00,554 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:00,555 ERROR google US D004: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:01,055 WARNING provider perplexity skipped: PERPLEXITY_API_KEY not set
+2026-11-02 10:19:01,056 WARNING provider openai skipped: OPENAI_API_KEY not set
+2026-11-02 10:19:01,121 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:01,121 ERROR gemini US D004: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:01,622 WARNING provider anthropic skipped: ANTHROPIC_API_KEY not set
+2026-11-02 10:19:01,704 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:01,705 ERROR google US D029: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:02,254 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:02,255 ERROR gemini US D029: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:02,918 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:02,918 ERROR google US D035: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:03,465 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:03,465 ERROR gemini US D035: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:04,104 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:04,104 ERROR google US D040: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:04,650 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:04,650 ERROR gemini US D040: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:05,221 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:05,222 ERROR google US D042: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:05,766 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:05,766 ERROR gemini US D042: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:06,338 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:06,339 ERROR google US D051: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:06,883 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:06,888 ERROR gemini US D051: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:07,584 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:07,584 ERROR google GB D052: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:08,132 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:08,133 ERROR gemini GB D052: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:08,702 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:08,702 ERROR google GB D059: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:09,251 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:09,251 ERROR gemini GB D059: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:09,820 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:09,821 ERROR google SG D062: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:10,367 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:10,368 ERROR gemini SG D062: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:10,951 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:10,951 ERROR google SG D063: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:11,497 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:11,498 ERROR gemini SG D063: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:12,069 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:12,070 ERROR google US D068: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:12,617 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:12,617 ERROR gemini US D068: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:13,347 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:13,347 ERROR google US D070: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:13,905 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:13,905 ERROR gemini US D070: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:14,477 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:14,477 ERROR google US D071: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:15,022 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:15,022 ERROR gemini US D071: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:15,591 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:15,591 ERROR google US D079: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:16,142 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:16,142 ERROR gemini US D079: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:16,710 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:16,710 ERROR google US D119: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:17,257 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:17,258 ERROR gemini US D119: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:17,835 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:17,835 ERROR google US D121: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:18,380 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:18,380 ERROR gemini US D121: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:19,001 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:19,001 ERROR google GB D136: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:19,546 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:19,546 ERROR gemini GB D136: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:20,119 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:20,119 ERROR google GB D139: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:20,667 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:20,667 ERROR gemini GB D139: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:21,243 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:21,244 ERROR google SG D141: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:21,786 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:21,787 ERROR gemini SG D141: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:22,360 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:22,360 ERROR google SG D142: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:22,905 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:22,906 ERROR gemini SG D142: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:23,486 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:23,486 ERROR google US D143: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:24,032 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:24,032 ERROR gemini US D143: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:24,600 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:24,601 ERROR google US D145: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:25,146 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:25,146 ERROR gemini US D145: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:25,715 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:25,715 ERROR google US D149: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:26,264 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:26,264 ERROR gemini US D149: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:26,836 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:26,836 ERROR google US D001: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:27,380 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:27,381 ERROR gemini US D001: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:27,949 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:27,949 ERROR google US D005: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:28,496 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:28,497 ERROR gemini US D005: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:29,072 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:29,072 ERROR google US D009: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:29,617 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:29,618 ERROR gemini US D009: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:30,188 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:30,189 ERROR google GB D013: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:30,734 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:30,734 ERROR gemini GB D013: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:31,303 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:31,304 ERROR google GB D017: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:31,847 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:31,847 ERROR gemini GB D017: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:32,419 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:32,420 ERROR google SG D021: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:32,967 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:32,968 ERROR gemini SG D021: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:33,533 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:33,533 ERROR google SG D025: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:34,077 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:34,078 ERROR gemini SG D025: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:34,712 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:34,713 ERROR google US D030: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:35,255 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:35,256 ERROR gemini US D030: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:35,825 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:35,826 ERROR google US D031: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:36,375 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:36,376 ERROR gemini US D031: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:36,950 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:36,951 ERROR google US D036: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:37,501 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:37,502 ERROR gemini US D036: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:38,104 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:38,105 ERROR google US D039: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:38,652 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:38,652 ERROR gemini US D039: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:39,238 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:39,239 ERROR google US D043: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:39,784 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:39,785 ERROR gemini US D043: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:40,360 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:40,361 ERROR google US D046: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:40,906 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:40,907 ERROR gemini US D046: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:41,493 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:41,493 ERROR google GB D050: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:42,045 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:42,045 ERROR gemini GB D050: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:42,623 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:42,623 ERROR google GB D054: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:43,177 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:43,178 ERROR gemini GB D054: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:43,751 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:43,751 ERROR google SG D058: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:44,294 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:44,295 ERROR gemini SG D058: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:44,867 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:44,868 ERROR google SG D061: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:45,414 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:45,415 ERROR gemini SG D061: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:46,304 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:46,304 ERROR google US D064: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:46,847 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:46,848 ERROR gemini US D064: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:47,415 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:47,415 ERROR google US D069: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:47,961 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:47,961 ERROR gemini US D069: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:48,645 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:48,645 ERROR google US D072: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:49,191 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:49,191 ERROR gemini US D072: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:49,761 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:49,762 ERROR google US D076: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:50,325 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:50,326 ERROR gemini US D076: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:50,907 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:50,907 ERROR google US D080: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:51,452 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:51,452 ERROR gemini US D080: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:52,022 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:52,023 ERROR google US D084: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:52,569 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:52,569 ERROR gemini US D084: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:53,148 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:53,149 ERROR google GB D088: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:53,695 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:53,695 ERROR gemini GB D088: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:54,265 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:54,265 ERROR google GB D092: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:54,811 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:54,811 ERROR gemini GB D092: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:55,386 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:55,387 ERROR google SG D096: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:55,934 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:55,935 ERROR gemini SG D096: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:56,502 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:56,503 ERROR google SG D100: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:57,052 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:57,053 ERROR gemini SG D100: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:57,621 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:57,621 ERROR google US D104: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:58,172 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:58,172 ERROR gemini US D104: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:58,738 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:58,739 ERROR google US D108: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:19:59,282 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:19:59,282 ERROR gemini US D108: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:19:59,850 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:19:59,850 ERROR google US D111: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:00,397 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:00,398 ERROR gemini US D111: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:00,972 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:00,973 ERROR google US D115: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:01,518 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:01,519 ERROR gemini US D115: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:02,090 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:02,091 ERROR google US D118: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:02,641 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:02,641 ERROR gemini US D118: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:03,215 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:03,216 ERROR google US D122: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:03,763 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:03,763 ERROR gemini US D122: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:04,453 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:04,453 ERROR google GB D125: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:05,005 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:05,005 ERROR gemini GB D125: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:05,592 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:05,592 ERROR google GB D129: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:06,135 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:06,135 ERROR gemini GB D129: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:06,718 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:06,719 ERROR google SG D133: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:07,265 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:07,266 ERROR gemini SG D133: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:07,841 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:07,842 ERROR google SG D137: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:08,389 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:08,389 ERROR gemini SG D137: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:08,959 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:08,960 ERROR google US D138: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:09,504 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:09,504 ERROR gemini US D138: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:10,080 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:10,080 ERROR google US D144: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:10,623 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:10,623 ERROR gemini US D144: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:11,193 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:11,194 ERROR google US D146: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:11,739 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:11,739 ERROR gemini US D146: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:12,311 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:12,312 ERROR google US D150: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:12,867 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:12,868 ERROR gemini US D150: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:13,440 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:13,441 ERROR google US D002: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:13,986 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:13,987 ERROR gemini US D002: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:14,559 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:14,560 ERROR google US D006: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:15,106 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:15,106 ERROR gemini US D006: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:15,675 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:15,676 ERROR google GB D010: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:16,226 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:16,226 ERROR gemini GB D010: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:16,790 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:16,790 ERROR google GB D014: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:17,336 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:17,336 ERROR gemini GB D014: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:17,902 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:17,902 ERROR google SG D018: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:18,449 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:18,449 ERROR gemini SG D018: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:19,022 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:19,023 ERROR google SG D022: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:19,567 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:19,568 ERROR gemini SG D022: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:20,152 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:20,153 ERROR google US D026: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:20,700 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:20,700 ERROR gemini US D026: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:21,273 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:21,273 ERROR google US D032: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:21,819 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:21,819 ERROR gemini US D032: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:22,387 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:22,387 ERROR google US D037: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:22,932 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:22,933 ERROR gemini US D037: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:23,506 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:23,507 ERROR google US D041: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:24,050 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:24,050 ERROR gemini US D041: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:24,618 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:24,618 ERROR google US D044: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:25,164 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:25,165 ERROR gemini US D044: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:25,736 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:25,737 ERROR google US D047: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:26,279 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:26,279 ERROR gemini US D047: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:26,850 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:26,850 ERROR google GB D053: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:27,404 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:27,404 ERROR gemini GB D053: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:27,976 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:27,976 ERROR google GB D055: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:28,524 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:28,524 ERROR gemini GB D055: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:29,096 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:29,097 ERROR google SG D060: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:29,644 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:29,644 ERROR gemini SG D060: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:30,212 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:30,212 ERROR google SG D065: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:30,757 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:30,757 ERROR gemini SG D065: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:31,333 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:31,334 ERROR google US D073: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:31,878 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:31,879 ERROR gemini US D073: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:32,451 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:32,452 ERROR google US D077: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:32,993 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:32,994 ERROR gemini US D077: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:33,570 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:33,570 ERROR google US D081: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:34,125 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:34,126 ERROR gemini US D081: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:34,702 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:34,702 ERROR google US D085: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:35,248 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:35,248 ERROR gemini US D085: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:35,821 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:35,821 ERROR google US D089: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:36,364 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:36,365 ERROR gemini US D089: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:37,093 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:37,094 ERROR google US D093: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:37,637 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:37,638 ERROR gemini US D093: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:38,212 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:38,213 ERROR google GB D097: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:38,758 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:38,758 ERROR gemini GB D097: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:39,337 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:39,337 ERROR google GB D101: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:39,886 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:39,887 ERROR gemini GB D101: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:40,471 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:40,472 ERROR google SG D105: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:41,018 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:41,018 ERROR gemini SG D105: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:41,583 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:41,583 ERROR google SG D109: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:42,134 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:42,134 ERROR gemini SG D109: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:42,707 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:42,707 ERROR google US D112: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:43,249 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:43,249 ERROR gemini US D112: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:43,817 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:43,817 ERROR google US D116: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:44,361 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:44,362 ERROR gemini US D116: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:44,934 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:44,935 ERROR google US D120: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:45,482 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:45,483 ERROR gemini US D120: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:46,056 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:46,056 ERROR google US D123: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:46,603 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:46,603 ERROR gemini US D123: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:47,174 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:47,174 ERROR google US D126: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:47,716 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:47,717 ERROR gemini US D126: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:48,295 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:48,296 ERROR google US D130: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:48,839 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:48,840 ERROR gemini US D130: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:49,417 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:49,418 ERROR google GB D134: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:49,963 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:49,964 ERROR gemini GB D134: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:50,545 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:50,545 ERROR google GB D140: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:51,087 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:51,087 ERROR gemini GB D140: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:51,656 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:51,657 ERROR google SG D147: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:52,202 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:52,203 ERROR gemini SG D147: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:52,777 INFO HTTP Request: POST https://google.serper.dev/search "HTTP/1.1 403 Forbidden"
+2026-11-02 10:20:52,777 ERROR google SG D151: Client error '403 Forbidden' for url 'https://google.serper.dev/search'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-02 10:20:53,322 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2026-11-02 10:20:53,323 ERROR gemini SG D151: Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2026-11-02 10:20:53,823 INFO run finished {'done': 0, 'skipped_existing': 0, 'errors': 200}
+2026-11-02 10:20:53,985 INFO alerts: no significant visibility changes (threshold 5.0 pts)
